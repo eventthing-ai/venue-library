@@ -1,0 +1,165 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://eventthings.ai/schema/batch3-sports-arts-retail-racing.schema.json",
+  "title": "EVENTTHING Venue Library — batch3-sports-arts-retail-popup-racing-20261029.csv",
+  "description": "One record of `data/batch3-sports-arts-retail-popup-racing-20261029.csv` (559 rows, 15 columns). Empty CSV cells are `null`; numbers are stored as CSV text and MUST be coerced before validation. Encoding: UTF-8 without BOM, LF. See `fields.md`.",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "group": {
+      "title": "group",
+      "x-unit": "—",
+      "description": "Batch group: `sports` / `arts` / `retail` / `popup` / `racing`.",
+      "type": [
+        "string",
+        "null"
+      ],
+      "enum": [
+        null
+      ]
+    },
+    "venue_id": {
+      "title": "venue_id",
+      "x-unit": "—",
+      "description": "Public venue ID. Primary key.",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "name_zh": {
+      "title": "name_zh",
+      "x-unit": "—",
+      "description": "Venue name in Chinese, as published.",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "city": {
+      "title": "city",
+      "x-unit": "—",
+      "description": "City in Chinese; blank on 1 row where the source gives none.",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "country": {
+      "title": "country",
+      "x-unit": "—",
+      "description": "Country or territory in Chinese, as recorded in the source.",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "address": {
+      "title": "address",
+      "x-unit": "—",
+      "description": "Street address as published; blank when the source publishes none (3 of 559 rows).",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "website": {
+      "title": "website",
+      "x-unit": "—",
+      "description": "Official site or contact page; blank when not published (68 of 559 rows).",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "area_text": {
+      "title": "area_text",
+      "x-unit": "—",
+      "description": "Area as published, free text with the source's own unit (e.g. `建筑面积 120,000㎡`, `赛道 5.451 km / 16 弯`); blank when not published.",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "capacity_text": {
+      "title": "capacity_text",
+      "x-unit": "—",
+      "description": "Capacity, grade or case count as published, free text (e.g. seats, FIA grade, pop-up case count); blank when not published.",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "open_year": {
+      "title": "open_year",
+      "x-unit": "—",
+      "description": "Opening year as published; may carry a parenthetical note (e.g. `2019（2019年8月开馆）`); blank when not published.",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "status": {
+      "title": "status",
+      "x-unit": "—",
+      "description": "`open` / `closed` / `renovating` / `under_construction` / `unknown`; see the status model in `fields.md`.",
+      "type": [
+        "string",
+        "null"
+      ],
+      "enum": [
+        null
+      ]
+    },
+    "status_note": {
+      "title": "status_note",
+      "x-unit": "—",
+      "description": "Short note behind `status`, in Chinese; blank on most rows (537 of 559).",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "intro_zh": {
+      "title": "intro_zh",
+      "x-unit": "—",
+      "description": "Chinese profile text; blank when the source has no usable text (70 of 559 rows).",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "intro_en": {
+      "title": "intro_en",
+      "x-unit": "—",
+      "description": "English profile text written from the source, not machine-translated; blank when none (70 of 559 rows).",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "source": {
+      "title": "source",
+      "x-unit": "—",
+      "description": "Where the profile came from (publisher and page type); blank when none (70 of 559 rows).",
+      "type": [
+        "string",
+        "null"
+      ]
+    }
+  },
+  "required": [
+    "group",
+    "venue_id",
+    "name_zh",
+    "city",
+    "country",
+    "status",
+    "source"
+  ],
+  "x-primary-key": "venue_id",
+  "x-release": "v1.0.1 (2026-10-29)",
+  "x-row-count": 559,
+  "x-column-count": 15,
+  "x-sha256": "a585f1bdecb4aebaf4f870fd0f0b9854e7a68e4baec31a9229978130e2d15024"
+}

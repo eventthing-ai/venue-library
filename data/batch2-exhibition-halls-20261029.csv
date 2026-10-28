@@ -1,0 +1,798 @@
+hall_uid,venue_id,venue_name,hall_id,hall_name,area_sqm,length_m,width_m,height_m,floor_load_t_sqm,pillar_free,source_url,note
+expo-851ee5f3:1.1,expo-851ee5f3,国家会展中心(上海),1.1,1.1号馆,30000,,,12,5,,https://www.neccsh.com/cecsh/exhibition/venue.jspx,一层大展厅
+expo-851ee5f3:2.1,expo-851ee5f3,国家会展中心(上海),2.1,2.1号馆,30000,,,12,5,,https://www.neccsh.com/cecsh/exhibition/venue.jspx,一层大展厅
+expo-851ee5f3:4.1,expo-851ee5f3,国家会展中心(上海),4.1,4.1号馆,30000,,,12,5,,https://www.neccsh.com/cecsh/exhibition/venue.jspx,一层大展厅
+expo-851ee5f3:3,expo-851ee5f3,国家会展中心(上海),3,3号馆,30000,,,32,5,是,https://www.neccsh.com/cecsh/exhibition/venue.jspx,"单层无柱展厅,全馆唯一 32m 净高"
+expo-851ee5f3:5.1,expo-851ee5f3,国家会展中心(上海),5.1,5.1号馆,30000,,,12,3.5,,https://www.neccsh.com/cecsh/exhibition/venue.jspx,一层大展厅(双层馆的一层)
+expo-851ee5f3:6.1,expo-851ee5f3,国家会展中心(上海),6.1,6.1号馆,30000,,,12,3.5,,https://www.neccsh.com/cecsh/exhibition/venue.jspx,一层大展厅(双层馆的一层)
+expo-851ee5f3:7.1,expo-851ee5f3,国家会展中心(上海),7.1,7.1号馆,30000,,,12,3.5,,https://www.neccsh.com/cecsh/exhibition/venue.jspx,一层大展厅(双层馆的一层)
+expo-851ee5f3:8.1,expo-851ee5f3,国家会展中心(上海),8.1,8.1号馆,30000,,,12,3.5,,https://www.neccsh.com/cecsh/exhibition/venue.jspx,一层大展厅(双层馆的一层)
+expo-851ee5f3:1.2,expo-851ee5f3,国家会展中心(上海),1.2,1.2号馆,30000,,,17,1.5,,https://www.neccsh.com/cecsh/exhibition/venue.jspx,二层大展厅
+expo-851ee5f3:2.2,expo-851ee5f3,国家会展中心(上海),2.2,2.2号馆,30000,,,17,1.5,,https://www.neccsh.com/cecsh/exhibition/venue.jspx,二层大展厅
+expo-851ee5f3:4.2,expo-851ee5f3,国家会展中心(上海),4.2,4.2号馆,30000,,,17,1.5,,https://www.neccsh.com/cecsh/exhibition/venue.jspx,二层大展厅
+expo-851ee5f3:5.2,expo-851ee5f3,国家会展中心(上海),5.2,5.2号馆,30000,,,17,1.5,,https://www.neccsh.com/cecsh/exhibition/venue.jspx,二层大展厅
+expo-851ee5f3:6.2,expo-851ee5f3,国家会展中心(上海),6.2,6.2号馆,30000,,,17,1.5,,https://www.neccsh.com/cecsh/exhibition/venue.jspx,二层大展厅
+expo-851ee5f3:7.2,expo-851ee5f3,国家会展中心(上海),7.2,7.2号馆,30000,,,17,1.5,,https://www.neccsh.com/cecsh/exhibition/venue.jspx,二层大展厅
+expo-851ee5f3:8.2,expo-851ee5f3,国家会展中心(上海),8.2,8.2号馆,30000,,,17,1.5,,https://www.neccsh.com/cecsh/exhibition/venue.jspx,二层大展厅
+expo-851ee5f3:NH,expo-851ee5f3,国家会展中心(上海),NH,北厅 NH,10000,,,,3.5,,https://www.neccsh.com/cecsh/exhibition/venue.jspx,"小展厅,一层北片"
+expo-851ee5f3:EH,expo-851ee5f3,国家会展中心(上海),EH,虹馆 EH,10000,,,,1.5,,https://www.neccsh.com/cecsh/exhibition/venue.jspx,"小展厅,二层;另有演艺馆虹馆近8000座"
+expo-4b662a32:1,expo-4b662a32,深圳国际会展中心,1,1号标准展厅,20000,210,108,16,5,是,https://www.shenzhen-world.com/overview/ex-facilities/index.html,单层无柱，全覆盖吊点（单点 700kg），29 条管沟
+expo-4b662a32:2,expo-4b662a32,深圳国际会展中心,2,2号标准展厅,20000,210,108,16,5,是,https://www.shenzhen-world.com/overview/ex-facilities/index.html,单层无柱，全覆盖吊点（单点 700kg），29 条管沟
+expo-4b662a32:3,expo-4b662a32,深圳国际会展中心,3,3号标准展厅,20000,210,108,16,5,是,https://www.shenzhen-world.com/overview/ex-facilities/index.html,单层无柱，全覆盖吊点（单点 700kg），29 条管沟
+expo-4b662a32:4,expo-4b662a32,深圳国际会展中心,4,4号标准展厅,20000,210,108,16,5,是,https://www.shenzhen-world.com/overview/ex-facilities/index.html,单层无柱，全覆盖吊点（单点 700kg），29 条管沟
+expo-4b662a32:5,expo-4b662a32,深圳国际会展中心,5,5号标准展厅,20000,210,108,16,5,是,https://www.shenzhen-world.com/overview/ex-facilities/index.html,单层无柱，全覆盖吊点（单点 700kg），29 条管沟
+expo-4b662a32:6,expo-4b662a32,深圳国际会展中心,6,6号标准展厅,20000,210,108,16,5,是,https://www.shenzhen-world.com/overview/ex-facilities/index.html,单层无柱，全覆盖吊点（单点 700kg），29 条管沟
+expo-4b662a32:7,expo-4b662a32,深圳国际会展中心,7,7号标准展厅,20000,210,108,16,5,是,https://www.shenzhen-world.com/overview/ex-facilities/index.html,单层无柱，全覆盖吊点（单点 700kg），29 条管沟
+expo-4b662a32:8,expo-4b662a32,深圳国际会展中心,8,8号标准展厅,20000,210,108,16,5,是,https://www.shenzhen-world.com/overview/ex-facilities/index.html,单层无柱，全覆盖吊点（单点 700kg），29 条管沟
+expo-4b662a32:9,expo-4b662a32,深圳国际会展中心,9,9号标准展厅,20000,210,108,16,5,是,https://www.shenzhen-world.com/overview/ex-facilities/index.html,单层无柱，全覆盖吊点（单点 700kg），29 条管沟
+expo-4b662a32:10,expo-4b662a32,深圳国际会展中心,10,10号标准展厅,20000,210,108,16,5,是,https://www.shenzhen-world.com/overview/ex-facilities/index.html,单层无柱，全覆盖吊点（单点 700kg），29 条管沟
+expo-4b662a32:11,expo-4b662a32,深圳国际会展中心,11,11号标准展厅,20000,210,108,16,5,是,https://www.shenzhen-world.com/overview/ex-facilities/index.html,单层无柱，全覆盖吊点（单点 700kg），29 条管沟
+expo-4b662a32:12,expo-4b662a32,深圳国际会展中心,12,12号标准展厅,20000,210,108,16,5,是,https://www.shenzhen-world.com/overview/ex-facilities/index.html,单层无柱，全覆盖吊点（单点 700kg），29 条管沟
+expo-4b662a32:13,expo-4b662a32,深圳国际会展中心,13,13号标准展厅,20000,210,108,16,5,是,https://www.shenzhen-world.com/overview/ex-facilities/index.html,单层无柱，全覆盖吊点（单点 700kg），29 条管沟
+expo-4b662a32:14,expo-4b662a32,深圳国际会展中心,14,14号标准展厅,20000,210,108,16,5,是,https://www.shenzhen-world.com/overview/ex-facilities/index.html,单层无柱，全覆盖吊点（单点 700kg），29 条管沟
+expo-4b662a32:15,expo-4b662a32,深圳国际会展中心,15,15号标准展厅,20000,210,108,16,5,是,https://www.shenzhen-world.com/overview/ex-facilities/index.html,单层无柱，全覆盖吊点（单点 700kg），29 条管沟
+expo-4b662a32:16,expo-4b662a32,深圳国际会展中心,16,16号标准展厅,20000,210,108,16,5,是,https://www.shenzhen-world.com/overview/ex-facilities/index.html,单层无柱，全覆盖吊点（单点 700kg），29 条管沟
+expo-4b662a32:17,expo-4b662a32,深圳国际会展中心,17,17号超大展厅,50000,210,249,18,5,否,https://www.shenzhen-world.com/overview/ex-facilities/index.html,中间 4 组立柱，48 条管沟
+expo-4b662a32:18,expo-4b662a32,深圳国际会展中心,18,18号会议中心,20000,,,16,,,https://www.shenzhen-world.com/overview/ex-facilities/index.html,三层；北宴会厅 6600㎡、南宴会厅 3300㎡、19 间会议室、国际报告厅 2200㎡
+expo-4b662a32:20,expo-4b662a32,深圳国际会展中心,20,20号活动中心,20000,160,67.5,16,5,,https://www.shenzhen-world.com/overview/ex-facilities/index.html,"中央场地 13,000㎡；12,578 座；口径：面积=厅的空间面积，长宽=厅内可用面积（两者不互推；差值为墙柱、设备间、后台、走道，属正常）；height_m 原记 23（疑为建筑高度），官网净高 16m（吊挂高度 16m），本次改为 16"
+expo-4b662a32:南广场,expo-4b662a32,深圳国际会展中心,南广场,南广场（室外）,35000,,,,,,https://www.shenzhen-world.com/overview/ex-facilities/index.html,室外展场
+expo-7b866126:1,expo-7b866126,上海世博展览馆,1,1号展馆,25000,185.2,125,14.7,3.5,是,https://baike.baidu.com/item/上海世博展览馆/4704785,无柱大跨度，最大搭建高 12m
+expo-7b866126:2,expo-7b866126,上海世博展览馆,2,2号展馆,17000,185.2,90,9,2.0,否,https://baike.baidu.com/item/上海世博展览馆/4704785,45 根柱，柱间距 8m
+expo-7b866126:3,expo-7b866126,上海世博展览馆,3,3号展馆,17000,185.2,90,9,1.5,否,https://baike.baidu.com/item/上海世博展览馆/4704785,9 根柱，柱间距 18m
+expo-7b866126:4,expo-7b866126,上海世博展览馆,4,4号展馆,12000,126.5,90,5.4,2.0,否,https://baike.baidu.com/item/上海世博展览馆/4704785,30 根柱，柱间距 18m
+expo-7b866126:5,expo-7b866126,上海世博展览馆,5,5号展馆,10000,,,3.5,,,https://baike.baidu.com/item/上海世博展览馆/4704785,已改为美食广场，不作展览
+expo-df1adab4:A-1,expo-df1adab4,广交会展馆,A-1,A区1号馆,,,,13,5,,https://www.ciefc.com/zb/zgss/,首层 5t/㎡；A区首层净高 13m
+expo-df1adab4:A-2,expo-df1adab4,广交会展馆,A-2,A区2号馆,,,,13,5,,https://www.ciefc.com/zb/zgss/,首层 5t/㎡；A区首层净高 13m
+expo-df1adab4:A-3,expo-df1adab4,广交会展馆,A-3,A区3号馆,,,,13,5,,https://www.ciefc.com/zb/zgss/,首层 5t/㎡；A区首层净高 13m
+expo-df1adab4:A-4,expo-df1adab4,广交会展馆,A-4,A区4号馆,,,,13,5,,https://www.ciefc.com/zb/zgss/,首层 5t/㎡；A区首层净高 13m
+expo-df1adab4:A-5,expo-df1adab4,广交会展馆,A-5,A区5号馆,,,,13,5,,https://www.ciefc.com/zb/zgss/,首层 5t/㎡；A区首层净高 13m
+expo-df1adab4:A-6,expo-df1adab4,广交会展馆,A-6,A区6号馆,,,,11.65,5,,https://www.ciefc.com/zb/zgss/,首层 5t/㎡；A区首层净高 13m；height_m 原值：区间 11.65–15.16（本次规范化取下限）
+expo-df1adab4:A-7,expo-df1adab4,广交会展馆,A-7,A区7号馆,,,,11.65,5,,https://www.ciefc.com/zb/zgss/,首层 5t/㎡；A区首层净高 13m；height_m 原值：区间 11.65–15.16（本次规范化取下限）
+expo-df1adab4:A-8,expo-df1adab4,广交会展馆,A-8,A区8号馆,,,,11.65,5,,https://www.ciefc.com/zb/zgss/,首层 5t/㎡；A区首层净高 13m；height_m 原值：区间 11.65–15.16（本次规范化取下限）
+expo-df1adab4:B-9,expo-df1adab4,广交会展馆,B-9,B区9号馆,,,,9,5,,https://www.ciefc.com/zb/zgss/,首层 5t/㎡；二层以上 1.5t/㎡
+expo-df1adab4:B-10,expo-df1adab4,广交会展馆,B-10,B区10号馆,,,,9,5,,https://www.ciefc.com/zb/zgss/,首层 5t/㎡；二层以上 1.5t/㎡
+expo-df1adab4:B-11,expo-df1adab4,广交会展馆,B-11,B区11号馆,,,,9,5,,https://www.ciefc.com/zb/zgss/,首层 5t/㎡；二层以上 1.5t/㎡
+expo-df1adab4:B-12,expo-df1adab4,广交会展馆,B-12,B区12号馆,,,,9,5,,https://www.ciefc.com/zb/zgss/,首层 5t/㎡；二层以上 1.5t/㎡
+expo-df1adab4:B-13,expo-df1adab4,广交会展馆,B-13,B区13号馆,,,,9,5,,https://www.ciefc.com/zb/zgss/,首层 5t/㎡；二层以上 1.5t/㎡
+expo-df1adab4:C-14,expo-df1adab4,广交会展馆,C-14,C区14号馆,,,,,5,,https://www.ciefc.com/zb/zgss/,首层 5t/㎡；二至四层 1t/㎡
+expo-df1adab4:C-15,expo-df1adab4,广交会展馆,C-15,C区15号馆,,,,,5,,https://www.ciefc.com/zb/zgss/,首层 5t/㎡；二至四层 1t/㎡
+expo-df1adab4:C-16,expo-df1adab4,广交会展馆,C-16,C区16号馆,,,,,5,,https://www.ciefc.com/zb/zgss/,首层 5t/㎡；二至四层 1t/㎡
+expo-df1adab4:D-17,expo-df1adab4,广交会展馆,D-17,D区17号馆,,,,,5,,https://www.ciefc.com/zb/zgss/,首层 5t/㎡；二层 2t/㎡
+expo-df1adab4:D-18,expo-df1adab4,广交会展馆,D-18,D区18号馆,,,,,5,,https://www.ciefc.com/zb/zgss/,首层 5t/㎡；二层 2t/㎡
+expo-df1adab4:D-19,expo-df1adab4,广交会展馆,D-19,D区19号馆,,,,,5,,https://www.ciefc.com/zb/zgss/,首层 5t/㎡；二层 2t/㎡
+expo-df1adab4:D-20,expo-df1adab4,广交会展馆,D-20,D区20号馆,,,,,5,,https://www.ciefc.com/zb/zgss/,首层 5t/㎡；二层 2t/㎡
+expo-052f4059:1,expo-052f4059,南京国际博览中心,1,1号展馆,12000,162,72,14,,是,https://newtown.nanjing.gov.cn/xcyx/pzxc/wtpt/201703/t20170321_2110463.html,单层无柱；建筑面积 2.1 万㎡、净展 1.2 万㎡；1、2 号馆下设地下停车场；height_m 原值：区间 14–22（本次规范化取下限）
+expo-052f4059:2,expo-052f4059,南京国际博览中心,2,2号展馆,12000,162,72,14,,是,https://newtown.nanjing.gov.cn/xcyx/pzxc/wtpt/201703/t20170321_2110463.html,单层无柱；建筑面积 2.1 万㎡、净展 1.2 万㎡；1、2 号馆下设地下停车场；height_m 原值：区间 14–22（本次规范化取下限）
+expo-052f4059:3,expo-052f4059,南京国际博览中心,3,3号展馆,12000,162,72,14,,是,https://newtown.nanjing.gov.cn/xcyx/pzxc/wtpt/201703/t20170321_2110463.html,单层无柱；建筑面积 2.1 万㎡、净展 1.2 万㎡；1、2 号馆下设地下停车场；height_m 原值：区间 14–22（本次规范化取下限）
+expo-052f4059:4,expo-052f4059,南京国际博览中心,4,4号展馆,12000,162,72,14,,是,https://newtown.nanjing.gov.cn/xcyx/pzxc/wtpt/201703/t20170321_2110463.html,单层无柱；建筑面积 2.1 万㎡、净展 1.2 万㎡；1、2 号馆下设地下停车场；height_m 原值：区间 14–22（本次规范化取下限）
+expo-052f4059:5,expo-052f4059,南京国际博览中心,5,5号展馆,12000,162,72,14,,是,https://newtown.nanjing.gov.cn/xcyx/pzxc/wtpt/201703/t20170321_2110463.html,单层无柱；建筑面积 2.1 万㎡、净展 1.2 万㎡；1、2 号馆下设地下停车场；height_m 原值：区间 14–22（本次规范化取下限）
+expo-052f4059:6,expo-052f4059,南京国际博览中心,6,6号展馆,12000,162,72,14,,是,https://newtown.nanjing.gov.cn/xcyx/pzxc/wtpt/201703/t20170321_2110463.html,单层无柱；建筑面积 2.1 万㎡、净展 1.2 万㎡；1、2 号馆下设地下停车场；height_m 原值：区间 14–22（本次规范化取下限）
+expo-052f4059:7,expo-052f4059,南京国际博览中心,7,7号展馆,12000,162,72,14,,是,https://newtown.nanjing.gov.cn/xcyx/pzxc/wtpt/201703/t20170321_2110463.html,单层无柱；建筑面积 2.1 万㎡、净展 1.2 万㎡；1、2 号馆下设地下停车场；height_m 原值：区间 14–22（本次规范化取下限）
+expo-052f4059:8,expo-052f4059,南京国际博览中心,8,8号展馆,12000,162,72,14,,是,https://newtown.nanjing.gov.cn/xcyx/pzxc/wtpt/201703/t20170321_2110463.html,单层无柱；建筑面积 2.1 万㎡、净展 1.2 万㎡；1、2 号馆下设地下停车场；height_m 原值：区间 14–22（本次规范化取下限）
+expo-052f4059:9,expo-052f4059,南京国际博览中心,9,路上展馆（综合厅）,8300,,,,,,https://newtown.nanjing.gov.cn/xcyx/pzxc/wtpt/201703/t20170321_2110463.html,"两层；二层约 8,300㎡ 可分割 3-4 区兼作会议展览"
+expo-5af3987a:1F,expo-5af3987a,杭州国际博览中心,1F,1楼展厅,7700,,,,,,https://www.hiechangzhou.com/index.php/expo/data/id/3.html,一层
+expo-5af3987a:3B,expo-5af3987a,杭州国际博览中心,3B,3B 展厅,8300,,,,,,https://www.hiechangzhou.com/index.php/expo/data/id/7.html,三层
+expo-5af3987a:3C,expo-5af3987a,杭州国际博览中心,3C,3C 展厅,8300,,,,,,https://www.hiechangzhou.com/index.php/expo/data/id/7.html,三层
+expo-5af3987a:3D,expo-5af3987a,杭州国际博览中心,3D,3D 展厅,8300,,,,,,https://www.hiechangzhou.com/index.php/expo/data/id/7.html,三层
+expo-5af3987a:4C,expo-5af3987a,杭州国际博览中心,4C,4C 展厅,9000,,,,,,https://www.hiechangzhou.com/index.php/expo/data/id/4.html,四层
+expo-d3afb26b:1,expo-d3afb26b,国家会展中心（天津）,1,1号展厅,12500,150,80,16,5,,https://www.haozhanhui.com/place/place_detail_1494.html,单层无柱大跨度；吊点 200kg；相邻展厅可组合；length_m 原值：原记 150+（不少于）（本次规范化取下限）；width_m 原值：原记 80+（不少于）（本次规范化取下限）；floor_load_t_sqm 原值：原记 5 或 8（本次规范化取下限）
+expo-d3afb26b:2,expo-d3afb26b,国家会展中心（天津）,2,2号展厅,12500,150,80,16,5,,https://www.haozhanhui.com/place/place_detail_1494.html,单层无柱大跨度；吊点 200kg；相邻展厅可组合；length_m 原值：原记 150+（不少于）（本次规范化取下限）；width_m 原值：原记 80+（不少于）（本次规范化取下限）；floor_load_t_sqm 原值：原记 5 或 8（本次规范化取下限）
+expo-d3afb26b:3,expo-d3afb26b,国家会展中心（天津）,3,3号展厅,12500,150,80,16,5,,https://www.haozhanhui.com/place/place_detail_1494.html,单层无柱大跨度；吊点 200kg；相邻展厅可组合；length_m 原值：原记 150+（不少于）（本次规范化取下限）；width_m 原值：原记 80+（不少于）（本次规范化取下限）；floor_load_t_sqm 原值：原记 5 或 8（本次规范化取下限）
+expo-d3afb26b:4,expo-d3afb26b,国家会展中心（天津）,4,4号展厅,12500,150,80,16,5,,https://www.haozhanhui.com/place/place_detail_1494.html,单层无柱大跨度；吊点 200kg；相邻展厅可组合；length_m 原值：原记 150+（不少于）（本次规范化取下限）；width_m 原值：原记 80+（不少于）（本次规范化取下限）；floor_load_t_sqm 原值：原记 5 或 8（本次规范化取下限）
+expo-d3afb26b:5,expo-d3afb26b,国家会展中心（天津）,5,5号展厅,12500,150,80,16,5,,https://www.haozhanhui.com/place/place_detail_1494.html,单层无柱大跨度；吊点 200kg；相邻展厅可组合；length_m 原值：原记 150+（不少于）（本次规范化取下限）；width_m 原值：原记 80+（不少于）（本次规范化取下限）；floor_load_t_sqm 原值：原记 5 或 8（本次规范化取下限）
+expo-d3afb26b:6,expo-d3afb26b,国家会展中心（天津）,6,6号展厅,12500,150,80,16,5,,https://www.haozhanhui.com/place/place_detail_1494.html,单层无柱大跨度；吊点 200kg；相邻展厅可组合；length_m 原值：原记 150+（不少于）（本次规范化取下限）；width_m 原值：原记 80+（不少于）（本次规范化取下限）；floor_load_t_sqm 原值：原记 5 或 8（本次规范化取下限）
+expo-d3afb26b:7,expo-d3afb26b,国家会展中心（天津）,7,7号展厅,12500,150,80,16,5,,https://www.haozhanhui.com/place/place_detail_1494.html,单层无柱大跨度；吊点 200kg；相邻展厅可组合；length_m 原值：原记 150+（不少于）（本次规范化取下限）；width_m 原值：原记 80+（不少于）（本次规范化取下限）；floor_load_t_sqm 原值：原记 5 或 8（本次规范化取下限）
+expo-d3afb26b:8,expo-d3afb26b,国家会展中心（天津）,8,8号展厅,12500,150,80,16,5,,https://www.haozhanhui.com/place/place_detail_1494.html,单层无柱大跨度；吊点 200kg；相邻展厅可组合；length_m 原值：原记 150+（不少于）（本次规范化取下限）；width_m 原值：原记 80+（不少于）（本次规范化取下限）；floor_load_t_sqm 原值：原记 5 或 8（本次规范化取下限）
+expo-d3afb26b:9,expo-d3afb26b,国家会展中心（天津）,9,9号展厅,12500,150,80,16,5,,https://www.haozhanhui.com/place/place_detail_1494.html,单层无柱大跨度；吊点 200kg；相邻展厅可组合；length_m 原值：原记 150+（不少于）（本次规范化取下限）；width_m 原值：原记 80+（不少于）（本次规范化取下限）；floor_load_t_sqm 原值：原记 5 或 8（本次规范化取下限）
+expo-d3afb26b:10,expo-d3afb26b,国家会展中心（天津）,10,10号展厅,12500,150,80,16,5,,https://www.haozhanhui.com/place/place_detail_1494.html,单层无柱大跨度；吊点 200kg；相邻展厅可组合；length_m 原值：原记 150+（不少于）（本次规范化取下限）；width_m 原值：原记 80+（不少于）（本次规范化取下限）；floor_load_t_sqm 原值：原记 5 或 8（本次规范化取下限）
+expo-d3afb26b:11,expo-d3afb26b,国家会展中心（天津）,11,11号展厅,12500,150,80,16,5,,https://www.haozhanhui.com/place/place_detail_1494.html,单层无柱大跨度；吊点 200kg；相邻展厅可组合；length_m 原值：原记 150+（不少于）（本次规范化取下限）；width_m 原值：原记 80+（不少于）（本次规范化取下限）；floor_load_t_sqm 原值：原记 5 或 8（本次规范化取下限）
+expo-d3afb26b:12,expo-d3afb26b,国家会展中心（天津）,12,12号展厅,12500,150,80,16,5,,https://www.haozhanhui.com/place/place_detail_1494.html,单层无柱大跨度；吊点 200kg；相邻展厅可组合；length_m 原值：原记 150+（不少于）（本次规范化取下限）；width_m 原值：原记 80+（不少于）（本次规范化取下限）；floor_load_t_sqm 原值：原记 5 或 8（本次规范化取下限）
+expo-d3afb26b:13,expo-d3afb26b,国家会展中心（天津）,13,13号展厅,12500,150,80,16,5,,https://www.haozhanhui.com/place/place_detail_1494.html,单层无柱大跨度；吊点 200kg；相邻展厅可组合；length_m 原值：原记 150+（不少于）（本次规范化取下限）；width_m 原值：原记 80+（不少于）（本次规范化取下限）；floor_load_t_sqm 原值：原记 5 或 8（本次规范化取下限）
+expo-d3afb26b:14,expo-d3afb26b,国家会展中心（天津）,14,14号展厅,12500,150,80,16,5,,https://www.haozhanhui.com/place/place_detail_1494.html,单层无柱大跨度；吊点 200kg；相邻展厅可组合；length_m 原值：原记 150+（不少于）（本次规范化取下限）；width_m 原值：原记 80+（不少于）（本次规范化取下限）；floor_load_t_sqm 原值：原记 5 或 8（本次规范化取下限）
+expo-d3afb26b:15,expo-d3afb26b,国家会展中心（天津）,15,15号展厅,12500,150,80,16,5,,https://www.haozhanhui.com/place/place_detail_1494.html,单层无柱大跨度；吊点 200kg；相邻展厅可组合；length_m 原值：原记 150+（不少于）（本次规范化取下限）；width_m 原值：原记 80+（不少于）（本次规范化取下限）；floor_load_t_sqm 原值：原记 5 或 8（本次规范化取下限）
+expo-d3afb26b:16,expo-d3afb26b,国家会展中心（天津）,16,16号展厅,12500,150,80,16,5,,https://www.haozhanhui.com/place/place_detail_1494.html,单层无柱大跨度；吊点 200kg；相邻展厅可组合；length_m 原值：原记 150+（不少于）（本次规范化取下限）；width_m 原值：原记 80+（不少于）（本次规范化取下限）；floor_load_t_sqm 原值：原记 5 或 8（本次规范化取下限）
+expo-d3afb26b:17,expo-d3afb26b,国家会展中心（天津）,17,17号展厅,12500,150,80,16,5,,https://www.haozhanhui.com/place/place_detail_1494.html,单层无柱大跨度；吊点 200kg；相邻展厅可组合；length_m 原值：原记 150+（不少于）（本次规范化取下限）；width_m 原值：原记 80+（不少于）（本次规范化取下限）；floor_load_t_sqm 原值：原记 5 或 8（本次规范化取下限）
+expo-d3afb26b:18,expo-d3afb26b,国家会展中心（天津）,18,18号展厅,12500,150,80,16,5,,https://www.haozhanhui.com/place/place_detail_1494.html,单层无柱大跨度；吊点 200kg；相邻展厅可组合；length_m 原值：原记 150+（不少于）（本次规范化取下限）；width_m 原值：原记 80+（不少于）（本次规范化取下限）；floor_load_t_sqm 原值：原记 5 或 8（本次规范化取下限）
+expo-d3afb26b:19,expo-d3afb26b,国家会展中心（天津）,19,19号展厅,12500,150,80,16,5,,https://www.haozhanhui.com/place/place_detail_1494.html,单层无柱大跨度；吊点 200kg；相邻展厅可组合；length_m 原值：原记 150+（不少于）（本次规范化取下限）；width_m 原值：原记 80+（不少于）（本次规范化取下限）；floor_load_t_sqm 原值：原记 5 或 8（本次规范化取下限）
+expo-d3afb26b:20,expo-d3afb26b,国家会展中心（天津）,20,20号展厅,12500,150,80,16,5,,https://www.haozhanhui.com/place/place_detail_1494.html,单层无柱大跨度；吊点 200kg；相邻展厅可组合；length_m 原值：原记 150+（不少于）（本次规范化取下限）；width_m 原值：原记 80+（不少于）（本次规范化取下限）；floor_load_t_sqm 原值：原记 5 或 8（本次规范化取下限）
+expo-d3afb26b:21,expo-d3afb26b,国家会展中心（天津）,21,21号展厅,12500,150,80,16,5,,https://www.haozhanhui.com/place/place_detail_1494.html,单层无柱大跨度；吊点 200kg；相邻展厅可组合；length_m 原值：原记 150+（不少于）（本次规范化取下限）；width_m 原值：原记 80+（不少于）（本次规范化取下限）；floor_load_t_sqm 原值：原记 5 或 8（本次规范化取下限）
+expo-d3afb26b:22,expo-d3afb26b,国家会展中心（天津）,22,22号展厅,12500,150,80,16,5,,https://www.haozhanhui.com/place/place_detail_1494.html,单层无柱大跨度；吊点 200kg；相邻展厅可组合；length_m 原值：原记 150+（不少于）（本次规范化取下限）；width_m 原值：原记 80+（不少于）（本次规范化取下限）；floor_load_t_sqm 原值：原记 5 或 8（本次规范化取下限）
+expo-d3afb26b:23,expo-d3afb26b,国家会展中心（天津）,23,23号展厅,12500,150,80,16,5,,https://www.haozhanhui.com/place/place_detail_1494.html,单层无柱大跨度；吊点 200kg；相邻展厅可组合；length_m 原值：原记 150+（不少于）（本次规范化取下限）；width_m 原值：原记 80+（不少于）（本次规范化取下限）；floor_load_t_sqm 原值：原记 5 或 8（本次规范化取下限）
+expo-d3afb26b:24,expo-d3afb26b,国家会展中心（天津）,24,24号展厅,12500,150,80,16,5,,https://www.haozhanhui.com/place/place_detail_1494.html,单层无柱大跨度；吊点 200kg；相邻展厅可组合；length_m 原值：原记 150+（不少于）（本次规范化取下限）；width_m 原值：原记 80+（不少于）（本次规范化取下限）；floor_load_t_sqm 原值：原记 5 或 8（本次规范化取下限）
+expo-d3afb26b:25,expo-d3afb26b,国家会展中心（天津）,25,25号展厅,12500,150,80,16,5,,https://www.haozhanhui.com/place/place_detail_1494.html,单层无柱大跨度；吊点 200kg；相邻展厅可组合；length_m 原值：原记 150+（不少于）（本次规范化取下限）；width_m 原值：原记 80+（不少于）（本次规范化取下限）；floor_load_t_sqm 原值：原记 5 或 8（本次规范化取下限）
+expo-d3afb26b:26,expo-d3afb26b,国家会展中心（天津）,26,26号展厅,12500,150,80,16,5,,https://www.haozhanhui.com/place/place_detail_1494.html,单层无柱大跨度；吊点 200kg；相邻展厅可组合；length_m 原值：原记 150+（不少于）（本次规范化取下限）；width_m 原值：原记 80+（不少于）（本次规范化取下限）；floor_load_t_sqm 原值：原记 5 或 8（本次规范化取下限）
+expo-d3afb26b:27,expo-d3afb26b,国家会展中心（天津）,27,27号展厅,12500,150,80,16,5,,https://www.haozhanhui.com/place/place_detail_1494.html,单层无柱大跨度；吊点 200kg；相邻展厅可组合；length_m 原值：原记 150+（不少于）（本次规范化取下限）；width_m 原值：原记 80+（不少于）（本次规范化取下限）；floor_load_t_sqm 原值：原记 5 或 8（本次规范化取下限）
+expo-d3afb26b:28,expo-d3afb26b,国家会展中心（天津）,28,28号展厅,12500,150,80,16,5,,https://www.haozhanhui.com/place/place_detail_1494.html,单层无柱大跨度；吊点 200kg；相邻展厅可组合；length_m 原值：原记 150+（不少于）（本次规范化取下限）；width_m 原值：原记 80+（不少于）（本次规范化取下限）；floor_load_t_sqm 原值：原记 5 或 8（本次规范化取下限）
+expo-d3afb26b:29,expo-d3afb26b,国家会展中心（天津）,29,29号展厅,12500,150,80,16,5,,https://www.haozhanhui.com/place/place_detail_1494.html,单层无柱大跨度；吊点 200kg；相邻展厅可组合；length_m 原值：原记 150+（不少于）（本次规范化取下限）；width_m 原值：原记 80+（不少于）（本次规范化取下限）；floor_load_t_sqm 原值：原记 5 或 8（本次规范化取下限）
+expo-d3afb26b:30,expo-d3afb26b,国家会展中心（天津）,30,30号展厅,12500,150,80,16,5,,https://www.haozhanhui.com/place/place_detail_1494.html,单层无柱大跨度；吊点 200kg；相邻展厅可组合；length_m 原值：原记 150+（不少于）（本次规范化取下限）；width_m 原值：原记 80+（不少于）（本次规范化取下限）；floor_load_t_sqm 原值：原记 5 或 8（本次规范化取下限）
+expo-d3afb26b:31,expo-d3afb26b,国家会展中心（天津）,31,31号展厅,12500,150,80,16,5,,https://www.haozhanhui.com/place/place_detail_1494.html,单层无柱大跨度；吊点 200kg；相邻展厅可组合；length_m 原值：原记 150+（不少于）（本次规范化取下限）；width_m 原值：原记 80+（不少于）（本次规范化取下限）；floor_load_t_sqm 原值：原记 5 或 8（本次规范化取下限）
+expo-d3afb26b:32,expo-d3afb26b,国家会展中心（天津）,32,32号展厅,12500,150,80,16,5,,https://www.haozhanhui.com/place/place_detail_1494.html,单层无柱大跨度；吊点 200kg；相邻展厅可组合；length_m 原值：原记 150+（不少于）（本次规范化取下限）；width_m 原值：原记 80+（不少于）（本次规范化取下限）；floor_load_t_sqm 原值：原记 5 或 8（本次规范化取下限）
+expo-ebf427fe:W1,expo-ebf427fe,上海新国际博览中心,W1,1号展厅,11547,185,70,11,3,是,https://www.sniec.net/cn/organize_facilities.php,单层无柱；8 扇门 5.3×4.1m；全馆 51 间会议室；height_m 原值：区间 11–17（本次规范化取下限）
+expo-ebf427fe:W2,expo-ebf427fe,上海新国际博览中心,W2,2号展厅,11547,185,70,11,3,是,https://www.sniec.net/cn/organize_facilities.php,单层无柱；8 扇门 5.3×4.1m；全馆 51 间会议室；height_m 原值：区间 11–17（本次规范化取下限）
+expo-ebf427fe:W3,expo-ebf427fe,上海新国际博览中心,W3,3号展厅,11547,185,70,11,3,是,https://www.sniec.net/cn/organize_facilities.php,单层无柱；8 扇门 5.3×4.1m；全馆 51 间会议室；height_m 原值：区间 11–17（本次规范化取下限）
+expo-ebf427fe:W4,expo-ebf427fe,上海新国际博览中心,W4,4号展厅,11547,185,70,11,3,是,https://www.sniec.net/cn/organize_facilities.php,单层无柱；8 扇门 5.3×4.1m；全馆 51 间会议室；height_m 原值：区间 11–17（本次规范化取下限）
+expo-ebf427fe:W5,expo-ebf427fe,上海新国际博览中心,W5,5号展厅,11547,185,70,11,3,是,https://www.sniec.net/cn/organize_facilities.php,单层无柱；8 扇门 5.3×4.1m；全馆 51 间会议室；height_m 原值：区间 11–17（本次规范化取下限）
+expo-ebf427fe:W6,expo-ebf427fe,上海新国际博览中心,W6,6号展厅,11547,185,70,11,3,是,https://www.sniec.net/cn/organize_facilities.php,单层无柱；8 扇门 5.3×4.1m；全馆 51 间会议室；height_m 原值：区间 11–17（本次规范化取下限）
+expo-ebf427fe:W7,expo-ebf427fe,上海新国际博览中心,W7,7号展厅,11547,185,70,11,3,是,https://www.sniec.net/cn/organize_facilities.php,单层无柱；8 扇门 5.3×4.1m；全馆 51 间会议室；height_m 原值：区间 11–17（本次规范化取下限）
+expo-ebf427fe:W8,expo-ebf427fe,上海新国际博览中心,W8,8号展厅,11547,185,70,11,3,是,https://www.sniec.net/cn/organize_facilities.php,单层无柱；8 扇门 5.3×4.1m；全馆 51 间会议室；height_m 原值：区间 11–17（本次规范化取下限）
+expo-ebf427fe:W9,expo-ebf427fe,上海新国际博览中心,W9,9号展厅,11547,185,70,11,3,是,https://www.sniec.net/cn/organize_facilities.php,单层无柱；8 扇门 5.3×4.1m；全馆 51 间会议室；height_m 原值：区间 11–17（本次规范化取下限）
+expo-ebf427fe:W10,expo-ebf427fe,上海新国际博览中心,W10,10号展厅,11547,185,70,11,3,是,https://www.sniec.net/cn/organize_facilities.php,单层无柱；8 扇门 5.3×4.1m；全馆 51 间会议室；height_m 原值：区间 11–17（本次规范化取下限）
+expo-ebf427fe:W11,expo-ebf427fe,上海新国际博览中心,W11,11号展厅,11547,185,70,11,3,是,https://www.sniec.net/cn/organize_facilities.php,单层无柱；8 扇门 5.3×4.1m；全馆 51 间会议室；height_m 原值：区间 11–17（本次规范化取下限）
+expo-ebf427fe:W12,expo-ebf427fe,上海新国际博览中心,W12,12号展厅,11547,185,70,11,3,是,https://www.sniec.net/cn/organize_facilities.php,单层无柱；8 扇门 5.3×4.1m；全馆 51 间会议室；height_m 原值：区间 11–17（本次规范化取下限）
+expo-ebf427fe:W13,expo-ebf427fe,上海新国际博览中心,W13,13号展厅,11547,185,70,11,3,是,https://www.sniec.net/cn/organize_facilities.php,单层无柱；8 扇门 5.3×4.1m；全馆 51 间会议室；height_m 原值：区间 11–17（本次规范化取下限）
+expo-ebf427fe:W14,expo-ebf427fe,上海新国际博览中心,W14,14号展厅,11547,185,70,11,3,是,https://www.sniec.net/cn/organize_facilities.php,单层无柱；8 扇门 5.3×4.1m；全馆 51 间会议室；height_m 原值：区间 11–17（本次规范化取下限）
+expo-ebf427fe:W15,expo-ebf427fe,上海新国际博览中心,W15,15号展厅,11547,185,70,11,3,是,https://www.sniec.net/cn/organize_facilities.php,单层无柱；8 扇门 5.3×4.1m；全馆 51 间会议室；height_m 原值：区间 11–17（本次规范化取下限）
+expo-ebf427fe:W16,expo-ebf427fe,上海新国际博览中心,W16,16号展厅,11547,185,70,11,3,是,https://www.sniec.net/cn/organize_facilities.php,单层无柱；8 扇门 5.3×4.1m；全馆 51 间会议室；height_m 原值：区间 11–17（本次规范化取下限）
+expo-ebf427fe:W17,expo-ebf427fe,上海新国际博览中心,W17,17号展厅,11547,185,70,11,3,是,https://www.sniec.net/cn/organize_facilities.php,单层无柱；8 扇门 5.3×4.1m；全馆 51 间会议室；height_m 原值：区间 11–17（本次规范化取下限）
+expo-7da6879e:P1,expo-7da6879e,昆明滇池国际会展中心,P1,无柱展厅1,,,,,,是,https://www.haozhanhui.com/place/place_detail_1300.html,13 个无柱展厅合计约 20 万㎡（逐厅面积官网未给）
+expo-7da6879e:P2,expo-7da6879e,昆明滇池国际会展中心,P2,无柱展厅2,,,,,,是,https://www.haozhanhui.com/place/place_detail_1300.html,13 个无柱展厅合计约 20 万㎡（逐厅面积官网未给）
+expo-7da6879e:P3,expo-7da6879e,昆明滇池国际会展中心,P3,无柱展厅3,,,,,,是,https://www.haozhanhui.com/place/place_detail_1300.html,13 个无柱展厅合计约 20 万㎡（逐厅面积官网未给）
+expo-7da6879e:P4,expo-7da6879e,昆明滇池国际会展中心,P4,无柱展厅4,,,,,,是,https://www.haozhanhui.com/place/place_detail_1300.html,13 个无柱展厅合计约 20 万㎡（逐厅面积官网未给）
+expo-7da6879e:P5,expo-7da6879e,昆明滇池国际会展中心,P5,无柱展厅5,,,,,,是,https://www.haozhanhui.com/place/place_detail_1300.html,13 个无柱展厅合计约 20 万㎡（逐厅面积官网未给）
+expo-7da6879e:P6,expo-7da6879e,昆明滇池国际会展中心,P6,无柱展厅6,,,,,,是,https://www.haozhanhui.com/place/place_detail_1300.html,13 个无柱展厅合计约 20 万㎡（逐厅面积官网未给）
+expo-7da6879e:P7,expo-7da6879e,昆明滇池国际会展中心,P7,无柱展厅7,,,,,,是,https://www.haozhanhui.com/place/place_detail_1300.html,13 个无柱展厅合计约 20 万㎡（逐厅面积官网未给）
+expo-7da6879e:P8,expo-7da6879e,昆明滇池国际会展中心,P8,无柱展厅8,,,,,,是,https://www.haozhanhui.com/place/place_detail_1300.html,13 个无柱展厅合计约 20 万㎡（逐厅面积官网未给）
+expo-7da6879e:P9,expo-7da6879e,昆明滇池国际会展中心,P9,无柱展厅9,,,,,,是,https://www.haozhanhui.com/place/place_detail_1300.html,13 个无柱展厅合计约 20 万㎡（逐厅面积官网未给）
+expo-7da6879e:P10,expo-7da6879e,昆明滇池国际会展中心,P10,无柱展厅10,,,,,,是,https://www.haozhanhui.com/place/place_detail_1300.html,13 个无柱展厅合计约 20 万㎡（逐厅面积官网未给）
+expo-7da6879e:P11,expo-7da6879e,昆明滇池国际会展中心,P11,无柱展厅11,,,,,,是,https://www.haozhanhui.com/place/place_detail_1300.html,13 个无柱展厅合计约 20 万㎡（逐厅面积官网未给）
+expo-7da6879e:P12,expo-7da6879e,昆明滇池国际会展中心,P12,无柱展厅12,,,,,,是,https://www.haozhanhui.com/place/place_detail_1300.html,13 个无柱展厅合计约 20 万㎡（逐厅面积官网未给）
+expo-7da6879e:P13,expo-7da6879e,昆明滇池国际会展中心,P13,无柱展厅13,,,,,,是,https://www.haozhanhui.com/place/place_detail_1300.html,13 个无柱展厅合计约 20 万㎡（逐厅面积官网未给）
+expo-7da6879e:Q1,expo-7da6879e,昆明滇池国际会展中心,Q1,有柱展厅1,,,,,,否,https://www.haozhanhui.com/place/place_detail_1300.html,10 个有柱展厅合计约 10 万㎡（逐厅面积官网未给）
+expo-7da6879e:Q2,expo-7da6879e,昆明滇池国际会展中心,Q2,有柱展厅2,,,,,,否,https://www.haozhanhui.com/place/place_detail_1300.html,10 个有柱展厅合计约 10 万㎡（逐厅面积官网未给）
+expo-7da6879e:Q3,expo-7da6879e,昆明滇池国际会展中心,Q3,有柱展厅3,,,,,,否,https://www.haozhanhui.com/place/place_detail_1300.html,10 个有柱展厅合计约 10 万㎡（逐厅面积官网未给）
+expo-7da6879e:Q4,expo-7da6879e,昆明滇池国际会展中心,Q4,有柱展厅4,,,,,,否,https://www.haozhanhui.com/place/place_detail_1300.html,10 个有柱展厅合计约 10 万㎡（逐厅面积官网未给）
+expo-7da6879e:Q5,expo-7da6879e,昆明滇池国际会展中心,Q5,有柱展厅5,,,,,,否,https://www.haozhanhui.com/place/place_detail_1300.html,10 个有柱展厅合计约 10 万㎡（逐厅面积官网未给）
+expo-7da6879e:Q6,expo-7da6879e,昆明滇池国际会展中心,Q6,有柱展厅6,,,,,,否,https://www.haozhanhui.com/place/place_detail_1300.html,10 个有柱展厅合计约 10 万㎡（逐厅面积官网未给）
+expo-7da6879e:Q7,expo-7da6879e,昆明滇池国际会展中心,Q7,有柱展厅7,,,,,,否,https://www.haozhanhui.com/place/place_detail_1300.html,10 个有柱展厅合计约 10 万㎡（逐厅面积官网未给）
+expo-7da6879e:Q8,expo-7da6879e,昆明滇池国际会展中心,Q8,有柱展厅8,,,,,,否,https://www.haozhanhui.com/place/place_detail_1300.html,10 个有柱展厅合计约 10 万㎡（逐厅面积官网未给）
+expo-7da6879e:Q9,expo-7da6879e,昆明滇池国际会展中心,Q9,有柱展厅9,,,,,,否,https://www.haozhanhui.com/place/place_detail_1300.html,10 个有柱展厅合计约 10 万㎡（逐厅面积官网未给）
+expo-7da6879e:Q10,expo-7da6879e,昆明滇池国际会展中心,Q10,有柱展厅10,,,,,,否,https://www.haozhanhui.com/place/place_detail_1300.html,10 个有柱展厅合计约 10 万㎡（逐厅面积官网未给）
+expo-f2e79459:E1,expo-f2e79459,长沙国际会展中心,E1,1号展馆,13500,,,,,是,https://web.archive.org/web/20240515150433/http://www.vewise.net/about/index.html,6 组 12 个单层无柱展馆；单馆 1.35 万㎡（一期口径）；全馆会议室/洽谈室 148 间；W1 馆可容万人会议（第三方称单厅 1.45 万㎡）
+expo-f2e79459:E2,expo-f2e79459,长沙国际会展中心,E2,2号展馆,13500,,,,,是,https://web.archive.org/web/20240515150433/http://www.vewise.net/about/index.html,6 组 12 个单层无柱展馆；单馆 1.35 万㎡（一期口径）；全馆会议室/洽谈室 148 间；W1 馆可容万人会议（第三方称单厅 1.45 万㎡）
+expo-f2e79459:E3,expo-f2e79459,长沙国际会展中心,E3,3号展馆,13500,,,,,是,https://web.archive.org/web/20240515150433/http://www.vewise.net/about/index.html,6 组 12 个单层无柱展馆；单馆 1.35 万㎡（一期口径）；全馆会议室/洽谈室 148 间；W1 馆可容万人会议（第三方称单厅 1.45 万㎡）
+expo-f2e79459:E4,expo-f2e79459,长沙国际会展中心,E4,4号展馆,13500,,,,,是,https://web.archive.org/web/20240515150433/http://www.vewise.net/about/index.html,6 组 12 个单层无柱展馆；单馆 1.35 万㎡（一期口径）；全馆会议室/洽谈室 148 间；W1 馆可容万人会议（第三方称单厅 1.45 万㎡）
+expo-f2e79459:E5,expo-f2e79459,长沙国际会展中心,E5,5号展馆,13500,,,,,是,https://web.archive.org/web/20240515150433/http://www.vewise.net/about/index.html,6 组 12 个单层无柱展馆；单馆 1.35 万㎡（一期口径）；全馆会议室/洽谈室 148 间；W1 馆可容万人会议（第三方称单厅 1.45 万㎡）
+expo-f2e79459:E6,expo-f2e79459,长沙国际会展中心,E6,6号展馆,13500,,,,,是,https://web.archive.org/web/20240515150433/http://www.vewise.net/about/index.html,6 组 12 个单层无柱展馆；单馆 1.35 万㎡（一期口径）；全馆会议室/洽谈室 148 间；W1 馆可容万人会议（第三方称单厅 1.45 万㎡）
+expo-f2e79459:E7,expo-f2e79459,长沙国际会展中心,E7,7号展馆,13500,,,,,是,https://web.archive.org/web/20240515150433/http://www.vewise.net/about/index.html,6 组 12 个单层无柱展馆；单馆 1.35 万㎡（一期口径）；全馆会议室/洽谈室 148 间；W1 馆可容万人会议（第三方称单厅 1.45 万㎡）
+expo-f2e79459:E8,expo-f2e79459,长沙国际会展中心,E8,8号展馆,13500,,,,,是,https://web.archive.org/web/20240515150433/http://www.vewise.net/about/index.html,6 组 12 个单层无柱展馆；单馆 1.35 万㎡（一期口径）；全馆会议室/洽谈室 148 间；W1 馆可容万人会议（第三方称单厅 1.45 万㎡）
+expo-f2e79459:E9,expo-f2e79459,长沙国际会展中心,E9,9号展馆,13500,,,,,是,https://web.archive.org/web/20240515150433/http://www.vewise.net/about/index.html,6 组 12 个单层无柱展馆；单馆 1.35 万㎡（一期口径）；全馆会议室/洽谈室 148 间；W1 馆可容万人会议（第三方称单厅 1.45 万㎡）
+expo-f2e79459:E10,expo-f2e79459,长沙国际会展中心,E10,10号展馆,13500,,,,,是,https://web.archive.org/web/20240515150433/http://www.vewise.net/about/index.html,6 组 12 个单层无柱展馆；单馆 1.35 万㎡（一期口径）；全馆会议室/洽谈室 148 间；W1 馆可容万人会议（第三方称单厅 1.45 万㎡）
+expo-f2e79459:E11,expo-f2e79459,长沙国际会展中心,E11,11号展馆,13500,,,,,是,https://web.archive.org/web/20240515150433/http://www.vewise.net/about/index.html,6 组 12 个单层无柱展馆；单馆 1.35 万㎡（一期口径）；全馆会议室/洽谈室 148 间；W1 馆可容万人会议（第三方称单厅 1.45 万㎡）
+expo-f2e79459:E12,expo-f2e79459,长沙国际会展中心,E12,12号展馆,13500,,,,,是,https://web.archive.org/web/20240515150433/http://www.vewise.net/about/index.html,6 组 12 个单层无柱展馆；单馆 1.35 万㎡（一期口径）；全馆会议室/洽谈室 148 间；W1 馆可容万人会议（第三方称单厅 1.45 万㎡）
+expo-5a46025b:H1,expo-5a46025b,中国西部国际博览城,H1,1号标准展厅,12000,,,12,1.5,是,https://www.haozhanhui.com/place/place_detail_1428.html,6 组 U 型 + 1 组 E 型；每厅约 1.2 万㎡；大跨度无柱；货车可驶入；height_m 原值：区间 12–28（本次规范化取下限）；floor_load_t_sqm 原值：区间 1.5–5（本次规范化取下限）
+expo-5a46025b:H2,expo-5a46025b,中国西部国际博览城,H2,2号标准展厅,12000,,,12,1.5,是,https://www.haozhanhui.com/place/place_detail_1428.html,6 组 U 型 + 1 组 E 型；每厅约 1.2 万㎡；大跨度无柱；货车可驶入；height_m 原值：区间 12–28（本次规范化取下限）；floor_load_t_sqm 原值：区间 1.5–5（本次规范化取下限）
+expo-5a46025b:H3,expo-5a46025b,中国西部国际博览城,H3,3号标准展厅,12000,,,12,1.5,是,https://www.haozhanhui.com/place/place_detail_1428.html,6 组 U 型 + 1 组 E 型；每厅约 1.2 万㎡；大跨度无柱；货车可驶入；height_m 原值：区间 12–28（本次规范化取下限）；floor_load_t_sqm 原值：区间 1.5–5（本次规范化取下限）
+expo-5a46025b:H4,expo-5a46025b,中国西部国际博览城,H4,4号标准展厅,12000,,,12,1.5,是,https://www.haozhanhui.com/place/place_detail_1428.html,6 组 U 型 + 1 组 E 型；每厅约 1.2 万㎡；大跨度无柱；货车可驶入；height_m 原值：区间 12–28（本次规范化取下限）；floor_load_t_sqm 原值：区间 1.5–5（本次规范化取下限）
+expo-5a46025b:H5,expo-5a46025b,中国西部国际博览城,H5,5号标准展厅,12000,,,12,1.5,是,https://www.haozhanhui.com/place/place_detail_1428.html,6 组 U 型 + 1 组 E 型；每厅约 1.2 万㎡；大跨度无柱；货车可驶入；height_m 原值：区间 12–28（本次规范化取下限）；floor_load_t_sqm 原值：区间 1.5–5（本次规范化取下限）
+expo-5a46025b:H6,expo-5a46025b,中国西部国际博览城,H6,6号标准展厅,12000,,,12,1.5,是,https://www.haozhanhui.com/place/place_detail_1428.html,6 组 U 型 + 1 组 E 型；每厅约 1.2 万㎡；大跨度无柱；货车可驶入；height_m 原值：区间 12–28（本次规范化取下限）；floor_load_t_sqm 原值：区间 1.5–5（本次规范化取下限）
+expo-5a46025b:H7,expo-5a46025b,中国西部国际博览城,H7,7号标准展厅,12000,,,12,1.5,是,https://www.haozhanhui.com/place/place_detail_1428.html,6 组 U 型 + 1 组 E 型；每厅约 1.2 万㎡；大跨度无柱；货车可驶入；height_m 原值：区间 12–28（本次规范化取下限）；floor_load_t_sqm 原值：区间 1.5–5（本次规范化取下限）
+expo-5a46025b:H8,expo-5a46025b,中国西部国际博览城,H8,8号标准展厅,12000,,,12,1.5,是,https://www.haozhanhui.com/place/place_detail_1428.html,6 组 U 型 + 1 组 E 型；每厅约 1.2 万㎡；大跨度无柱；货车可驶入；height_m 原值：区间 12–28（本次规范化取下限）；floor_load_t_sqm 原值：区间 1.5–5（本次规范化取下限）
+expo-5a46025b:H9,expo-5a46025b,中国西部国际博览城,H9,9号标准展厅,12000,,,12,1.5,是,https://www.haozhanhui.com/place/place_detail_1428.html,6 组 U 型 + 1 组 E 型；每厅约 1.2 万㎡；大跨度无柱；货车可驶入；height_m 原值：区间 12–28（本次规范化取下限）；floor_load_t_sqm 原值：区间 1.5–5（本次规范化取下限）
+expo-5a46025b:H10,expo-5a46025b,中国西部国际博览城,H10,10号标准展厅,12000,,,12,1.5,是,https://www.haozhanhui.com/place/place_detail_1428.html,6 组 U 型 + 1 组 E 型；每厅约 1.2 万㎡；大跨度无柱；货车可驶入；height_m 原值：区间 12–28（本次规范化取下限）；floor_load_t_sqm 原值：区间 1.5–5（本次规范化取下限）
+expo-5a46025b:H11,expo-5a46025b,中国西部国际博览城,H11,11号标准展厅,12000,,,12,1.5,是,https://www.haozhanhui.com/place/place_detail_1428.html,6 组 U 型 + 1 组 E 型；每厅约 1.2 万㎡；大跨度无柱；货车可驶入；height_m 原值：区间 12–28（本次规范化取下限）；floor_load_t_sqm 原值：区间 1.5–5（本次规范化取下限）
+expo-5a46025b:H12,expo-5a46025b,中国西部国际博览城,H12,12号标准展厅,12000,,,12,1.5,是,https://www.haozhanhui.com/place/place_detail_1428.html,6 组 U 型 + 1 组 E 型；每厅约 1.2 万㎡；大跨度无柱；货车可驶入；height_m 原值：区间 12–28（本次规范化取下限）；floor_load_t_sqm 原值：区间 1.5–5（本次规范化取下限）
+expo-5a46025b:H13,expo-5a46025b,中国西部国际博览城,H13,13号标准展厅,12000,,,12,1.5,是,https://www.haozhanhui.com/place/place_detail_1428.html,6 组 U 型 + 1 组 E 型；每厅约 1.2 万㎡；大跨度无柱；货车可驶入；height_m 原值：区间 12–28（本次规范化取下限）；floor_load_t_sqm 原值：区间 1.5–5（本次规范化取下限）
+expo-5a46025b:H14,expo-5a46025b,中国西部国际博览城,H14,14号标准展厅,12000,,,12,1.5,是,https://www.haozhanhui.com/place/place_detail_1428.html,6 组 U 型 + 1 组 E 型；每厅约 1.2 万㎡；大跨度无柱；货车可驶入；height_m 原值：区间 12–28（本次规范化取下限）；floor_load_t_sqm 原值：区间 1.5–5（本次规范化取下限）
+expo-5a46025b:H15,expo-5a46025b,中国西部国际博览城,H15,15号标准展厅,12000,,,12,1.5,是,https://www.haozhanhui.com/place/place_detail_1428.html,6 组 U 型 + 1 组 E 型；每厅约 1.2 万㎡；大跨度无柱；货车可驶入；height_m 原值：区间 12–28（本次规范化取下限）；floor_load_t_sqm 原值：区间 1.5–5（本次规范化取下限）
+expo-5a46025b:MF,expo-5a46025b,中国西部国际博览城,MF,多功能厅,16000,,,,,,https://www.haozhanhui.com/place/place_detail_1428.html,"可组合为 12 间会议室、5 个宴会厅，或 9,000㎡ 超大会（宴会）厅"
+expo-fc6c199e:A,expo-fc6c199e,北京九华国际会展中心,A,A馆,15900,148,108,,,,https://www.haozhanhui.com/place/place_detail_644.html,"使用面积 21,400㎡；三馆可连通"
+expo-fc6c199e:B,expo-fc6c199e,北京九华国际会展中心,B,B馆,34400,148,233,27,,,https://www.haozhanhui.com/place/place_detail_644.html,"使用面积 42,500㎡；可分隔 16 间会议室"
+expo-fc6c199e:C,expo-fc6c199e,北京九华国际会展中心,C,C馆,15900,148,108,,,,https://www.haozhanhui.com/place/place_detail_644.html,"使用面积 21,400㎡"
+expo-56f5e859:1,expo-56f5e859,青岛世界博览城,1,1号展馆,10000,,,12.5,3,,https://www.haozhanhui.com/place/place_detail_1469.html,"12 个矩形展馆；单馆供电 3,000KW；中央十字展廊 4 万㎡；floor_load_t_sqm 原值：区间 3–5（本次规范化取下限）"
+expo-56f5e859:2,expo-56f5e859,青岛世界博览城,2,2号展馆,10000,,,12.5,3,,https://www.haozhanhui.com/place/place_detail_1469.html,"12 个矩形展馆；单馆供电 3,000KW；中央十字展廊 4 万㎡；floor_load_t_sqm 原值：区间 3–5（本次规范化取下限）"
+expo-56f5e859:3,expo-56f5e859,青岛世界博览城,3,3号展馆,10000,,,12.5,3,,https://www.haozhanhui.com/place/place_detail_1469.html,"12 个矩形展馆；单馆供电 3,000KW；中央十字展廊 4 万㎡；floor_load_t_sqm 原值：区间 3–5（本次规范化取下限）"
+expo-56f5e859:4,expo-56f5e859,青岛世界博览城,4,4号展馆,10000,,,12.5,3,,https://www.haozhanhui.com/place/place_detail_1469.html,"12 个矩形展馆；单馆供电 3,000KW；中央十字展廊 4 万㎡；floor_load_t_sqm 原值：区间 3–5（本次规范化取下限）"
+expo-56f5e859:5,expo-56f5e859,青岛世界博览城,5,5号展馆,10000,,,12.5,3,,https://www.haozhanhui.com/place/place_detail_1469.html,"12 个矩形展馆；单馆供电 3,000KW；中央十字展廊 4 万㎡；floor_load_t_sqm 原值：区间 3–5（本次规范化取下限）"
+expo-56f5e859:6,expo-56f5e859,青岛世界博览城,6,6号展馆,10000,,,12.5,3,,https://www.haozhanhui.com/place/place_detail_1469.html,"12 个矩形展馆；单馆供电 3,000KW；中央十字展廊 4 万㎡；floor_load_t_sqm 原值：区间 3–5（本次规范化取下限）"
+expo-56f5e859:7,expo-56f5e859,青岛世界博览城,7,7号展馆,10000,,,12.5,3,,https://www.haozhanhui.com/place/place_detail_1469.html,"12 个矩形展馆；单馆供电 3,000KW；中央十字展廊 4 万㎡；floor_load_t_sqm 原值：区间 3–5（本次规范化取下限）"
+expo-56f5e859:8,expo-56f5e859,青岛世界博览城,8,8号展馆,10000,,,12.5,3,,https://www.haozhanhui.com/place/place_detail_1469.html,"12 个矩形展馆；单馆供电 3,000KW；中央十字展廊 4 万㎡；floor_load_t_sqm 原值：区间 3–5（本次规范化取下限）"
+expo-56f5e859:9,expo-56f5e859,青岛世界博览城,9,9号展馆,10000,,,12.5,3,,https://www.haozhanhui.com/place/place_detail_1469.html,"12 个矩形展馆；单馆供电 3,000KW；中央十字展廊 4 万㎡；floor_load_t_sqm 原值：区间 3–5（本次规范化取下限）"
+expo-56f5e859:10,expo-56f5e859,青岛世界博览城,10,10号展馆,10000,,,12.5,3,,https://www.haozhanhui.com/place/place_detail_1469.html,"12 个矩形展馆；单馆供电 3,000KW；中央十字展廊 4 万㎡；floor_load_t_sqm 原值：区间 3–5（本次规范化取下限）"
+expo-56f5e859:11,expo-56f5e859,青岛世界博览城,11,11号展馆,10000,,,12.5,3,,https://www.haozhanhui.com/place/place_detail_1469.html,"12 个矩形展馆；单馆供电 3,000KW；中央十字展廊 4 万㎡；floor_load_t_sqm 原值：区间 3–5（本次规范化取下限）"
+expo-56f5e859:12,expo-56f5e859,青岛世界博览城,12,12号展馆,10000,,,12.5,3,,https://www.haozhanhui.com/place/place_detail_1469.html,"12 个矩形展馆；单馆供电 3,000KW；中央十字展廊 4 万㎡；floor_load_t_sqm 原值：区间 3–5（本次规范化取下限）"
+expo-a93f493c:S1,expo-a93f493c,济南黄河国际会展中心,S1,1号标准展厅,10000,189,63,13,5,是,https://www.haozhanhui.com/place/place_detail_1598.html,单层无柱；吊点 12×6m，单点最高 2t；height_m 原值：区间 13–22（本次规范化取下限）；口径：面积=厅的空间面积，长宽=厅内可用面积（两者不互推；差值为墙柱、设备间、后台、走道，属正常）
+expo-a93f493c:S2,expo-a93f493c,济南黄河国际会展中心,S2,2号标准展厅,10000,189,63,13,5,是,https://www.haozhanhui.com/place/place_detail_1598.html,单层无柱；吊点 12×6m，单点最高 2t；height_m 原值：区间 13–22（本次规范化取下限）；口径：面积=厅的空间面积，长宽=厅内可用面积（两者不互推；差值为墙柱、设备间、后台、走道，属正常）
+expo-a93f493c:S3,expo-a93f493c,济南黄河国际会展中心,S3,3号标准展厅,10000,189,63,13,5,是,https://www.haozhanhui.com/place/place_detail_1598.html,单层无柱；吊点 12×6m，单点最高 2t；height_m 原值：区间 13–22（本次规范化取下限）；口径：面积=厅的空间面积，长宽=厅内可用面积（两者不互推；差值为墙柱、设备间、后台、走道，属正常）
+expo-a93f493c:S4,expo-a93f493c,济南黄河国际会展中心,S4,4号标准展厅,10000,189,63,13,5,是,https://www.haozhanhui.com/place/place_detail_1598.html,单层无柱；吊点 12×6m，单点最高 2t；height_m 原值：区间 13–22（本次规范化取下限）；口径：面积=厅的空间面积，长宽=厅内可用面积（两者不互推；差值为墙柱、设备间、后台、走道，属正常）
+expo-a93f493c:S5,expo-a93f493c,济南黄河国际会展中心,S5,5号标准展厅,10000,189,63,13,5,是,https://www.haozhanhui.com/place/place_detail_1598.html,单层无柱；吊点 12×6m，单点最高 2t；height_m 原值：区间 13–22（本次规范化取下限）；口径：面积=厅的空间面积，长宽=厅内可用面积（两者不互推；差值为墙柱、设备间、后台、走道，属正常）
+expo-a93f493c:S6,expo-a93f493c,济南黄河国际会展中心,S6,6号标准展厅,10000,189,63,13,5,是,https://www.haozhanhui.com/place/place_detail_1598.html,单层无柱；吊点 12×6m，单点最高 2t；height_m 原值：区间 13–22（本次规范化取下限）；口径：面积=厅的空间面积，长宽=厅内可用面积（两者不互推；差值为墙柱、设备间、后台、走道，属正常）
+expo-a93f493c:S7,expo-a93f493c,济南黄河国际会展中心,S7,7号标准展厅,10000,189,63,13,5,是,https://www.haozhanhui.com/place/place_detail_1598.html,单层无柱；吊点 12×6m，单点最高 2t；height_m 原值：区间 13–22（本次规范化取下限）；口径：面积=厅的空间面积，长宽=厅内可用面积（两者不互推；差值为墙柱、设备间、后台、走道，属正常）
+expo-a93f493c:S8,expo-a93f493c,济南黄河国际会展中心,S8,8号标准展厅,10000,189,63,13,5,是,https://www.haozhanhui.com/place/place_detail_1598.html,单层无柱；吊点 12×6m，单点最高 2t；height_m 原值：区间 13–22（本次规范化取下限）；口径：面积=厅的空间面积，长宽=厅内可用面积（两者不互推；差值为墙柱、设备间、后台、走道，属正常）
+expo-a93f493c:S9,expo-a93f493c,济南黄河国际会展中心,S9,9号标准展厅,10000,189,63,13,5,是,https://www.haozhanhui.com/place/place_detail_1598.html,单层无柱；吊点 12×6m，单点最高 2t；height_m 原值：区间 13–22（本次规范化取下限）；口径：面积=厅的空间面积，长宽=厅内可用面积（两者不互推；差值为墙柱、设备间、后台、走道，属正常）
+expo-a93f493c:S10,expo-a93f493c,济南黄河国际会展中心,S10,10号标准展厅,10000,189,63,13,5,是,https://www.haozhanhui.com/place/place_detail_1598.html,单层无柱；吊点 12×6m，单点最高 2t；height_m 原值：区间 13–22（本次规范化取下限）；口径：面积=厅的空间面积，长宽=厅内可用面积（两者不互推；差值为墙柱、设备间、后台、走道，属正常）
+expo-a93f493c:S11,expo-a93f493c,济南黄河国际会展中心,S11,11号标准展厅,10000,189,63,13,5,是,https://www.haozhanhui.com/place/place_detail_1598.html,单层无柱；吊点 12×6m，单点最高 2t；height_m 原值：区间 13–22（本次规范化取下限）；口径：面积=厅的空间面积，长宽=厅内可用面积（两者不互推；差值为墙柱、设备间、后台、走道，属正常）
+expo-a93f493c:S12,expo-a93f493c,济南黄河国际会展中心,S12,12号标准展厅,10000,189,63,13,5,是,https://www.haozhanhui.com/place/place_detail_1598.html,单层无柱；吊点 12×6m，单点最高 2t；height_m 原值：区间 13–22（本次规范化取下限）；口径：面积=厅的空间面积，长宽=厅内可用面积（两者不互推；差值为墙柱、设备间、后台、走道，属正常）
+expo-a93f493c:N1,expo-a93f493c,济南黄河国际会展中心,N1,N1 多功能展厅,20000,,,15,5,是,https://www.haozhanhui.com/place/place_detail_1598.html,可办万人会议
+expo-6e70d5bc:A,expo-6e70d5bc,厦门国际会展中心,A,A厅,,,,15,,,https://www.haozhanhui.com/place/place_detail_243.html,逐厅面积官网未公布；净高按厅分列；height_m 原值：原记「15m」（本次规范化取下限）
+expo-6e70d5bc:B,expo-6e70d5bc,厦门国际会展中心,B,B厅,,,,10,,,https://www.haozhanhui.com/place/place_detail_243.html,逐厅面积官网未公布；净高按厅分列；height_m 原值：原记「10m」（本次规范化取下限）
+expo-6e70d5bc:C,expo-6e70d5bc,厦门国际会展中心,C,C厅,,,,7.6,,,https://www.haozhanhui.com/place/place_detail_243.html,逐厅面积官网未公布；净高按厅分列；height_m 原值：原记「7.6m」（本次规范化取下限）
+expo-6e70d5bc:D,expo-6e70d5bc,厦门国际会展中心,D,D厅,,,,10,,,https://www.haozhanhui.com/place/place_detail_243.html,逐厅面积官网未公布；净高按厅分列；height_m 原值：原记「10m」（本次规范化取下限）
+expo-6e70d5bc:E,expo-6e70d5bc,厦门国际会展中心,E,E厅,,,,15,,,https://www.haozhanhui.com/place/place_detail_243.html,逐厅面积官网未公布；净高按厅分列；height_m 原值：原记「15m」（本次规范化取下限）
+expo-6e70d5bc:F,expo-6e70d5bc,厦门国际会展中心,F,F厅,,,,12.5,,,https://www.haozhanhui.com/place/place_detail_243.html,逐厅面积官网未公布；净高按厅分列；height_m 原值：原记「12.5m」（本次规范化取下限）
+expo-6e70d5bc:K,expo-6e70d5bc,厦门国际会展中心,K,K厅,,,,12.5,,,https://www.haozhanhui.com/place/place_detail_243.html,逐厅面积官网未公布；净高按厅分列；height_m 原值：原记「12.5m」（本次规范化取下限）
+expo-6e70d5bc:L,expo-6e70d5bc,厦门国际会展中心,L,L厅,,,,12.5,,,https://www.haozhanhui.com/place/place_detail_243.html,逐厅面积官网未公布；净高按厅分列；height_m 原值：原记「12.5m」（本次规范化取下限）
+expo-4908c236:1,expo-4908c236,重庆国际博览中心,1,1号展厅,,,,,,,https://www.haozhanhui.com/place/place_detail_873.html,逐厅面积官网未公布；全馆室内 18.4 万㎡
+expo-4908c236:2,expo-4908c236,重庆国际博览中心,2,2号展厅,,,,,,,https://www.haozhanhui.com/place/place_detail_873.html,逐厅面积官网未公布；全馆室内 18.4 万㎡
+expo-4908c236:3,expo-4908c236,重庆国际博览中心,3,3号展厅,,,,,,,https://www.haozhanhui.com/place/place_detail_873.html,逐厅面积官网未公布；全馆室内 18.4 万㎡
+expo-4908c236:4,expo-4908c236,重庆国际博览中心,4,4号展厅,,,,,,,https://www.haozhanhui.com/place/place_detail_873.html,逐厅面积官网未公布；全馆室内 18.4 万㎡
+expo-4908c236:5,expo-4908c236,重庆国际博览中心,5,5号展厅,,,,,,,https://www.haozhanhui.com/place/place_detail_873.html,逐厅面积官网未公布；全馆室内 18.4 万㎡
+expo-4908c236:6,expo-4908c236,重庆国际博览中心,6,6号展厅,,,,,,,https://www.haozhanhui.com/place/place_detail_873.html,逐厅面积官网未公布；全馆室内 18.4 万㎡
+expo-4908c236:7,expo-4908c236,重庆国际博览中心,7,7号展厅,,,,,,,https://www.haozhanhui.com/place/place_detail_873.html,逐厅面积官网未公布；全馆室内 18.4 万㎡
+expo-4908c236:8,expo-4908c236,重庆国际博览中心,8,8号展厅,,,,,,,https://www.haozhanhui.com/place/place_detail_873.html,逐厅面积官网未公布；全馆室内 18.4 万㎡
+expo-4908c236:9,expo-4908c236,重庆国际博览中心,9,9号展厅,,,,,,,https://www.haozhanhui.com/place/place_detail_873.html,逐厅面积官网未公布；全馆室内 18.4 万㎡
+expo-4908c236:10,expo-4908c236,重庆国际博览中心,10,10号展厅,,,,,,,https://www.haozhanhui.com/place/place_detail_873.html,逐厅面积官网未公布；全馆室内 18.4 万㎡
+expo-4908c236:11,expo-4908c236,重庆国际博览中心,11,11号展厅,,,,,,,https://www.haozhanhui.com/place/place_detail_873.html,逐厅面积官网未公布；全馆室内 18.4 万㎡
+expo-4908c236:12,expo-4908c236,重庆国际博览中心,12,12号展厅,,,,,,,https://www.haozhanhui.com/place/place_detail_873.html,逐厅面积官网未公布；全馆室内 18.4 万㎡
+expo-4908c236:13,expo-4908c236,重庆国际博览中心,13,13号展厅,,,,,,,https://www.haozhanhui.com/place/place_detail_873.html,逐厅面积官网未公布；全馆室内 18.4 万㎡
+expo-4908c236:14,expo-4908c236,重庆国际博览中心,14,14号展厅,,,,,,,https://www.haozhanhui.com/place/place_detail_873.html,逐厅面积官网未公布；全馆室内 18.4 万㎡
+expo-4908c236:15,expo-4908c236,重庆国际博览中心,15,15号展厅,,,,,,,https://www.haozhanhui.com/place/place_detail_873.html,逐厅面积官网未公布；全馆室内 18.4 万㎡
+expo-4908c236:16,expo-4908c236,重庆国际博览中心,16,16号展厅,,,,,,,https://www.haozhanhui.com/place/place_detail_873.html,逐厅面积官网未公布；全馆室内 18.4 万㎡
+expo-4908c236:MF,expo-4908c236,重庆国际博览中心,MF,多功能厅,,,,,,,https://www.haozhanhui.com/place/place_detail_873.html,
+expo-63508b8e:W1,expo-63508b8e,中国·红岛国际会议展览中心,W1,西侧1号展厅,,,,,,是,https://www.haozhanhui.com/place/place_detail_1488.html,西侧 4 个单层无柱厅
+expo-63508b8e:W2,expo-63508b8e,中国·红岛国际会议展览中心,W2,西侧2号展厅,,,,,,是,https://www.haozhanhui.com/place/place_detail_1488.html,西侧 4 个单层无柱厅
+expo-63508b8e:W3,expo-63508b8e,中国·红岛国际会议展览中心,W3,西侧3号展厅,,,,,,是,https://www.haozhanhui.com/place/place_detail_1488.html,西侧 4 个单层无柱厅
+expo-63508b8e:W4,expo-63508b8e,中国·红岛国际会议展览中心,W4,西侧4号展厅,,,,,,是,https://www.haozhanhui.com/place/place_detail_1488.html,西侧 4 个单层无柱厅
+expo-63508b8e:E1-1,expo-63508b8e,中国·红岛国际会议展览中心,E1-1,东侧首层1号展厅,,,,,,否,https://www.haozhanhui.com/place/place_detail_1488.html,东侧复式结构，首层 5 厅有立柱
+expo-63508b8e:E1-2,expo-63508b8e,中国·红岛国际会议展览中心,E1-2,东侧首层2号展厅,,,,,,否,https://www.haozhanhui.com/place/place_detail_1488.html,东侧复式结构，首层 5 厅有立柱
+expo-63508b8e:E1-3,expo-63508b8e,中国·红岛国际会议展览中心,E1-3,东侧首层3号展厅,,,,,,否,https://www.haozhanhui.com/place/place_detail_1488.html,东侧复式结构，首层 5 厅有立柱
+expo-63508b8e:E1-4,expo-63508b8e,中国·红岛国际会议展览中心,E1-4,东侧首层4号展厅,,,,,,否,https://www.haozhanhui.com/place/place_detail_1488.html,东侧复式结构，首层 5 厅有立柱
+expo-63508b8e:E1-5,expo-63508b8e,中国·红岛国际会议展览中心,E1-5,东侧首层5号展厅,,,,,,否,https://www.haozhanhui.com/place/place_detail_1488.html,东侧复式结构，首层 5 厅有立柱
+expo-63508b8e:E2-1,expo-63508b8e,中国·红岛国际会议展览中心,E2-1,东侧二层1号展厅,,,,,,是,https://www.haozhanhui.com/place/place_detail_1488.html,东侧二层为无柱空间
+expo-63508b8e:E2-2,expo-63508b8e,中国·红岛国际会议展览中心,E2-2,东侧二层2号展厅,,,,,,是,https://www.haozhanhui.com/place/place_detail_1488.html,东侧二层为无柱空间
+expo-63508b8e:E2-3,expo-63508b8e,中国·红岛国际会议展览中心,E2-3,东侧二层3号展厅,,,,,,是,https://www.haozhanhui.com/place/place_detail_1488.html,东侧二层为无柱空间
+expo-63508b8e:E2-4,expo-63508b8e,中国·红岛国际会议展览中心,E2-4,东侧二层4号展厅,,,,,,是,https://www.haozhanhui.com/place/place_detail_1488.html,东侧二层为无柱空间
+expo-63508b8e:E2-5,expo-63508b8e,中国·红岛国际会议展览中心,E2-5,东侧二层5号展厅,,,,,,是,https://www.haozhanhui.com/place/place_detail_1488.html,东侧二层为无柱空间
+expo-680950be:序厅,expo-680950be,广东现代国际展览中心,序厅,序厅,,,,,5,,https://www.haozhanhui.com/place/place_detail_104.html,逐区面积官网未公布
+expo-680950be:A区,expo-680950be,广东现代国际展览中心,A区,A区,,,,,5,,https://www.haozhanhui.com/place/place_detail_104.html,逐区面积官网未公布
+expo-680950be:B区,expo-680950be,广东现代国际展览中心,B区,B区,,,,,3.5,,https://www.haozhanhui.com/place/place_detail_104.html,逐区面积官网未公布
+expo-680950be:C区,expo-680950be,广东现代国际展览中心,C区,C区,,,,,3.5,,https://www.haozhanhui.com/place/place_detail_104.html,逐区面积官网未公布
+expo-680950be:D区,expo-680950be,广东现代国际展览中心,D区,D区,,,,,3.5,,https://www.haozhanhui.com/place/place_detail_104.html,逐区面积官网未公布
+expo-680950be:E区,expo-680950be,广东现代国际展览中心,E区,E区,,,,,5,,https://www.haozhanhui.com/place/place_detail_104.html,逐区面积官网未公布
+expo-680950be:E2区,expo-680950be,广东现代国际展览中心,E2区,E2区,,,,,0.5,,https://www.haozhanhui.com/place/place_detail_104.html,逐区面积官网未公布
+expo-87160737:1A-1F,expo-87160737,中国国际展览中心（朝阳馆）,1A-1F,1号馆 A 段 首层,4000,54.6,91,5.25,,,团队 2026-10-25 整理的官网《展馆参数》表,两侧风管下净高 3.8m；卷帘门 450宽×430高；口径：面积=厅的空间面积，长宽=厅内可用面积（两者不互推；差值为墙柱、设备间、后台、走道，属正常）
+expo-87160737:1B-1F,expo-87160737,中国国际展览中心（朝阳馆）,1B-1F,1号馆 B 段 首层,4150,54.6,91,5.25,,,团队 2026-10-25 整理的官网《展馆参数》表,两侧风管下净高 3.8m；口径：面积=厅的空间面积，长宽=厅内可用面积（两者不互推；差值为墙柱、设备间、后台、走道，属正常）
+expo-87160737:1A-2F,expo-87160737,中国国际展览中心（朝阳馆）,1A-2F,1号馆 A 段 二层,4150,54.6,91,4.2,,,团队 2026-10-25 整理的官网《展馆参数》表,风管下净高 2.8m；口径：面积=厅的空间面积，长宽=厅内可用面积（两者不互推；差值为墙柱、设备间、后台、走道，属正常）
+expo-87160737:1B-2F,expo-87160737,中国国际展览中心（朝阳馆）,1B-2F,1号馆 B 段 二层,4150,54.6,91,4.2,,,团队 2026-10-25 整理的官网《展馆参数》表,风管下净高 2.8m；口径：面积=厅的空间面积，长宽=厅内可用面积（两者不互推；差值为墙柱、设备间、后台、走道，属正常）
+expo-87160737:1A-3F,expo-87160737,中国国际展览中心（朝阳馆）,1A-3F,1号馆 A 段 三层,4150,54.6,91,4.2,,,团队 2026-10-25 整理的官网《展馆参数》表,口径：面积=厅的空间面积，长宽=厅内可用面积（两者不互推；差值为墙柱、设备间、后台、走道，属正常）
+expo-87160737:1B-3F,expo-87160737,中国国际展览中心（朝阳馆）,1B-3F,1号馆 B 段 三层,4150,54.6,91,4.2,,,团队 2026-10-25 整理的官网《展馆参数》表,口径：面积=厅的空间面积，长宽=厅内可用面积（两者不互推；差值为墙柱、设备间、后台、走道，属正常）
+expo-87160737:2,expo-87160737,中国国际展览中心（朝阳馆）,2,2号馆 首层,3364,63,63,10,,,团队 2026-10-25 整理的官网《展馆参数》表,卷帘门 440宽×450高；height_m 原值：原记「10 和 3.1」（本次规范化取下限）；口径：面积=厅的空间面积，长宽=厅内可用面积（两者不互推；差值为墙柱、设备间、后台、走道，属正常）
+expo-87160737:3,expo-87160737,中国国际展览中心（朝阳馆）,3,3号馆 首层,3426,63,63,10,,,团队 2026-10-25 整理的官网《展馆参数》表,height_m 原值：原记「10 和 3.1」（本次规范化取下限）；口径：面积=厅的空间面积，长宽=厅内可用面积（两者不互推；差值为墙柱、设备间、后台、走道，属正常）
+expo-87160737:4,expo-87160737,中国国际展览中心（朝阳馆）,4,4号馆 首层,3426,63,63,10,,,团队 2026-10-25 整理的官网《展馆参数》表,height_m 原值：原记「10 和 3.1」（本次规范化取下限）；口径：面积=厅的空间面积，长宽=厅内可用面积（两者不互推；差值为墙柱、设备间、后台、走道，属正常）
+expo-87160737:5,expo-87160737,中国国际展览中心（朝阳馆）,5,5号馆 首层,3364,63,63,10,,,团队 2026-10-25 整理的官网《展馆参数》表,height_m 原值：原记「10 和 3.1」（本次规范化取下限）；口径：面积=厅的空间面积，长宽=厅内可用面积（两者不互推；差值为墙柱、设备间、后台、走道，属正常）
+expo-87160737:6,expo-87160737,中国国际展览中心（朝阳馆）,6,6号馆 首层,3000,50,60,7.8,,,团队 2026-10-25 整理的官网《展馆参数》表,卷帘门 450宽×460高
+expo-87160737:7,expo-87160737,中国国际展览中心（朝阳馆）,7,7号馆 首层,3000,50,60,7.8,,,团队 2026-10-25 整理的官网《展馆参数》表,
+expo-87160737:8A,expo-87160737,中国国际展览中心（朝阳馆）,8A,8号馆 A 段,4335,72.8,65.5,13,,,团队 2026-10-25 整理的官网《展馆参数》表,height_m 原值：原记「13 和 4」（本次规范化取下限）
+expo-87160737:8B,expo-87160737,中国国际展览中心（朝阳馆）,8B,8号馆 B 段,4335,72.8,65.5,13,,,团队 2026-10-25 整理的官网《展馆参数》表,height_m 原值：原记「13 和 4」（本次规范化取下限）
+expo-1b772114:A1,expo-1b772114,武汉国际博览中心,A1,A1 展厅,,117,72,,,,团队 2026-10-25 整理的武汉国博《单馆展位平面图》《展厅示意平面图》,单馆图注 宽 72m × 长 117m；面积图未标（不按尺寸反推）；4 个货运门：7.5m 宽，2 个 7m 高 + 2 个 4.5m 高；馆内有地沟与地埋消防栓
+expo-1b772114:A2,expo-1b772114,武汉国际博览中心,A2,A2 展厅,,117,72,,,,团队 2026-10-25 整理的武汉国博《单馆展位平面图》《展厅示意平面图》,单馆图注 宽 72m × 长 117m；面积图未标（不按尺寸反推）；4 个货运门：7.5m 宽，2 个 7m 高 + 2 个 4.5m 高；馆内有地沟与地埋消防栓
+expo-1b772114:A3,expo-1b772114,武汉国际博览中心,A3,A3 展厅,,117,72,,,,团队 2026-10-25 整理的武汉国博《单馆展位平面图》《展厅示意平面图》,单馆图注 宽 72m × 长 117m；面积图未标（不按尺寸反推）；4 个货运门：7.5m 宽，2 个 7m 高 + 2 个 4.5m 高；馆内有地沟与地埋消防栓
+expo-1b772114:A4,expo-1b772114,武汉国际博览中心,A4,A4 展厅,,117,72,,,,团队 2026-10-25 整理的武汉国博《单馆展位平面图》《展厅示意平面图》,单馆图注 宽 72m × 长 117m；面积图未标（不按尺寸反推）；4 个货运门：7.5m 宽，2 个 7m 高 + 2 个 4.5m 高；馆内有地沟与地埋消防栓
+expo-1b772114:A5,expo-1b772114,武汉国际博览中心,A5,A5 展厅,,117,72,,,,团队 2026-10-25 整理的武汉国博《单馆展位平面图》《展厅示意平面图》,单馆图注 宽 72m × 长 117m；面积图未标（不按尺寸反推）；4 个货运门：7.5m 宽，2 个 7m 高 + 2 个 4.5m 高；馆内有地沟与地埋消防栓
+expo-1b772114:A6,expo-1b772114,武汉国际博览中心,A6,A6 展厅,,117,72,,,,团队 2026-10-25 整理的武汉国博《单馆展位平面图》《展厅示意平面图》,单馆图注 宽 72m × 长 117m；面积图未标（不按尺寸反推）；4 个货运门：7.5m 宽，2 个 7m 高 + 2 个 4.5m 高；馆内有地沟与地埋消防栓
+expo-1b772114:B1,expo-1b772114,武汉国际博览中心,B1,B1 展厅,,117,72,,,,团队 2026-10-25 整理的武汉国博《单馆展位平面图》《展厅示意平面图》,单馆图注 宽 72m × 长 117m；面积图未标（不按尺寸反推）；4 个货运门：7.5m 宽，2 个 7m 高 + 2 个 4.5m 高；馆内有地沟与地埋消防栓
+expo-1b772114:B2,expo-1b772114,武汉国际博览中心,B2,B2 展厅,,117,72,,,,团队 2026-10-25 整理的武汉国博《单馆展位平面图》《展厅示意平面图》,单馆图注 宽 72m × 长 117m；面积图未标（不按尺寸反推）；4 个货运门：7.5m 宽，2 个 7m 高 + 2 个 4.5m 高；馆内有地沟与地埋消防栓
+expo-1b772114:B3,expo-1b772114,武汉国际博览中心,B3,B3 展厅,,117,72,,,,团队 2026-10-25 整理的武汉国博《单馆展位平面图》《展厅示意平面图》,单馆图注 宽 72m × 长 117m；面积图未标（不按尺寸反推）；4 个货运门：7.5m 宽，2 个 7m 高 + 2 个 4.5m 高；馆内有地沟与地埋消防栓
+expo-1b772114:B4,expo-1b772114,武汉国际博览中心,B4,B4 展厅,,117,72,,,,团队 2026-10-25 整理的武汉国博《单馆展位平面图》《展厅示意平面图》,单馆图注 宽 72m × 长 117m；面积图未标（不按尺寸反推）；4 个货运门：7.5m 宽，2 个 7m 高 + 2 个 4.5m 高；馆内有地沟与地埋消防栓
+expo-1b772114:B5,expo-1b772114,武汉国际博览中心,B5,B5 展厅,,117,72,,,,团队 2026-10-25 整理的武汉国博《单馆展位平面图》《展厅示意平面图》,单馆图注 宽 72m × 长 117m；面积图未标（不按尺寸反推）；4 个货运门：7.5m 宽，2 个 7m 高 + 2 个 4.5m 高；馆内有地沟与地埋消防栓
+expo-1b772114:B6,expo-1b772114,武汉国际博览中心,B6,B6 展厅,,117,72,,,,团队 2026-10-25 整理的武汉国博《单馆展位平面图》《展厅示意平面图》,单馆图注 宽 72m × 长 117m；面积图未标（不按尺寸反推）；4 个货运门：7.5m 宽，2 个 7m 高 + 2 个 4.5m 高；馆内有地沟与地埋消防栓
+expo-cd97b51f:1,expo-cd97b51f,贵阳国际会议展览中心,1,1号展厅,7688,,,,,,团队 2026-10-25 整理的贵阳国际会议展览中心平面图与官方介绍,"平面图标注面积；8 展厅合计 71,792㎡；全馆可用展出面积 12 万㎡（含中街/通道）；室外广场 4 万㎡"
+expo-cd97b51f:2,expo-cd97b51f,贵阳国际会议展览中心,2,2号展厅,8334,,,,,,团队 2026-10-25 整理的贵阳国际会议展览中心平面图与官方介绍,"平面图标注面积；8 展厅合计 71,792㎡；全馆可用展出面积 12 万㎡（含中街/通道）；室外广场 4 万㎡"
+expo-cd97b51f:3,expo-cd97b51f,贵阳国际会议展览中心,3,3号展厅,8972,,,,,,团队 2026-10-25 整理的贵阳国际会议展览中心平面图与官方介绍,"平面图标注面积；8 展厅合计 71,792㎡；全馆可用展出面积 12 万㎡（含中街/通道）；室外广场 4 万㎡"
+expo-cd97b51f:4,expo-cd97b51f,贵阳国际会议展览中心,4,4号展厅,9618,,,,,,团队 2026-10-25 整理的贵阳国际会议展览中心平面图与官方介绍,"平面图标注面积；8 展厅合计 71,792㎡；全馆可用展出面积 12 万㎡（含中街/通道）；室外广场 4 万㎡"
+expo-cd97b51f:5,expo-cd97b51f,贵阳国际会议展览中心,5,5号展厅,8972,,,,,,团队 2026-10-25 整理的贵阳国际会议展览中心平面图与官方介绍,"平面图标注面积；8 展厅合计 71,792㎡；全馆可用展出面积 12 万㎡（含中街/通道）；室外广场 4 万㎡"
+expo-cd97b51f:6,expo-cd97b51f,贵阳国际会议展览中心,6,6号展厅,9618,,,,,,团队 2026-10-25 整理的贵阳国际会议展览中心平面图与官方介绍,"平面图标注面积；8 展厅合计 71,792㎡；全馆可用展出面积 12 万㎡（含中街/通道）；室外广场 4 万㎡"
+expo-cd97b51f:7,expo-cd97b51f,贵阳国际会议展览中心,7,7号展厅,8972,,,,,,团队 2026-10-25 整理的贵阳国际会议展览中心平面图与官方介绍,"平面图标注面积；8 展厅合计 71,792㎡；全馆可用展出面积 12 万㎡（含中街/通道）；室外广场 4 万㎡"
+expo-cd97b51f:8,expo-cd97b51f,贵阳国际会议展览中心,8,8号展厅,9618,,,,,,团队 2026-10-25 整理的贵阳国际会议展览中心平面图与官方介绍,"平面图标注面积；8 展厅合计 71,792㎡；全馆可用展出面积 12 万㎡（含中街/通道）；室外广场 4 万㎡"
+expo-cd97b51f:LH,expo-cd97b51f,贵阳国际会议展览中心,LH,登录大厅,4800,,,,,,团队 2026-10-25 整理的贵阳国际会议展览中心平面图与官方介绍,"平面图标注 4,800㎡"
+expo-299d9555:W1,expo-299d9555,中国国际展览中心（顺义新馆）,W1,W1 馆,12501,168,70,16.7,5,,CHINA PRINT 2025 参展商服务手册《中国国际展览中心（顺义馆）展馆技术参数》+ 场馆平面图（团队 2026-10-25 整理）,官方标注长×宽 168×70 + 39×19；货门 4.4×4.7m；吊点单点 150kg、间距 3.9×4m；电井盖承重 2t/㎡；面积按标注尺寸计算；height_m 原值：区间 16.7–18.8（本次规范化取下限）
+expo-299d9555:E1,expo-299d9555,中国国际展览中心（顺义新馆）,E1,E1 馆,12501,168,70,16.7,5,,CHINA PRINT 2025 参展商服务手册《中国国际展览中心（顺义馆）展馆技术参数》+ 场馆平面图（团队 2026-10-25 整理）,官方标注长×宽 168×70 + 39×19；货门 4.4×4.7m；吊点单点 150kg、间距 3.9×4m；电井盖承重 2t/㎡；面积按标注尺寸计算；height_m 原值：区间 16.7–18.8（本次规范化取下限）
+expo-299d9555:W2,expo-299d9555,中国国际展览中心（顺义新馆）,W2,W2 馆,11760,168,70,12.5,5,,CHINA PRINT 2025 参展商服务手册《中国国际展览中心（顺义馆）展馆技术参数》+ 场馆平面图（团队 2026-10-25 整理）,官方标注长×宽 168×70；货门 4.4×4.7m；吊点单点 150kg、间距 3.9×4m；电井盖承重 2t/㎡；面积按标注尺寸计算；height_m 原值：区间 12.5–17.5（本次规范化取下限）
+expo-299d9555:E2,expo-299d9555,中国国际展览中心（顺义新馆）,E2,E2 馆,11760,168,70,12.5,5,,CHINA PRINT 2025 参展商服务手册《中国国际展览中心（顺义馆）展馆技术参数》+ 场馆平面图（团队 2026-10-25 整理）,官方标注长×宽 168×70；货门 4.4×4.7m；吊点单点 150kg、间距 3.9×4m；电井盖承重 2t/㎡；面积按标注尺寸计算；height_m 原值：区间 12.5–17.5（本次规范化取下限）
+expo-299d9555:W3,expo-299d9555,中国国际展览中心（顺义新馆）,W3,W3 馆,11760,168,70,12.5,5,,CHINA PRINT 2025 参展商服务手册《中国国际展览中心（顺义馆）展馆技术参数》+ 场馆平面图（团队 2026-10-25 整理）,官方标注长×宽 168×70；货门 4.4×4.7m；吊点单点 150kg、间距 3.9×4m；电井盖承重 2t/㎡；面积按标注尺寸计算；height_m 原值：区间 12.5–17.5（本次规范化取下限）
+expo-299d9555:E3,expo-299d9555,中国国际展览中心（顺义新馆）,E3,E3 馆,11760,168,70,12.5,5,,CHINA PRINT 2025 参展商服务手册《中国国际展览中心（顺义馆）展馆技术参数》+ 场馆平面图（团队 2026-10-25 整理）,官方标注长×宽 168×70；货门 4.4×4.7m；吊点单点 150kg、间距 3.9×4m；电井盖承重 2t/㎡；面积按标注尺寸计算；height_m 原值：区间 12.5–17.5（本次规范化取下限）
+expo-299d9555:W4,expo-299d9555,中国国际展览中心（顺义新馆）,W4,W4 馆,12501,168,70,12.5,8,,CHINA PRINT 2025 参展商服务手册《中国国际展览中心（顺义馆）展馆技术参数》+ 场馆平面图（团队 2026-10-25 整理）,官方标注长×宽 168×70 + 39×19；货门 4.4×4.7m；吊点单点 150kg、间距 3.9×4m；电井盖承重 2t/㎡；面积按标注尺寸计算；height_m 原值：区间 12.5–17.5（本次规范化取下限）
+expo-299d9555:E4,expo-299d9555,中国国际展览中心（顺义新馆）,E4,E4 馆,12501,168,70,12.5,8,,CHINA PRINT 2025 参展商服务手册《中国国际展览中心（顺义馆）展馆技术参数》+ 场馆平面图（团队 2026-10-25 整理）,官方标注长×宽 168×70 + 39×19；货门 4.4×4.7m；吊点单点 150kg、间距 3.9×4m；电井盖承重 2t/㎡；面积按标注尺寸计算；height_m 原值：区间 12.5–17.5（本次规范化取下限）
+expo-c6ff48b7:A,expo-c6ff48b7,内蒙古国际会展中心,A,A厅（南展馆A馆）,7200,,,7.4,5,,https://web.archive.org/web/20240910014035id_/https://www.nmghzzx.com/index.php/Home/Index/zhanting_PMT,A馆7200㎡，净高7.4米；承重5吨/㎡与1吨/㎡，分区未注明；官网共 2 厅
+expo-c6ff48b7:B,expo-c6ff48b7,内蒙古国际会展中心,B,B厅（南展馆B馆）,10800,,,12,5,,https://web.archive.org/web/20240910014035id_/https://www.nmghzzx.com/index.php/Home/Index/zhanting_PMT,B馆10800㎡，净高12米，承载5吨/㎡；官网共 2 厅
+expo-b1023849:1,expo-b1023849,临沂国际会展中心（沂河路馆）,1,一号展馆,20000,250,108,13.4,,,http://www.zglyexpo.com/index.php/about/index/sid/787.html,一号馆室内2万㎡，250m×108m，屋面13.4-21m；仅 1/2 号馆（3 号馆 2026-04 启用，无官方尺寸）；官网共 2 厅；口径：面积=厅的空间面积，长宽=厅内可用面积（两者不互推；差值为墙柱、设备间、后台、走道，属正常）
+expo-b1023849:2,expo-b1023849,临沂国际会展中心（沂河路馆）,2,二号展馆,40000,258,120,12,,,http://www.zglyexpo.com/index.php/about/index/sid/787.html,二号馆4万㎡，258m×120m，一层高12m；仅 1/2 号馆（3 号馆 2026-04 启用，无官方尺寸）；官网共 2 厅；口径：面积=厅的空间面积，长宽=厅内可用面积（两者不互推；差值为墙柱、设备间、后台、走道，属正常）
+expo-a85627a9:1,expo-a85627a9,西安国际会展中心,1,1号超大展厅,16000,135,114,16,3,,https://xianicec.com/exhibitionHall/venues,"超大展厅16,000㎡，135×114m，层高16-18m；官网共 6 厅"
+expo-a85627a9:2,expo-a85627a9,西安国际会展中心,2,2号超大展厅,16000,135,114,16,3,,https://xianicec.com/exhibitionHall/venues,"超大展厅16,000㎡，135×114m，层高16-18m；官网共 6 厅"
+expo-a85627a9:3,expo-a85627a9,西安国际会展中心,3,3号标准展厅,10000,135,70,15,3,,https://xianicec.com/exhibitionHall/venues,"标准展厅10,000㎡，135×70m，层高15-17m；官网共 6 厅"
+expo-a85627a9:4,expo-a85627a9,西安国际会展中心,4,4号标准展厅,10000,135,70,15,3,,https://xianicec.com/exhibitionHall/venues,"标准展厅10,000㎡，135×70m，层高15-17m；官网共 6 厅"
+expo-a85627a9:5,expo-a85627a9,西安国际会展中心,5,5号标准展厅,10000,135,70,15,3,,https://xianicec.com/exhibitionHall/venues,"标准展厅10,000㎡，135×70m，层高15-17m；官网共 6 厅"
+expo-a85627a9:6,expo-a85627a9,西安国际会展中心,6,6号标准展厅,10000,135,70,15,3,,https://xianicec.com/exhibitionHall/venues,"标准展厅10,000㎡，135×70m，层高15-17m；官网共 6 厅"
+expo-f18fdd26:1,expo-f18fdd26,深圳会展中心（福田）,1,1号展厅,30000,240,125,13,5,无柱,http://www.szcec.com/szcec/cn-brief/exhibition/index.html,1号3万㎡，240×125米，承重5t/㎡，净高13-28米；官网共 9 厅
+expo-f18fdd26:2,expo-f18fdd26,深圳会展中心（福田）,2,2号展厅,15000,120,125,13,5,无柱,http://www.szcec.com/szcec/cn-brief/exhibition/index.html,2、9号各1.5万㎡，120×125米，无柱；官网共 9 厅
+expo-f18fdd26:9,expo-f18fdd26,深圳会展中心（福田）,9,9号展厅,15000,120,125,13,5,无柱,http://www.szcec.com/szcec/cn-brief/exhibition/index.html,2、9号各1.5万㎡，120×125米，无柱；官网共 9 厅
+expo-f18fdd26:3,expo-f18fdd26,深圳会展中心（福田）,3,3号展厅,7500,60,125,13,5,无柱,http://www.szcec.com/szcec/cn-brief/exhibition/index.html,3号7500㎡，60×125米，承重5t/㎡，无柱；官网共 9 厅
+expo-f18fdd26:4,expo-f18fdd26,深圳会展中心（福田）,4,4号展厅,7500,60,125,13,5,无柱,http://www.szcec.com/szcec/cn-brief/exhibition/index.html,4号7500㎡，60×125米，承重5t/㎡，无柱；官网共 9 厅
+expo-f18fdd26:5,expo-f18fdd26,深圳会展中心（福田）,5,5号展厅,7500,60,125,13,3.5,无柱,http://www.szcec.com/szcec/cn-brief/exhibition/index.html,5号7500㎡，60×125米，承重3.5t/㎡，无柱；官网共 9 厅
+expo-f18fdd26:6,expo-f18fdd26,深圳会展中心（福田）,6,6号展厅,7500,60,125,13,3.5,无柱,http://www.szcec.com/szcec/cn-brief/exhibition/index.html,6号7500㎡，60×125米，承重3.5t/㎡，无柱；官网共 9 厅
+expo-f18fdd26:7,expo-f18fdd26,深圳会展中心（福田）,7,7号展厅,7500,60,125,13,5,无柱,http://www.szcec.com/szcec/cn-brief/exhibition/index.html,7号7500㎡，60×125米，承重5t/㎡，无柱；官网共 9 厅
+expo-f18fdd26:8,expo-f18fdd26,深圳会展中心（福田）,8,8号展厅,7500,60,125,13,5,无柱,http://www.szcec.com/szcec/cn-brief/exhibition/index.html,8号7500㎡，60×125米，承重5t/㎡，无柱；官网共 9 厅
+expo-a8e144be:1,expo-a8e144be,永康国际会展中心,1,展馆1,7560,,,11,,,http://www.ykicec.com/article.php?lm=zxjs-xjss,10个展馆，单个7560㎡，高度11-13m；官网共 10 厅
+expo-a8e144be:2,expo-a8e144be,永康国际会展中心,2,展馆2,7560,,,11,,,http://www.ykicec.com/article.php?lm=zxjs-xjss,10个展馆，单个7560㎡，高度11-13m；官网共 10 厅
+expo-a8e144be:3,expo-a8e144be,永康国际会展中心,3,展馆3,7560,,,11,,,http://www.ykicec.com/article.php?lm=zxjs-xjss,10个展馆，单个7560㎡，高度11-13m；官网共 10 厅
+expo-a8e144be:4,expo-a8e144be,永康国际会展中心,4,展馆4,7560,,,11,,,http://www.ykicec.com/article.php?lm=zxjs-xjss,10个展馆，单个7560㎡，高度11-13m；官网共 10 厅
+expo-a8e144be:5,expo-a8e144be,永康国际会展中心,5,展馆5,7560,,,11,,,http://www.ykicec.com/article.php?lm=zxjs-xjss,10个展馆，单个7560㎡，高度11-13m；官网共 10 厅
+expo-a8e144be:6,expo-a8e144be,永康国际会展中心,6,展馆6,7560,,,11,,,http://www.ykicec.com/article.php?lm=zxjs-xjss,10个展馆，单个7560㎡，高度11-13m；官网共 10 厅
+expo-a8e144be:7,expo-a8e144be,永康国际会展中心,7,展馆7,7560,,,11,,,http://www.ykicec.com/article.php?lm=zxjs-xjss,10个展馆，单个7560㎡，高度11-13m；官网共 10 厅
+expo-a8e144be:8,expo-a8e144be,永康国际会展中心,8,展馆8,7560,,,11,,,http://www.ykicec.com/article.php?lm=zxjs-xjss,10个展馆，单个7560㎡，高度11-13m；官网共 10 厅
+expo-a8e144be:9,expo-a8e144be,永康国际会展中心,9,展馆9,7560,,,11,,,http://www.ykicec.com/article.php?lm=zxjs-xjss,10个展馆，单个7560㎡，高度11-13m；官网共 10 厅
+expo-a8e144be:10,expo-a8e144be,永康国际会展中心,10,展馆10,7560,,,11,,,http://www.ykicec.com/article.php?lm=zxjs-xjss,10个展馆，单个7560㎡，高度11-13m；官网共 10 厅
+expo-f3c72e18:B1,expo-f3c72e18,苏州国际博览中心,B1,B1馆,9000,,,10.5,5,,https://www.suzhouexpo.com/upload/201806/22/201806221813481982.pdf,"B1馆9,000㎡，层高10.5m，承重5吨/㎡；官网共 9 厅"
+expo-f3c72e18:C1,expo-f3c72e18,苏州国际博览中心,C1,C1馆,9000,,,10.5,5,,https://www.suzhouexpo.com/upload/201806/22/201806221813481982.pdf,"C1馆9,000㎡，层高10.5m，承重5吨/㎡；官网共 9 厅"
+expo-f3c72e18:D1,expo-f3c72e18,苏州国际博览中心,D1,D1馆,9000,,,10.5,5,,https://www.suzhouexpo.com/upload/201806/22/201806221813481982.pdf,"D1馆9,000㎡，层高10.5m，承重5吨/㎡；官网共 9 厅"
+expo-f3c72e18:E1,expo-f3c72e18,苏州国际博览中心,E1,E1馆,8000,,,10.5,5,,https://www.suzhouexpo.com/upload/201806/22/201806221813481982.pdf,"E1馆8,000㎡，层高10.5m，承重5吨/㎡；官网共 9 厅"
+expo-f3c72e18:C3,expo-f3c72e18,苏州国际博览中心,C3,C3馆,9000,,,12,1.5,,https://www.suzhouexpo.com/upload/201806/22/201806221813481982.pdf,"C3馆9,000㎡，层高12m，承重1.5吨/㎡；官网共 9 厅"
+expo-f3c72e18:D3,expo-f3c72e18,苏州国际博览中心,D3,D3馆,9000,,,12,1.5,,https://www.suzhouexpo.com/upload/201806/22/201806221813481982.pdf,"D3馆9,000㎡，层高12m，承重1.5吨/㎡；官网共 9 厅"
+expo-f3c72e18:E3F3,expo-f3c72e18,苏州国际博览中心,E3F3,E3/F3馆,17000,,,12,1.5,,https://www.suzhouexpo.com/upload/201806/22/201806221813481982.pdf,"表列E3F3共17,000㎡，层高12m，1.5吨/㎡；官网共 9 厅；E3F3 为合并行（官网《技术参数》PDF 第1页「3rd Floor: 43,000 sqm 三层展厅」表：C3 9,000 / D3 9,000 / E3F3 17,000 / G3 8,000，均 12m、1.5t/m²，四行合计 43,000㎡ 与表头一致；8 行合计 78,000㎡ 与官网「展厅面积 78,000㎡、9 个厅」一致；2026-10-26 4× 渲染截图核对）"
+expo-f3c72e18:G3,expo-f3c72e18,苏州国际博览中心,G3,G3馆,8000,,,12,1.5,,https://www.suzhouexpo.com/upload/201806/22/201806221813481982.pdf,"G3馆8,000㎡，层高12m，承重1.5吨/㎡；官网共 9 厅"
+expo-1d72e8bb:1.1,expo-1d72e8bb,南昌绿地国际博览中心,1.1,1.1号馆,10000,,,11.5,5,,https://www.expo-nc.com/index.php?catid=7,每层7个1万㎡展厅，一层净高11.5m，承重5吨；官网共 14 厅
+expo-1d72e8bb:1.2,expo-1d72e8bb,南昌绿地国际博览中心,1.2,1.2号馆,10000,,,11.5,5,,https://www.expo-nc.com/index.php?catid=7,每层7个1万㎡展厅，一层净高11.5m，承重5吨；官网共 14 厅
+expo-1d72e8bb:1.3,expo-1d72e8bb,南昌绿地国际博览中心,1.3,1.3号馆,10000,,,11.5,5,,https://www.expo-nc.com/index.php?catid=7,每层7个1万㎡展厅，一层净高11.5m，承重5吨；官网共 14 厅
+expo-1d72e8bb:1.4,expo-1d72e8bb,南昌绿地国际博览中心,1.4,1.4号馆,10000,,,11.5,5,,https://www.expo-nc.com/index.php?catid=7,每层7个1万㎡展厅，一层净高11.5m，承重5吨；官网共 14 厅
+expo-1d72e8bb:1.5,expo-1d72e8bb,南昌绿地国际博览中心,1.5,1.5号馆,10000,,,11.5,5,,https://www.expo-nc.com/index.php?catid=7,每层7个1万㎡展厅，一层净高11.5m，承重5吨；官网共 14 厅
+expo-1d72e8bb:1.6,expo-1d72e8bb,南昌绿地国际博览中心,1.6,1.6号馆,10000,,,11.5,5,,https://www.expo-nc.com/index.php?catid=7,每层7个1万㎡展厅，一层净高11.5m，承重5吨；官网共 14 厅
+expo-1d72e8bb:1.7,expo-1d72e8bb,南昌绿地国际博览中心,1.7,1.7号馆,10000,,,11.5,5,,https://www.expo-nc.com/index.php?catid=7,每层7个1万㎡展厅，一层净高11.5m，承重5吨；官网共 14 厅
+expo-1d72e8bb:2.1,expo-1d72e8bb,南昌绿地国际博览中心,2.1,2.1号馆,10000,,,10,,无柱,https://www.expo-nc.com/index.php?catid=7,每层7个1万㎡展厅，二层净高10m，无柱；官网共 14 厅
+expo-1d72e8bb:2.2,expo-1d72e8bb,南昌绿地国际博览中心,2.2,2.2号馆,10000,,,10,,无柱,https://www.expo-nc.com/index.php?catid=7,每层7个1万㎡展厅，二层净高10m，无柱；官网共 14 厅
+expo-1d72e8bb:2.3,expo-1d72e8bb,南昌绿地国际博览中心,2.3,2.3号馆,10000,,,10,,无柱,https://www.expo-nc.com/index.php?catid=7,每层7个1万㎡展厅，二层净高10m，无柱；官网共 14 厅
+expo-1d72e8bb:2.4,expo-1d72e8bb,南昌绿地国际博览中心,2.4,2.4号馆,10000,,,10,,无柱,https://www.expo-nc.com/index.php?catid=7,每层7个1万㎡展厅，二层净高10m，无柱；官网共 14 厅
+expo-1d72e8bb:2.5,expo-1d72e8bb,南昌绿地国际博览中心,2.5,2.5号馆,10000,,,10,,无柱,https://www.expo-nc.com/index.php?catid=7,每层7个1万㎡展厅，二层净高10m，无柱；官网共 14 厅
+expo-1d72e8bb:2.6,expo-1d72e8bb,南昌绿地国际博览中心,2.6,2.6号馆,10000,,,10,,无柱,https://www.expo-nc.com/index.php?catid=7,每层7个1万㎡展厅，二层净高10m，无柱；官网共 14 厅
+expo-1d72e8bb:2.7,expo-1d72e8bb,南昌绿地国际博览中心,2.7,2.7号馆,10000,,,10,,无柱,https://www.expo-nc.com/index.php?catid=7,每层7个1万㎡展厅，二层净高10m，无柱；官网共 14 厅
+expo-33dedf37:1,expo-33dedf37,山东国际会展中心,1,1号馆,11500,,,12,5,,https://www.sdcec.cn/index.php?m=content&c=index&a=lists&catid=65,"每展厅11,500㎡；1号馆层高12m，一层承重5吨；官网共 8 厅；官网两口径：技术图 8×11,500=9.2万，正文「室内10万」"
+expo-33dedf37:2,expo-33dedf37,山东国际会展中心,2,2号馆,11500,,,12,5,,https://www.sdcec.cn/index.php?m=content&c=index&a=lists&catid=65,"每展厅11,500㎡；2号馆层高12m，一层承重5吨；官网共 8 厅；官网两口径：技术图 8×11,500=9.2万，正文「室内10万」"
+expo-33dedf37:3,expo-33dedf37,山东国际会展中心,3,3号馆,11500,,,12,5,,https://www.sdcec.cn/index.php?m=content&c=index&a=lists&catid=65,"每展厅11,500㎡；3号馆层高12m，一层承重5吨；官网共 8 厅；官网两口径：技术图 8×11,500=9.2万，正文「室内10万」"
+expo-33dedf37:4,expo-33dedf37,山东国际会展中心,4,4号馆,11500,,,19,5,,https://www.sdcec.cn/index.php?m=content&c=index&a=lists&catid=65,"每展厅11,500㎡；4号馆层高19m，一层承重5吨；官网共 8 厅；官网两口径：技术图 8×11,500=9.2万，正文「室内10万」"
+expo-33dedf37:5,expo-33dedf37,山东国际会展中心,5,5号馆,11500,,,12,5,,https://www.sdcec.cn/index.php?m=content&c=index&a=lists&catid=65,"每展厅11,500㎡；5号馆层高12m，一层承重5吨；官网共 8 厅；官网两口径：技术图 8×11,500=9.2万，正文「室内10万」"
+expo-33dedf37:6,expo-33dedf37,山东国际会展中心,6,6号馆,11500,,,12,3,,https://www.sdcec.cn/index.php?m=content&c=index&a=lists&catid=65,"每展厅11,500㎡；6号馆层高12m，二层承重3吨；官网共 8 厅；官网两口径：技术图 8×11,500=9.2万，正文「室内10万」"
+expo-33dedf37:7,expo-33dedf37,山东国际会展中心,7,7号馆,11500,,,17.5,3,,https://www.sdcec.cn/index.php?m=content&c=index&a=lists&catid=65,"每展厅11,500㎡；7号馆层高17.5m，二层承重3吨；官网共 8 厅；官网两口径：技术图 8×11,500=9.2万，正文「室内10万」"
+expo-33dedf37:8,expo-33dedf37,山东国际会展中心,8,8号馆,11500,,,10,3,,https://www.sdcec.cn/index.php?m=content&c=index&a=lists&catid=65,"每展厅11,500㎡；8号馆层高10m，二层承重3吨；官网共 8 厅；官网两口径：技术图 8×11,500=9.2万，正文「室内10万」"
+expo-97450a60:1F-I,expo-97450a60,台北世界贸易中心南港展览馆,1F-I,1樓I區,7750,,,9,5,,https://www.tainex.com.tw/venue/showgrounds/1/1,"1樓I區7,750㎡，高度9m，載重5公噸/㎡；官网共 6 厅；1F 逐区合计 22,480 与官网总计 22,680 不一致（疑官网笔误）"
+expo-97450a60:1F-J,expo-97450a60,台北世界贸易中心南港展览馆,1F-J,1樓J區,7180,,,9,5,,https://www.tainex.com.tw/venue/showgrounds/1/1,"1樓J區7,180㎡，高度9m，載重5公噸/㎡；官网共 6 厅；1F 逐区合计 22,480 与官网总计 22,680 不一致（疑官网笔误）"
+expo-97450a60:1F-K,expo-97450a60,台北世界贸易中心南港展览馆,1F-K,1樓K區,7550,,,9,5,,https://www.tainex.com.tw/venue/showgrounds/1/1,"1樓K區7,550㎡，高度9m，載重5公噸/㎡；官网共 6 厅；1F 逐区合计 22,480 与官网总计 22,680 不一致（疑官网笔误）"
+expo-97450a60:4F-L,expo-97450a60,台北世界贸易中心南港展览馆,4F-L,4樓L區,7560,,,14.3,2,无柱,https://www.tainex.com.tw/venue/showgrounds/1/4,"4樓L區7,560㎡，淨高14.3~27.3m，無柱；官网共 6 厅；1F 逐区合计 22,480 与官网总计 22,680 不一致（疑官网笔误）"
+expo-97450a60:4F-M,expo-97450a60,台北世界贸易中心南港展览馆,4F-M,4樓M區,7560,,,14.3,2,无柱,https://www.tainex.com.tw/venue/showgrounds/1/4,"4樓M區7,560㎡，淨高14.3~27.3m，無柱；官网共 6 厅；1F 逐区合计 22,480 与官网总计 22,680 不一致（疑官网笔误）"
+expo-97450a60:4F-N,expo-97450a60,台北世界贸易中心南港展览馆,4F-N,4樓N區,7560,,,14.3,2,无柱,https://www.tainex.com.tw/venue/showgrounds/1/4,"4樓N區7,560㎡，淨高14.3~27.3m，無柱；官网共 6 厅；1F 逐区合计 22,480 与官网总计 22,680 不一致（疑官网笔误）"
+expo-04db6670:1,expo-04db6670,成都世纪城新国际会展中心,1,1号馆,11500,,,,,Y,manual:团队整理-2026-10-27-官方展馆资料,"主馆单层无柱；扇形布置，官方口径无标准长宽高，本表长宽高留空不反推；单馆官方口径 11,000–11,500 ㎡，取上限；全馆 9 主馆 + 8 连接馆，连接馆单馆约 800–900 ㎡，官方未逐个编号，不单列"
+expo-04db6670:2,expo-04db6670,成都世纪城新国际会展中心,2,2号馆,11500,,,,,Y,manual:团队整理-2026-10-27-官方展馆资料,"主馆单层无柱；扇形布置，官方口径无标准长宽高，本表长宽高留空不反推；单馆官方口径 11,000–11,500 ㎡，取上限"
+expo-04db6670:3,expo-04db6670,成都世纪城新国际会展中心,3,3号馆,11500,,,,,Y,manual:团队整理-2026-10-27-官方展馆资料,"主馆单层无柱；扇形布置，官方口径无标准长宽高，本表长宽高留空不反推；单馆官方口径 11,000–11,500 ㎡，取上限"
+expo-04db6670:4,expo-04db6670,成都世纪城新国际会展中心,4,4号馆,11500,,,,,Y,manual:团队整理-2026-10-27-官方展馆资料,"主馆单层无柱；扇形布置，官方口径无标准长宽高，本表长宽高留空不反推；单馆官方口径 11,000–11,500 ㎡，取上限"
+expo-04db6670:5,expo-04db6670,成都世纪城新国际会展中心,5,5号馆,11500,,,,,Y,manual:团队整理-2026-10-27-官方展馆资料,"主馆单层无柱；扇形布置，官方口径无标准长宽高，本表长宽高留空不反推；单馆官方口径 11,000–11,500 ㎡，取上限"
+expo-04db6670:6,expo-04db6670,成都世纪城新国际会展中心,6,6号馆,11500,,,,,Y,manual:团队整理-2026-10-27-官方展馆资料,"主馆单层无柱；扇形布置，官方口径无标准长宽高，本表长宽高留空不反推；单馆官方口径 11,000–11,500 ㎡，取上限"
+expo-04db6670:7,expo-04db6670,成都世纪城新国际会展中心,7,7号馆,11500,,,,,Y,manual:团队整理-2026-10-27-官方展馆资料,"主馆单层无柱；扇形布置，官方口径无标准长宽高，本表长宽高留空不反推；单馆官方口径 11,000–11,500 ㎡，取上限"
+expo-04db6670:8,expo-04db6670,成都世纪城新国际会展中心,8,8号馆,11500,,,,,Y,manual:团队整理-2026-10-27-官方展馆资料,"主馆单层无柱；扇形布置，官方口径无标准长宽高，本表长宽高留空不反推；单馆官方口径 11,000–11,500 ㎡，取上限"
+expo-04db6670:9,expo-04db6670,成都世纪城新国际会展中心,9,9号馆,11500,,,,,Y,manual:团队整理-2026-10-27-官方展馆资料,"主馆单层无柱；扇形布置，官方口径无标准长宽高，本表长宽高留空不反推；单馆官方口径 11,000–11,500 ㎡，取上限"
+expo-96bd1359:1,expo-96bd1359,福州海峡国际会展中心,1,1号展厅,9000,100,85,12,3,,manual:团队整理-2026-10-27-海峡会展资料,"官方区间：面积约 9,000 ㎡；长约 100–110 m、最宽约 85–90 m、净高 12–15 m、地面承重 3 t/㎡；本表取下限，不反推；全馆 10 个室内展厅、净展面积 12 万 ㎡（团队 2026-10-27 口径）；公开表只列 1–8 号，9/10 号未单列；部分展厅可连通成 16,000–18,000 ㎡ 开幕式/大型特展空间（最长 284 m、最宽 90–125 m、净高 18–24 m、承重 5 t/㎡），属组合空间，不单列；官方另述单个展厅面积最高可达 10,000–18,000 ㎡"
+expo-96bd1359:4,expo-96bd1359,福州海峡国际会展中心,4,4号展厅,9000,100,85,12,3,,manual:团队整理-2026-10-27-海峡会展资料,"官方区间：面积约 9,000 ㎡；长约 100–110 m、最宽约 85–90 m、净高 12–15 m、地面承重 3 t/㎡；本表取下限，不反推"
+expo-96bd1359:5,expo-96bd1359,福州海峡国际会展中心,5,5号展厅,9000,100,85,12,3,,manual:团队整理-2026-10-27-海峡会展资料,"官方区间：面积约 9,000 ㎡；长约 100–110 m、最宽约 85–90 m、净高 12–15 m、地面承重 3 t/㎡；本表取下限，不反推"
+expo-96bd1359:8,expo-96bd1359,福州海峡国际会展中心,8,8号展厅,9000,100,85,12,3,,manual:团队整理-2026-10-27-海峡会展资料,"官方区间：面积约 9,000 ㎡；长约 100–110 m、最宽约 85–90 m、净高 12–15 m、地面承重 3 t/㎡；本表取下限，不反推"
+expo-96bd1359:2,expo-96bd1359,福州海峡国际会展中心,2,2号展厅,10000,120,90,12,5,,manual:团队整理-2026-10-27-海峡会展资料,"官方区间：面积约 10,000–11,000 ㎡；长约 120–125 m、最宽约 90 m、净高 12–18 m（中心高区可达 20 m 以上）、地面承重 5 t/㎡；本表取下限，不反推"
+expo-96bd1359:3,expo-96bd1359,福州海峡国际会展中心,3,3号展厅,10000,120,90,12,5,,manual:团队整理-2026-10-27-海峡会展资料,"官方区间：面积约 10,000–11,000 ㎡；长约 120–125 m、最宽约 90 m、净高 12–18 m（中心高区可达 20 m 以上）、地面承重 5 t/㎡；本表取下限，不反推"
+expo-96bd1359:6,expo-96bd1359,福州海峡国际会展中心,6,6号展厅,10000,120,90,12,5,,manual:团队整理-2026-10-27-海峡会展资料,"官方区间：面积约 10,000–11,000 ㎡；长约 120–125 m、最宽约 90 m、净高 12–18 m（中心高区可达 20 m 以上）、地面承重 5 t/㎡；本表取下限，不反推"
+expo-96bd1359:7,expo-96bd1359,福州海峡国际会展中心,7,7号展厅,10000,120,90,12,5,,manual:团队整理-2026-10-27-海峡会展资料,"官方区间：面积约 10,000–11,000 ㎡；长约 120–125 m、最宽约 90 m、净高 12–18 m（中心高区可达 20 m 以上）、地面承重 5 t/㎡；本表取下限，不反推"
+expo-ebe94af3:STD,expo-ebe94af3,青岛国际博览中心,STD,标准展厅（单馆规格，全馆10座）,10430,149,70,12,5,否,manual:团队整理-2026-10-27-青岛国际博览中心资料,"官网「标准展馆图纸」（/zgzlzx/37.html 图，2026-10-27 实读）：149 m × 70 m ≈ 10,430 ㎡；净高最低 12 m、最高 18 m；地面承重 5 t/㎡；每馆 550 个标准展位；配 40 根升降吊杆；每馆均有水、电、气、网接口；设物流门；图上标注 S1。全馆 10 座标准展厅，官方「展馆数据」页无记录，逐馆编号未公布（馆号体系为 S / E / N 系列）。另：团队 2026-10-27 整理区间为 10,000–12,000 ㎡、120 × 80–90 m、净高 13–18 m、承重 3–5 t/㎡，与官网图纸不一致，本行按官网图纸为准"
+expo-ebe94af3:LOBBY,expo-ebe94af3,青岛国际博览中心,LOBBY,中央登陆大厅/序厅,6000,,,,,是,manual:团队整理-2026-10-27-青岛国际博览中心资料,"官网「南、北登录厅」：南登录厅总 1.38 万 ㎡（单层 9,900 ㎡、中心大厅 6,000 ㎡，配总服务台、贵宾接待室、咖啡厅、大/中型会议室各一间、商务中心、警务室）；北登录厅总 1.32 万 ㎡（单层 6,400 ㎡，配总服务台、豪华婚宴大厅、中型宴会厅、豪华包间、自助餐区）。团队整理记录所述「中央登陆大厅/序厅约 5,000+ ㎡、挑高 20 m 以上」应指南登录厅中心大厅，本行按官网 6,000 ㎡ 记；挑高官网未给数值，留空待核"
+expo-61b57733:A1,expo-61b57733,中铁·长春东北亚国际博览中心,A1,A1标准展厅,18500,218,85,12,3.5,是,manual:团队整理-2026-10-27-长春国际展览中心参数表,官方《国际展览中心各展厅参数一览表》：85×218 m、净高 12 m、净展 18500 ㎡、地面承重 3.5 t/㎡、标准展位 965 个、会议室/贵宾室 10 间、单馆电量总负荷 3000 kW；展沟 23 条；展沟插座箱 396kW 荷载/台 8 套；综合展位箱 16.5kW 荷载/台 182 台
+expo-61b57733:A2,expo-61b57733,中铁·长春东北亚国际博览中心,A2,A2标准展厅,18500,218,85,12,3.5,是,manual:团队整理-2026-10-27-长春国际展览中心参数表,官方《国际展览中心各展厅参数一览表》：85×218 m、净高 12 m、净展 18500 ㎡、地面承重 3.5 t/㎡、标准展位 965 个、会议室/贵宾室 10 间、单馆电量总负荷 3000 kW；展沟 23 条；展沟插座箱 396kW 荷载/台 8 套；综合展位箱 16.5kW 荷载/台 182 台
+expo-61b57733:A3,expo-61b57733,中铁·长春东北亚国际博览中心,A3,A3标准展厅,18500,218,85,12,3.5,否,manual:团队整理-2026-10-27-长春国际展览中心参数表,官方《国际展览中心各展厅参数一览表》：85×218 m、净高 12 m、净展 18500 ㎡、地面承重 3.5 t/㎡、标准展位 965 个、会议室/贵宾室 10 间、单馆电量总负荷 3000 kW；展沟 23 条；展沟插座箱 396kW 荷载/台 8 套；综合展位箱 16.5kW 荷载/台 182 台；柱：共 4 根，直径 1.1 m（其余三厅单层无柱）
+expo-61b57733:C,expo-61b57733,中铁·长春东北亚国际博览中心,C,C多功能展厅,16000,161,100,14,3.5,是,manual:团队整理-2026-10-27-长春国际展览中心参数表,官方《国际展览中心各展厅参数一览表》：100×161 m、净高 14 m、净展 16000 ㎡、地面承重 3.5 t/㎡、标准展位 1065 个、会议室/贵宾室 13 间、单馆电量总负荷 1600 kW；展沟 10 条；展沟插座箱 396kW 荷载/台 4 套；综合展位箱 16.5kW 荷载/台 160 台
+expo-49313402:1,expo-49313402,Makuhari Messe,1,国际展示场 1 号馆,6750,112.5,60,15,5,,团队 2026-10-25 整理的 Makuhari Messe 官方楼层图与展馆说明,"1-8 号馆呈一字排开，总长约 516m；整体展示面积 54,000㎡；height_m 原值：区间 15–30（本次规范化取下限）"
+expo-49313402:2,expo-49313402,Makuhari Messe,2,国际展示场 2 号馆,6750,112.5,60,15,5,,团队 2026-10-25 整理的 Makuhari Messe 官方楼层图与展馆说明,"1-8 号馆呈一字排开，总长约 516m；整体展示面积 54,000㎡；height_m 原值：区间 15–30（本次规范化取下限）"
+expo-49313402:3,expo-49313402,Makuhari Messe,3,国际展示场 3 号馆,6750,112.5,60,15,5,,团队 2026-10-25 整理的 Makuhari Messe 官方楼层图与展馆说明,"1-8 号馆呈一字排开，总长约 516m；整体展示面积 54,000㎡；height_m 原值：区间 15–30（本次规范化取下限）"
+expo-49313402:4,expo-49313402,Makuhari Messe,4,国际展示场 4 号馆,6750,112.5,60,15,5,,团队 2026-10-25 整理的 Makuhari Messe 官方楼层图与展馆说明,"1-8 号馆呈一字排开，总长约 516m；整体展示面积 54,000㎡；height_m 原值：区间 15–30（本次规范化取下限）"
+expo-49313402:5,expo-49313402,Makuhari Messe,5,国际展示场 5 号馆,6750,112.5,60,15,5,,团队 2026-10-25 整理的 Makuhari Messe 官方楼层图与展馆说明,"1-8 号馆呈一字排开，总长约 516m；整体展示面积 54,000㎡；height_m 原值：区间 15–30（本次规范化取下限）"
+expo-49313402:6,expo-49313402,Makuhari Messe,6,国际展示场 6 号馆,6750,112.5,60,15,5,,团队 2026-10-25 整理的 Makuhari Messe 官方楼层图与展馆说明,"1-8 号馆呈一字排开，总长约 516m；整体展示面积 54,000㎡；height_m 原值：区间 15–30（本次规范化取下限）"
+expo-49313402:7,expo-49313402,Makuhari Messe,7,国际展示场 7 号馆,6750,112.5,60,15,5,,团队 2026-10-25 整理的 Makuhari Messe 官方楼层图与展馆说明,"1-8 号馆呈一字排开，总长约 516m；整体展示面积 54,000㎡；height_m 原值：区间 15–30（本次规范化取下限）"
+expo-49313402:8,expo-49313402,Makuhari Messe,8,国际展示场 8 号馆,6750,112.5,60,15,5,,团队 2026-10-25 整理的 Makuhari Messe 官方楼层图与展馆说明,"1-8 号馆呈一字排开，总长约 516m；整体展示面积 54,000㎡；height_m 原值：区间 15–30（本次规范化取下限）"
+expo-49313402:9,expo-49313402,Makuhari Messe,9,国际展示场 9 号馆（北馆）,9000,96,96,16,5,,团队 2026-10-25 整理的 Makuhari Messe 官方楼层图与展馆说明,北馆；height_m 原值：区间 16–34（本次规范化取下限）
+expo-49313402:10,expo-49313402,Makuhari Messe,10,国际展示场 10 号馆（北馆）,4500,96,48,16,3,,团队 2026-10-25 整理的 Makuhari Messe 官方楼层图与展馆说明,北馆；height_m 原值：区间 16–34（本次规范化取下限）
+expo-49313402:11,expo-49313402,Makuhari Messe,11,国际展示场 11 号馆（北馆）,4500,96,48,16,3,,团队 2026-10-25 整理的 Makuhari Messe 官方楼层图与展馆说明,北馆；height_m 原值：区间 16–34（本次规范化取下限）
+expo-6a18b8d5:E1,expo-6a18b8d5,Tokyo Big Sight,E1,东展示楼 1 号馆,8670,90,90,17,5,,团队 2026-10-25 整理的 Tokyo Big Sight 官方展馆说明,正方形大馆，倾斜屋顶最高 31m；height_m 原值：区间 17–31（本次规范化取下限）
+expo-6a18b8d5:E3,expo-6a18b8d5,Tokyo Big Sight,E3,东展示楼 3 号馆,8670,90,90,17,5,,团队 2026-10-25 整理的 Tokyo Big Sight 官方展馆说明,正方形大馆，倾斜屋顶最高 31m；height_m 原值：区间 17–31（本次规范化取下限）
+expo-6a18b8d5:E6,expo-6a18b8d5,Tokyo Big Sight,E6,东展示楼 6 号馆,8670,90,90,17,5,,团队 2026-10-25 整理的 Tokyo Big Sight 官方展馆说明,正方形大馆，倾斜屋顶最高 31m；height_m 原值：区间 17–31（本次规范化取下限）
+expo-6a18b8d5:E2,expo-6a18b8d5,Tokyo Big Sight,E2,东展示楼 2 号馆,8350,90,90,17,5,,团队 2026-10-25 整理的 Tokyo Big Sight 官方展馆说明,正方形大馆；height_m 原值：区间 17–31（本次规范化取下限）
+expo-6a18b8d5:E4,expo-6a18b8d5,Tokyo Big Sight,E4,东展示楼 4 号馆,8350,90,90,17,5,,团队 2026-10-25 整理的 Tokyo Big Sight 官方展馆说明,正方形大馆；height_m 原值：区间 17–31（本次规范化取下限）
+expo-6a18b8d5:E5,expo-6a18b8d5,Tokyo Big Sight,E5,东展示楼 5 号馆,8350,90,90,17,5,,团队 2026-10-25 整理的 Tokyo Big Sight 官方展馆说明,正方形大馆；height_m 原值：区间 17–31（本次规范化取下限）
+expo-6a18b8d5:E7,expo-6a18b8d5,Tokyo Big Sight,E7,东展示楼 7 号馆,11680,,,12,5,,团队 2026-10-25 整理的 Tokyo Big Sight 官方展馆说明,东展馆中面积最大；height_m 原值：区间 12–13（本次规范化取下限）
+expo-6a18b8d5:E8,expo-6a18b8d5,Tokyo Big Sight,E8,东展示楼 8 号馆,3080,,,10,5,,团队 2026-10-25 整理的 Tokyo Big Sight 官方展馆说明,height_m 原值：区间 10–12（本次规范化取下限）
+expo-6a18b8d5:E-LINK,expo-6a18b8d5,Tokyo Big Sight,E-LINK,东展馆连接通道,1120,,,10,,,团队 2026-10-25 整理的 Tokyo Big Sight 官方展馆说明,height_m 原值：区间 10–12（本次规范化取下限）
+expo-6a18b8d5:W1,expo-6a18b8d5,Tokyo Big Sight,W1,西展示楼 1 号馆（1F）,8880,135,45,12,5,,团队 2026-10-25 整理的 Tokyo Big Sight 官方展馆说明,两层结构；口径：面积=厅的空间面积，长宽=厅内可用面积（两者不互推；差值为墙柱、设备间、后台、走道，属正常）
+expo-6a18b8d5:W2,expo-6a18b8d5,Tokyo Big Sight,W2,西展示楼 2 号馆（1F）,8880,135,45,12,5,,团队 2026-10-25 整理的 Tokyo Big Sight 官方展馆说明,两层结构；口径：面积=厅的空间面积，长宽=厅内可用面积（两者不互推；差值为墙柱、设备间、后台、走道，属正常）
+expo-6a18b8d5:W3,expo-6a18b8d5,Tokyo Big Sight,W3,西展示楼 3 号馆（4F）,4680,90,45,13,2,,团队 2026-10-25 整理的 Tokyo Big Sight 官方展馆说明,height_m 原值：区间 13–18（本次规范化取下限）；口径：面积=厅的空间面积，长宽=厅内可用面积（两者不互推；差值为墙柱、设备间、后台、走道，属正常）
+expo-6a18b8d5:W4,expo-6a18b8d5,Tokyo Big Sight,W4,西展示楼 4 号馆（4F）,6840,45,135,13,2,,团队 2026-10-25 整理的 Tokyo Big Sight 官方展馆说明,height_m 原值：区间 13–18（本次规范化取下限）
+expo-6a18b8d5:W-ATRIUM,expo-6a18b8d5,Tokyo Big Sight,W-ATRIUM,西展厅中庭,5800,,,23,,,团队 2026-10-25 整理的 Tokyo Big Sight 官方展馆说明,"总面积 5,800㎡，其中约 2,000㎡ 可作展览"
+expo-6a18b8d5:S1,expo-6a18b8d5,Tokyo Big Sight,S1,南展示楼 1 号馆（1F）,5000,72,72,12,5,,团队 2026-10-25 整理的 Tokyo Big Sight 官方展馆说明,"南展区总展示面积约 20,000㎡"
+expo-6a18b8d5:S2,expo-6a18b8d5,Tokyo Big Sight,S2,南展示楼 2 号馆（1F）,5000,72,72,12,5,,团队 2026-10-25 整理的 Tokyo Big Sight 官方展馆说明,"南展区总展示面积约 20,000㎡"
+expo-6a18b8d5:S3,expo-6a18b8d5,Tokyo Big Sight,S3,南展示楼 3 号馆（4F）,5000,72,72,13,2,,团队 2026-10-25 整理的 Tokyo Big Sight 官方展馆说明,height_m 原值：区间 13–18（本次规范化取下限）
+expo-6a18b8d5:S4,expo-6a18b8d5,Tokyo Big Sight,S4,南展示楼 4 号馆（4F）,5000,72,72,13,2,,团队 2026-10-25 整理的 Tokyo Big Sight 官方展馆说明,height_m 原值：区间 13–18（本次规范化取下限）
+expo-0557670c:K1-1,expo-0557670c,KINTEX,K1-1,第 1 展馆 1 号馆,10611,171,63,15,5,,团队 2026-10-25 整理的 KINTEX 官方展馆说明,"一字排开，馆间可移动隔断组合/拆分；第 1 展馆合计 53,541㎡"
+expo-0557670c:K1-2,expo-0557670c,KINTEX,K1-2,第 1 展馆 2 号馆,10773,171,63,15,5,,团队 2026-10-25 整理的 KINTEX 官方展馆说明,"一字排开，馆间可移动隔断组合/拆分；第 1 展馆合计 53,541㎡"
+expo-0557670c:K1-3,expo-0557670c,KINTEX,K1-3,第 1 展馆 3 号馆,10773,171,63,15,5,,团队 2026-10-25 整理的 KINTEX 官方展馆说明,"一字排开，馆间可移动隔断组合/拆分；第 1 展馆合计 53,541㎡"
+expo-0557670c:K1-4,expo-0557670c,KINTEX,K1-4,第 1 展馆 4 号馆,10773,171,63,15,5,,团队 2026-10-25 整理的 KINTEX 官方展馆说明,"一字排开，馆间可移动隔断组合/拆分；第 1 展馆合计 53,541㎡"
+expo-0557670c:K1-5,expo-0557670c,KINTEX,K1-5,第 1 展馆 5 号馆,10611,171,63,15,5,,团队 2026-10-25 整理的 KINTEX 官方展馆说明,"一字排开，馆间可移动隔断组合/拆分；第 1 展馆合计 53,541㎡"
+expo-0557670c:K2-6,expo-0557670c,KINTEX,K2-6,第 2 展馆 6 号馆,5580,93,60,10,2,,团队 2026-10-25 整理的 KINTEX 官方展馆说明,"第 2 展馆合计 54,470㎡"
+expo-0557670c:K2-7,expo-0557670c,KINTEX,K2-7,第 2 展馆 7 号馆,11290,126,90,12,5,,团队 2026-10-25 整理的 KINTEX 官方展馆说明,"第 2 展馆合计 54,470㎡"
+expo-0557670c:K2-8,expo-0557670c,KINTEX,K2-8,第 2 展馆 8 号馆,11290,126,90,12,5,,团队 2026-10-25 整理的 KINTEX 官方展馆说明,"第 2 展馆合计 54,470㎡"
+expo-0557670c:K2-9,expo-0557670c,KINTEX,K2-9,第 2 展馆 9 号馆,13238,132,99,15,5,,团队 2026-10-25 整理的 KINTEX 官方展馆说明,"第 2 展馆合计 54,470㎡；单馆面积最大"
+expo-0557670c:K2-10,expo-0557670c,KINTEX,K2-10,第 2 展馆 10 号馆,13072,132,99,15,5,,团队 2026-10-25 整理的 KINTEX 官方展馆说明,"第 2 展馆合计 54,470㎡"
+expo-ffaffaac:A,expo-ffaffaac,COEX,A,Hall A,10368,144,72,10.5,1.5,,团队 2026-10-25 整理的 COEX 官方展馆说明,"A+B 可连成一片，合计 17,658㎡"
+expo-ffaffaac:B,expo-ffaffaac,COEX,B,Hall B,7290,108,67.5,10.5,1.5,,团队 2026-10-25 整理的 COEX 官方展馆说明,
+expo-ffaffaac:C,expo-ffaffaac,COEX,C,Hall C,10368,144,72,10.5,1.5,,团队 2026-10-25 整理的 COEX 官方展馆说明,"C+D 可连成一片，合计 17,658㎡"
+expo-ffaffaac:D,expo-ffaffaac,COEX,D,Hall D,7290,108,67.5,10.5,1.5,,团队 2026-10-25 整理的 COEX 官方展馆说明,
+expo-ffaffaac:GB,expo-ffaffaac,COEX,GB,3F Grand Ballroom,1972,,,7.6,,,团队 2026-10-25 整理的 COEX 官方展馆说明,可灵活划分为多个独立空间，适合中小型展览/发布会/晚宴
+expo-55dba48f:H1,expo-55dba48f,Singapore EXPO,H1,Hall 1,10000,125,80,10,2,是,团队 2026-10-25 整理的 Singapore EXPO 概述（通用规格，官方未逐馆公布）,"约值：官方未单独公布单馆面积，按通用规格约 10,000㎡；无柱；隔断可自由组合；height_m 原值：区间 10–15（本次规范化取下限）；floor_load_t_sqm 原值：区间 2–3（本次规范化取下限）；length_m 原值：约 125（本次规范化）；width_m 原值：约 80（本次规范化）"
+expo-55dba48f:H2,expo-55dba48f,Singapore EXPO,H2,Hall 2,10000,125,80,10,2,是,团队 2026-10-25 整理的 Singapore EXPO 概述（通用规格，官方未逐馆公布）,"约值：官方未单独公布单馆面积，按通用规格约 10,000㎡；无柱；隔断可自由组合；height_m 原值：区间 10–15（本次规范化取下限）；floor_load_t_sqm 原值：区间 2–3（本次规范化取下限）；length_m 原值：约 125（本次规范化）；width_m 原值：约 80（本次规范化）"
+expo-55dba48f:H3,expo-55dba48f,Singapore EXPO,H3,Hall 3,10000,125,80,10,2,是,团队 2026-10-25 整理的 Singapore EXPO 概述（通用规格，官方未逐馆公布）,"约值：官方未单独公布单馆面积，按通用规格约 10,000㎡；无柱；隔断可自由组合；height_m 原值：区间 10–15（本次规范化取下限）；floor_load_t_sqm 原值：区间 2–3（本次规范化取下限）；length_m 原值：约 125（本次规范化）；width_m 原值：约 80（本次规范化）"
+expo-55dba48f:H4,expo-55dba48f,Singapore EXPO,H4,Hall 4,10000,125,80,10,2,是,团队 2026-10-25 整理的 Singapore EXPO 概述（通用规格，官方未逐馆公布）,"约值：官方未单独公布单馆面积，按通用规格约 10,000㎡；无柱；隔断可自由组合；height_m 原值：区间 10–15（本次规范化取下限）；floor_load_t_sqm 原值：区间 2–3（本次规范化取下限）；length_m 原值：约 125（本次规范化）；width_m 原值：约 80（本次规范化）"
+expo-55dba48f:H5,expo-55dba48f,Singapore EXPO,H5,Hall 5,10000,125,80,10,2,是,团队 2026-10-25 整理的 Singapore EXPO 概述（通用规格，官方未逐馆公布）,"约值：官方未单独公布单馆面积，按通用规格约 10,000㎡；无柱；隔断可自由组合；height_m 原值：区间 10–15（本次规范化取下限）；floor_load_t_sqm 原值：区间 2–3（本次规范化取下限）；length_m 原值：约 125（本次规范化）；width_m 原值：约 80（本次规范化）"
+expo-55dba48f:H6,expo-55dba48f,Singapore EXPO,H6,Hall 6,10000,125,80,10,2,是,团队 2026-10-25 整理的 Singapore EXPO 概述（通用规格，官方未逐馆公布）,"约值：官方未单独公布单馆面积，按通用规格约 10,000㎡；无柱；隔断可自由组合；height_m 原值：区间 10–15（本次规范化取下限）；floor_load_t_sqm 原值：区间 2–3（本次规范化取下限）；length_m 原值：约 125（本次规范化）；width_m 原值：约 80（本次规范化）"
+expo-24c19c86:B2-L1,expo-24c19c86,Marina Bay Sands,B2-L1,B2/1F 展厅群（Halls A–E）,30000,,,8,,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,无柱；可灵活划分 Halls A–E，逐厅面积官网未给；height_m 原值：区间 8–10（本次规范化取下限）
+expo-24c19c86:GB,expo-24c19c86,Marina Bay Sands,GB,Sands Grand Ballroom,8000,,,8,,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,东南亚最大无柱宴会厅之一；height_m 原值：原记 8+（不少于）（本次规范化取下限）
+expo-1574af35:CH1,expo-1574af35,IMPACT,CH1,Challenger 1,20000,,,15,5,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"Challenger 1–3 连通 60,000㎡，无柱"
+expo-1574af35:CH2,expo-1574af35,IMPACT,CH2,Challenger 2,20000,,,15,5,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"Challenger 1–3 连通 60,000㎡，无柱"
+expo-1574af35:CH3,expo-1574af35,IMPACT,CH3,Challenger 3,20000,,,15,5,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"Challenger 1–3 连通 60,000㎡，无柱"
+expo-1574af35:H1,expo-1574af35,IMPACT,H1,Hall 1,5500,,,13.5,3,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"Hall 1–8 每馆约 5,000–6,000㎡；floor_load_t_sqm 原值：区间 3–5（本次规范化取下限）"
+expo-1574af35:H2,expo-1574af35,IMPACT,H2,Hall 2,5500,,,13.5,3,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"Hall 1–8 每馆约 5,000–6,000㎡；floor_load_t_sqm 原值：区间 3–5（本次规范化取下限）"
+expo-1574af35:H3,expo-1574af35,IMPACT,H3,Hall 3,5500,,,13.5,3,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"Hall 1–8 每馆约 5,000–6,000㎡；floor_load_t_sqm 原值：区间 3–5（本次规范化取下限）"
+expo-1574af35:H4,expo-1574af35,IMPACT,H4,Hall 4,5500,,,13.5,3,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"Hall 1–8 每馆约 5,000–6,000㎡；floor_load_t_sqm 原值：区间 3–5（本次规范化取下限）"
+expo-1574af35:H5,expo-1574af35,IMPACT,H5,Hall 5,5500,,,13.5,3,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"Hall 1–8 每馆约 5,000–6,000㎡；floor_load_t_sqm 原值：区间 3–5（本次规范化取下限）"
+expo-1574af35:H6,expo-1574af35,IMPACT,H6,Hall 6,5500,,,13.5,3,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"Hall 1–8 每馆约 5,000–6,000㎡；floor_load_t_sqm 原值：区间 3–5（本次规范化取下限）"
+expo-1574af35:H7,expo-1574af35,IMPACT,H7,Hall 7,5500,,,13.5,3,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"Hall 1–8 每馆约 5,000–6,000㎡；floor_load_t_sqm 原值：区间 3–5（本次规范化取下限）"
+expo-1574af35:H8,expo-1574af35,IMPACT,H8,Hall 8,5500,,,13.5,3,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"Hall 1–8 每馆约 5,000–6,000㎡；floor_load_t_sqm 原值：区间 3–5（本次规范化取下限）"
+expo-1574af35:H9,expo-1574af35,IMPACT,H9,Hall 9,5500,,,13.5,3,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,Hall 9–12 单馆规模相近；floor_load_t_sqm 原值：区间 3–5（本次规范化取下限）
+expo-1574af35:H10,expo-1574af35,IMPACT,H10,Hall 10,5500,,,13.5,3,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,Hall 9–12 单馆规模相近；floor_load_t_sqm 原值：区间 3–5（本次规范化取下限）
+expo-1574af35:H11,expo-1574af35,IMPACT,H11,Hall 11,5500,,,13.5,3,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,Hall 9–12 单馆规模相近；floor_load_t_sqm 原值：区间 3–5（本次规范化取下限）
+expo-1574af35:H12,expo-1574af35,IMPACT,H12,Hall 12,5500,,,13.5,3,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,Hall 9–12 单馆规模相近；floor_load_t_sqm 原值：区间 3–5（本次规范化取下限）
+expo-1574af35:ARENA,expo-1574af35,IMPACT,ARENA,IMPACT Arena,,,,20,,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"约 12,000 座多功能场馆；height_m 原值：原记 20+（不少于）（本次规范化取下限）"
+expo-3eb163b6:EH98,expo-3eb163b6,BITEC,EH98,EH 98,5400,90,60,15,3,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"EH 98–100 各约 5,400㎡；floor_load_t_sqm 原值：区间 3–5（本次规范化取下限）"
+expo-3eb163b6:EH99,expo-3eb163b6,BITEC,EH99,EH 99,5400,90,60,15,3,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"EH 98–100 各约 5,400㎡；floor_load_t_sqm 原值：区间 3–5（本次规范化取下限）"
+expo-3eb163b6:EH100,expo-3eb163b6,BITEC,EH100,EH 100,5400,90,60,15,3,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"EH 98–100 各约 5,400㎡；floor_load_t_sqm 原值：区间 3–5（本次规范化取下限）"
+expo-3eb163b6:EH101,expo-3eb163b6,BITEC,EH101,EH 101,5000,,,15,3,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"EH 101–104 各约 5,000㎡；floor_load_t_sqm 原值：区间 3–5（本次规范化取下限）"
+expo-3eb163b6:EH102,expo-3eb163b6,BITEC,EH102,EH 102,5000,,,15,3,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"EH 101–104 各约 5,000㎡；floor_load_t_sqm 原值：区间 3–5（本次规范化取下限）"
+expo-3eb163b6:EH103,expo-3eb163b6,BITEC,EH103,EH 103,5000,,,15,3,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"EH 101–104 各约 5,000㎡；floor_load_t_sqm 原值：区间 3–5（本次规范化取下限）"
+expo-3eb163b6:EH104,expo-3eb163b6,BITEC,EH104,EH 104,5000,,,15,3,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"EH 101–104 各约 5,000㎡；floor_load_t_sqm 原值：区间 3–5（本次规范化取下限）"
+expo-3eb163b6:EH105,expo-3eb163b6,BITEC,EH105,EH 105,,,,15,3,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"EH 105–107 扩建馆，单馆 5,000–8,000㎡；floor_load_t_sqm 原值：区间 3–5（本次规范化取下限）"
+expo-3eb163b6:EH106,expo-3eb163b6,BITEC,EH106,EH 106,,,,15,3,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"EH 105–107 扩建馆，单馆 5,000–8,000㎡；floor_load_t_sqm 原值：区间 3–5（本次规范化取下限）"
+expo-3eb163b6:EH107,expo-3eb163b6,BITEC,EH107,EH 107,,,,15,3,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"EH 105–107 扩建馆，单馆 5,000–8,000㎡；floor_load_t_sqm 原值：区间 3–5（本次规范化取下限）"
+expo-4745ac34:H1,expo-4745ac34,MITEC,H1,Hall 1,,,,9,5,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"11 个模块化展馆分三层；单馆约 3,000–4,200㎡；Triple Volume 达 29m；height_m 原值：区间 9–15（本次规范化取下限）；floor_load_t_sqm 原值：原记「5(底楼)/2(高层)」（本次规范化取下限）"
+expo-4745ac34:H2,expo-4745ac34,MITEC,H2,Hall 2,,,,9,5,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"11 个模块化展馆分三层；单馆约 3,000–4,200㎡；Triple Volume 达 29m；height_m 原值：区间 9–15（本次规范化取下限）；floor_load_t_sqm 原值：原记「5(底楼)/2(高层)」（本次规范化取下限）"
+expo-4745ac34:H3,expo-4745ac34,MITEC,H3,Hall 3,,,,9,5,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"11 个模块化展馆分三层；单馆约 3,000–4,200㎡；Triple Volume 达 29m；height_m 原值：区间 9–15（本次规范化取下限）；floor_load_t_sqm 原值：原记「5(底楼)/2(高层)」（本次规范化取下限）"
+expo-4745ac34:H4,expo-4745ac34,MITEC,H4,Hall 4,,,,9,5,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"11 个模块化展馆分三层；单馆约 3,000–4,200㎡；Triple Volume 达 29m；height_m 原值：区间 9–15（本次规范化取下限）；floor_load_t_sqm 原值：原记「5(底楼)/2(高层)」（本次规范化取下限）"
+expo-4745ac34:H5,expo-4745ac34,MITEC,H5,Hall 5,,,,9,5,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"11 个模块化展馆分三层；单馆约 3,000–4,200㎡；Triple Volume 达 29m；height_m 原值：区间 9–15（本次规范化取下限）；floor_load_t_sqm 原值：原记「5(底楼)/2(高层)」（本次规范化取下限）"
+expo-4745ac34:H6,expo-4745ac34,MITEC,H6,Hall 6,,,,9,5,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"11 个模块化展馆分三层；单馆约 3,000–4,200㎡；Triple Volume 达 29m；height_m 原值：区间 9–15（本次规范化取下限）；floor_load_t_sqm 原值：原记「5(底楼)/2(高层)」（本次规范化取下限）"
+expo-4745ac34:H7,expo-4745ac34,MITEC,H7,Hall 7,,,,9,5,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"11 个模块化展馆分三层；单馆约 3,000–4,200㎡；Triple Volume 达 29m；height_m 原值：区间 9–15（本次规范化取下限）；floor_load_t_sqm 原值：原记「5(底楼)/2(高层)」（本次规范化取下限）"
+expo-4745ac34:H8,expo-4745ac34,MITEC,H8,Hall 8,,,,9,5,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"11 个模块化展馆分三层；单馆约 3,000–4,200㎡；Triple Volume 达 29m；height_m 原值：区间 9–15（本次规范化取下限）；floor_load_t_sqm 原值：原记「5(底楼)/2(高层)」（本次规范化取下限）"
+expo-4745ac34:H9,expo-4745ac34,MITEC,H9,Hall 9,,,,9,5,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"11 个模块化展馆分三层；单馆约 3,000–4,200㎡；Triple Volume 达 29m；height_m 原值：区间 9–15（本次规范化取下限）；floor_load_t_sqm 原值：原记「5(底楼)/2(高层)」（本次规范化取下限）"
+expo-4745ac34:H10,expo-4745ac34,MITEC,H10,Hall 10,,,,9,5,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"11 个模块化展馆分三层；单馆约 3,000–4,200㎡；Triple Volume 达 29m；height_m 原值：区间 9–15（本次规范化取下限）；floor_load_t_sqm 原值：原记「5(底楼)/2(高层)」（本次规范化取下限）"
+expo-4745ac34:H11,expo-4745ac34,MITEC,H11,Hall 11,,,,9,5,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"11 个模块化展馆分三层；单馆约 3,000–4,200㎡；Triple Volume 达 29m；height_m 原值：区间 9–15（本次规范化取下限）；floor_load_t_sqm 原值：原记「5(底楼)/2(高层)」（本次规范化取下限）"
+expo-10446fc7:H1,expo-10446fc7,KLCC Convention Centre,H1,Hall 1,2502,86.61,29,9.36,2,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,
+expo-10446fc7:H2,expo-10446fc7,KLCC Convention Centre,H2,Hall 2,2502,86.61,29,9.36,2,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,
+expo-10446fc7:H4,expo-10446fc7,KLCC Convention Centre,H4,Hall 4,2332,80.44,29,9.36,2,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,
+expo-10446fc7:H5,expo-10446fc7,KLCC Convention Centre,H5,Hall 5,2332,80.44,29,9.36,2,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,
+expo-10446fc7:H6,expo-10446fc7,KLCC Convention Centre,H6,Hall 6,2071,71.44,29,9.36,2,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,
+expo-10446fc7:H7,expo-10446fc7,KLCC Convention Centre,H7,Hall 7,2071,71.44,29,9.36,2,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,
+expo-10446fc7:H8,expo-10446fc7,KLCC Convention Centre,H8,Hall 8,2071,71.44,29,9.36,2,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,
+expo-6c022898:H1,expo-6c022898,ICE BSD,H1,Hall 1,4860,90,54,12,2,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"10 馆连续排开，合计 48,600㎡；floor_load_t_sqm 原值：区间 2–3（本次规范化取下限）"
+expo-6c022898:H2,expo-6c022898,ICE BSD,H2,Hall 2,4860,90,54,12,2,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"10 馆连续排开，合计 48,600㎡；floor_load_t_sqm 原值：区间 2–3（本次规范化取下限）"
+expo-6c022898:H3,expo-6c022898,ICE BSD,H3,Hall 3,4860,90,54,12,2,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"10 馆连续排开，合计 48,600㎡；floor_load_t_sqm 原值：区间 2–3（本次规范化取下限）"
+expo-6c022898:H4,expo-6c022898,ICE BSD,H4,Hall 4,4860,90,54,12,2,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"10 馆连续排开，合计 48,600㎡；floor_load_t_sqm 原值：区间 2–3（本次规范化取下限）"
+expo-6c022898:H5,expo-6c022898,ICE BSD,H5,Hall 5,4860,90,54,12,2,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"10 馆连续排开，合计 48,600㎡；floor_load_t_sqm 原值：区间 2–3（本次规范化取下限）"
+expo-6c022898:H6,expo-6c022898,ICE BSD,H6,Hall 6,4860,90,54,12,2,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"10 馆连续排开，合计 48,600㎡；floor_load_t_sqm 原值：区间 2–3（本次规范化取下限）"
+expo-6c022898:H7,expo-6c022898,ICE BSD,H7,Hall 7,4860,90,54,12,2,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"10 馆连续排开，合计 48,600㎡；floor_load_t_sqm 原值：区间 2–3（本次规范化取下限）"
+expo-6c022898:H8,expo-6c022898,ICE BSD,H8,Hall 8,4860,90,54,12,2,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"10 馆连续排开，合计 48,600㎡；floor_load_t_sqm 原值：区间 2–3（本次规范化取下限）"
+expo-6c022898:H9,expo-6c022898,ICE BSD,H9,Hall 9,4860,90,54,12,2,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"10 馆连续排开，合计 48,600㎡；floor_load_t_sqm 原值：区间 2–3（本次规范化取下限）"
+expo-6c022898:H10,expo-6c022898,ICE BSD,H10,Hall 10,4860,90,54,12,2,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"10 馆连续排开，合计 48,600㎡；floor_load_t_sqm 原值：区间 2–3（本次规范化取下限）"
+expo-37040663:A,expo-37040663,JIExpo,A,Hall A（A1–A3）,9200,138,66,9,3,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,floor_load_t_sqm 原值：区间 3–5（本次规范化取下限）
+expo-37040663:B,expo-37040663,JIExpo,B,Hall B（B1–B3）,7500,114,66,9,3,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,height_m 原值：区间 9–10（本次规范化取下限）；floor_load_t_sqm 原值：区间 3–5（本次规范化取下限）
+expo-37040663:C,expo-37040663,JIExpo,C,Hall C（C1–C3）,7500,114,66,9,3,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,height_m 原值：区间 9–10（本次规范化取下限）；floor_load_t_sqm 原值：区间 3–5（本次规范化取下限）
+expo-37040663:D,expo-37040663,JIExpo,D,Hall D（D1–D2）,10000,120,84,12,3,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,无柱；floor_load_t_sqm 原值：区间 3–5（本次规范化取下限）
+expo-f6b99e35:H1,expo-f6b99e35,BIEC,H1,Hall 1,8750,120,75,11,30,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,重型工业馆；height_m 原值：区间 11–12（本次规范化取下限）
+expo-f6b99e35:H2,expo-f6b99e35,BIEC,H2,Hall 2,8750,120,75,11,30,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,重型工业馆；height_m 原值：区间 11–12（本次规范化取下限）
+expo-f6b99e35:H3,expo-f6b99e35,BIEC,H3,Hall 3,10000,,,12,30,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,
+expo-f6b99e35:H4,expo-f6b99e35,BIEC,H4,Hall 4（重型机械馆）,20000,200,100,14,30,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,
+expo-f6b99e35:H5,expo-f6b99e35,BIEC,H5,Hall 5,15000,,,12,30,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,
+expo-cb38797d:H1,expo-cb38797d,Bharat Mandapam,H1,Hall 1,,,,12,5,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"单馆 8,000–15,000㎡；主体跨度 200×130m；总室内 150,000㎡；height_m 原值：区间 12–15（本次规范化取下限）"
+expo-cb38797d:H2,expo-cb38797d,Bharat Mandapam,H2,Hall 2,,,,12,5,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"单馆 8,000–15,000㎡；主体跨度 200×130m；总室内 150,000㎡；height_m 原值：区间 12–15（本次规范化取下限）"
+expo-cb38797d:H3,expo-cb38797d,Bharat Mandapam,H3,Hall 3,,,,12,5,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"单馆 8,000–15,000㎡；主体跨度 200×130m；总室内 150,000㎡；height_m 原值：区间 12–15（本次规范化取下限）"
+expo-cb38797d:H4,expo-cb38797d,Bharat Mandapam,H4,Hall 4,,,,12,5,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"单馆 8,000–15,000㎡；主体跨度 200×130m；总室内 150,000㎡；height_m 原值：区间 12–15（本次规范化取下限）"
+expo-cb38797d:H5,expo-cb38797d,Bharat Mandapam,H5,Hall 5,,,,12,5,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"单馆 8,000–15,000㎡；主体跨度 200×130m；总室内 150,000㎡；height_m 原值：区间 12–15（本次规范化取下限）"
+expo-cb38797d:H6,expo-cb38797d,Bharat Mandapam,H6,Hall 6 及配套,,,,10,5,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"单馆约 5,000–7,000㎡；height_m 原值：区间 10–12（本次规范化取下限）"
+expo-346ffcf0:SR,expo-346ffcf0,DWTC,SR,Sheikh Rashid Hall,3900,66,60,10,5,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,
+expo-346ffcf0:SM,expo-346ffcf0,DWTC,SM,Sheikh Maktoum Hall,3900,66,60,10,5,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,
+expo-346ffcf0:Z1,expo-346ffcf0,DWTC,Z1,Za'abeel Hall 1,,,,12,5,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"6 馆合计 >15,000㎡；无柱；height_m 原值：区间 12–14（本次规范化取下限）"
+expo-346ffcf0:Z2,expo-346ffcf0,DWTC,Z2,Za'abeel Hall 2,,,,12,5,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"6 馆合计 >15,000㎡；无柱；height_m 原值：区间 12–14（本次规范化取下限）"
+expo-346ffcf0:Z3,expo-346ffcf0,DWTC,Z3,Za'abeel Hall 3,,,,12,5,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"6 馆合计 >15,000㎡；无柱；height_m 原值：区间 12–14（本次规范化取下限）"
+expo-346ffcf0:Z4,expo-346ffcf0,DWTC,Z4,Za'abeel Hall 4,,,,12,5,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"6 馆合计 >15,000㎡；无柱；height_m 原值：区间 12–14（本次规范化取下限）"
+expo-346ffcf0:Z5,expo-346ffcf0,DWTC,Z5,Za'abeel Hall 5,,,,12,5,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"6 馆合计 >15,000㎡；无柱；height_m 原值：区间 12–14（本次规范化取下限）"
+expo-346ffcf0:Z6,expo-346ffcf0,DWTC,Z6,Za'abeel Hall 6,,,,12,5,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"6 馆合计 >15,000㎡；无柱；height_m 原值：区间 12–14（本次规范化取下限）"
+expo-346ffcf0:SS1,expo-346ffcf0,DWTC,SS1,Sheikh Saeed Hall 1,,,,12,5,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"单馆约 5,000–7,500㎡"
+expo-346ffcf0:SS2,expo-346ffcf0,DWTC,SS2,Sheikh Saeed Hall 2,,,,12,5,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"单馆约 5,000–7,500㎡"
+expo-346ffcf0:SS3,expo-346ffcf0,DWTC,SS3,Sheikh Saeed Hall 3,,,,12,5,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"单馆约 5,000–7,500㎡"
+expo-5d11dce3:H1,expo-5d11dce3,ADNEC,H1,Hall 1,,,,9.5,5,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"单馆 3,167–7,919㎡；11 馆连通 >73,000㎡；height_m 原值：区间 9.5–10（本次规范化取下限）"
+expo-5d11dce3:H2,expo-5d11dce3,ADNEC,H2,Hall 2,,,,9.5,5,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"单馆 3,167–7,919㎡；11 馆连通 >73,000㎡；height_m 原值：区间 9.5–10（本次规范化取下限）"
+expo-5d11dce3:H3,expo-5d11dce3,ADNEC,H3,Hall 3,,,,9.5,5,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"单馆 3,167–7,919㎡；11 馆连通 >73,000㎡；height_m 原值：区间 9.5–10（本次规范化取下限）"
+expo-5d11dce3:H4,expo-5d11dce3,ADNEC,H4,Hall 4,,,,9.5,5,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"单馆 3,167–7,919㎡；11 馆连通 >73,000㎡；height_m 原值：区间 9.5–10（本次规范化取下限）"
+expo-5d11dce3:H5,expo-5d11dce3,ADNEC,H5,Hall 5,,,,9.5,5,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"单馆 3,167–7,919㎡；11 馆连通 >73,000㎡；height_m 原值：区间 9.5–10（本次规范化取下限）"
+expo-5d11dce3:H6,expo-5d11dce3,ADNEC,H6,Hall 6,,,,9.5,5,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"单馆 3,167–7,919㎡；11 馆连通 >73,000㎡；height_m 原值：区间 9.5–10（本次规范化取下限）"
+expo-5d11dce3:H7,expo-5d11dce3,ADNEC,H7,Hall 7,,,,9.5,5,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"单馆 3,167–7,919㎡；11 馆连通 >73,000㎡；height_m 原值：区间 9.5–10（本次规范化取下限）"
+expo-5d11dce3:H8,expo-5d11dce3,ADNEC,H8,Hall 8,,,,9.5,5,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"单馆 3,167–7,919㎡；11 馆连通 >73,000㎡；height_m 原值：区间 9.5–10（本次规范化取下限）"
+expo-5d11dce3:H9,expo-5d11dce3,ADNEC,H9,Hall 9,,,,9.5,5,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"单馆 3,167–7,919㎡；11 馆连通 >73,000㎡；height_m 原值：区间 9.5–10（本次规范化取下限）"
+expo-5d11dce3:H10,expo-5d11dce3,ADNEC,H10,Hall 10,,,,9.5,5,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"单馆 3,167–7,919㎡；11 馆连通 >73,000㎡；height_m 原值：区间 9.5–10（本次规范化取下限）"
+expo-5d11dce3:H11,expo-5d11dce3,ADNEC,H11,Hall 11,,,,9.5,5,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"单馆 3,167–7,919㎡；11 馆连通 >73,000㎡；height_m 原值：区间 9.5–10（本次规范化取下限）"
+expo-5d11dce3:H12/ICC,expo-5d11dce3,ADNEC,H12/ICC,ICC Abu Dhabi（Hall 12）,7919,,,13.5,5,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,
+expo-5d11dce3:MARINA,expo-5d11dce3,ADNEC,MARINA,Marina Hall,10000,,,10,5,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,滨水展馆
+expo-fb6a1fca:F1,expo-fb6a1fca,PICC,F1,Forum 1,1400,24,60,6.5,1.5,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"Forum 1–3 合计约 4,292㎡；height_m 原值：区间 6.5–8（本次规范化取下限）；floor_load_t_sqm 原值：区间 1.5–2（本次规范化取下限）"
+expo-fb6a1fca:F2,expo-fb6a1fca,PICC,F2,Forum 2,1400,24,60,6.5,1.5,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"Forum 1–3 合计约 4,292㎡；height_m 原值：区间 6.5–8（本次规范化取下限）；floor_load_t_sqm 原值：区间 1.5–2（本次规范化取下限）"
+expo-fb6a1fca:F3,expo-fb6a1fca,PICC,F3,Forum 3,1400,24,60,6.5,1.5,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"Forum 1–3 合计约 4,292㎡；height_m 原值：区间 6.5–8（本次规范化取下限）；floor_load_t_sqm 原值：区间 1.5–2（本次规范化取下限）"
+expo-fb6a1fca:RH,expo-fb6a1fca,PICC,RH,Reception Hall,3175,63,50,8,,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,多功能大厅/大型展厅
+expo-93337c6b:A1,expo-93337c6b,SECC,A1,Hall A1,4500,75,60,12,5,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"Hall A 两馆连通 9,000㎡；无柱"
+expo-93337c6b:A2,expo-93337c6b,SECC,A2,Hall A2,4500,75,60,12,5,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"Hall A 两馆连通 9,000㎡；无柱"
+expo-93337c6b:B1,expo-93337c6b,SECC,B1,Hall B1,4500,75,60,12,5,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"Hall B 两馆连通 9,000㎡；无柱"
+expo-93337c6b:B2,expo-93337c6b,SECC,B2,Hall B2,4500,75,60,12,5,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"Hall B 两馆连通 9,000㎡；无柱"
+expo-9defc276:H1,expo-9defc276,QNCC,H1,Hall 1,4100,72,57,12,3,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,多功能/小型展厅；height_m 原值：区间 12–15（本次规范化取下限）；floor_load_t_sqm 原值：区间 3–5（本次规范化取下限）
+expo-9defc276:H2,expo-9defc276,QNCC,H2,Hall 2,4100,72,57,12,3,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,多功能/小型展厅；height_m 原值：区间 12–15（本次规范化取下限）；floor_load_t_sqm 原值：区间 3–5（本次规范化取下限）
+expo-9defc276:H3,expo-9defc276,QNCC,H3,Hall 3,5000,48,96,15,3,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"主展馆整体 342×96m，3–9 连通约 35,000㎡；无柱+模块化吊顶桁架；length_m 原值：区间 48–50（本次规范化取下限）；height_m 原值：区间 15–18（本次规范化取下限）；floor_load_t_sqm 原值：区间 3–5（本次规范化取下限）"
+expo-9defc276:H4,expo-9defc276,QNCC,H4,Hall 4,5000,48,96,15,3,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"主展馆整体 342×96m，3–9 连通约 35,000㎡；无柱+模块化吊顶桁架；length_m 原值：区间 48–50（本次规范化取下限）；height_m 原值：区间 15–18（本次规范化取下限）；floor_load_t_sqm 原值：区间 3–5（本次规范化取下限）"
+expo-9defc276:H5,expo-9defc276,QNCC,H5,Hall 5,5000,48,96,15,3,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"主展馆整体 342×96m，3–9 连通约 35,000㎡；无柱+模块化吊顶桁架；length_m 原值：区间 48–50（本次规范化取下限）；height_m 原值：区间 15–18（本次规范化取下限）；floor_load_t_sqm 原值：区间 3–5（本次规范化取下限）"
+expo-9defc276:H6,expo-9defc276,QNCC,H6,Hall 6,5000,48,96,15,3,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"主展馆整体 342×96m，3–9 连通约 35,000㎡；无柱+模块化吊顶桁架；length_m 原值：区间 48–50（本次规范化取下限）；height_m 原值：区间 15–18（本次规范化取下限）；floor_load_t_sqm 原值：区间 3–5（本次规范化取下限）"
+expo-9defc276:H7,expo-9defc276,QNCC,H7,Hall 7,5000,48,96,15,3,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"主展馆整体 342×96m，3–9 连通约 35,000㎡；无柱+模块化吊顶桁架；length_m 原值：区间 48–50（本次规范化取下限）；height_m 原值：区间 15–18（本次规范化取下限）；floor_load_t_sqm 原值：区间 3–5（本次规范化取下限）"
+expo-9defc276:H8,expo-9defc276,QNCC,H8,Hall 8,5000,48,96,15,3,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"主展馆整体 342×96m，3–9 连通约 35,000㎡；无柱+模块化吊顶桁架；length_m 原值：区间 48–50（本次规范化取下限）；height_m 原值：区间 15–18（本次规范化取下限）；floor_load_t_sqm 原值：区间 3–5（本次规范化取下限）"
+expo-9defc276:H9,expo-9defc276,QNCC,H9,Hall 9,5000,48,96,15,3,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"主展馆整体 342×96m，3–9 连通约 35,000㎡；无柱+模块化吊顶桁架；length_m 原值：区间 48–50（本次规范化取下限）；height_m 原值：区间 15–18（本次规范化取下限）；floor_load_t_sqm 原值：区间 3–5（本次规范化取下限）"
+expo-ba1b85e9:H1,expo-ba1b85e9,Tüyap,H1,Hall 1,,,,8,5,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"单馆 3,000–8,500㎡；中型馆约 60×50m，大型馆约 100×60–85m；部分重型馆 >14m；height_m 原值：区间 8–12（本次规范化取下限）"
+expo-ba1b85e9:H2,expo-ba1b85e9,Tüyap,H2,Hall 2,,,,8,5,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"单馆 3,000–8,500㎡；中型馆约 60×50m，大型馆约 100×60–85m；部分重型馆 >14m；height_m 原值：区间 8–12（本次规范化取下限）"
+expo-ba1b85e9:H3,expo-ba1b85e9,Tüyap,H3,Hall 3,,,,8,5,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"单馆 3,000–8,500㎡；中型馆约 60×50m，大型馆约 100×60–85m；部分重型馆 >14m；height_m 原值：区间 8–12（本次规范化取下限）"
+expo-ba1b85e9:H4,expo-ba1b85e9,Tüyap,H4,Hall 4,,,,8,5,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"单馆 3,000–8,500㎡；中型馆约 60×50m，大型馆约 100×60–85m；部分重型馆 >14m；height_m 原值：区间 8–12（本次规范化取下限）"
+expo-ba1b85e9:H5,expo-ba1b85e9,Tüyap,H5,Hall 5,,,,8,5,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"单馆 3,000–8,500㎡；中型馆约 60×50m，大型馆约 100×60–85m；部分重型馆 >14m；height_m 原值：区间 8–12（本次规范化取下限）"
+expo-ba1b85e9:H6,expo-ba1b85e9,Tüyap,H6,Hall 6,,,,8,5,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"单馆 3,000–8,500㎡；中型馆约 60×50m，大型馆约 100×60–85m；部分重型馆 >14m；height_m 原值：区间 8–12（本次规范化取下限）"
+expo-ba1b85e9:H7,expo-ba1b85e9,Tüyap,H7,Hall 7,,,,8,5,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"单馆 3,000–8,500㎡；中型馆约 60×50m，大型馆约 100×60–85m；部分重型馆 >14m；height_m 原值：区间 8–12（本次规范化取下限）"
+expo-ba1b85e9:H8,expo-ba1b85e9,Tüyap,H8,Hall 8,,,,8,5,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"单馆 3,000–8,500㎡；中型馆约 60×50m，大型馆约 100×60–85m；部分重型馆 >14m；height_m 原值：区间 8–12（本次规范化取下限）"
+expo-ba1b85e9:H9,expo-ba1b85e9,Tüyap,H9,Hall 9,,,,8,5,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"单馆 3,000–8,500㎡；中型馆约 60×50m，大型馆约 100×60–85m；部分重型馆 >14m；height_m 原值：区间 8–12（本次规范化取下限）"
+expo-ba1b85e9:H10,expo-ba1b85e9,Tüyap,H10,Hall 10,,,,8,5,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"单馆 3,000–8,500㎡；中型馆约 60×50m，大型馆约 100×60–85m；部分重型馆 >14m；height_m 原值：区间 8–12（本次规范化取下限）"
+expo-ba1b85e9:H11,expo-ba1b85e9,Tüyap,H11,Hall 11,,,,8,5,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"单馆 3,000–8,500㎡；中型馆约 60×50m，大型馆约 100×60–85m；部分重型馆 >14m；height_m 原值：区间 8–12（本次规范化取下限）"
+expo-ba1b85e9:H12,expo-ba1b85e9,Tüyap,H12,Hall 12（新扩建）,10000,,,12,5,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"单馆超 10,000㎡；height_m 原值：区间 12–16（本次规范化取下限）"
+expo-ba1b85e9:H13,expo-ba1b85e9,Tüyap,H13,Hall 13,,,,8,5,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,height_m 原值：区间 8–12（本次规范化取下限）
+expo-ba1b85e9:H14,expo-ba1b85e9,Tüyap,H14,Hall 14（特大型馆）,10000,,,12,5,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"单馆超 10,000㎡；全馆室内合计 120,000㎡；height_m 原值：区间 12–16（本次规范化取下限）"
+expo-29b7905c:H1,expo-29b7905c,RFECC（利雅得前沿）,H1,Hall 1,9350,,,10,,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"模块化展馆，4 馆无缝连通；连通后约 39,350㎡；室外 50,000㎡"
+expo-29b7905c:H2,expo-29b7905c,RFECC（利雅得前沿）,H2,Hall 2,9250,,,10,,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"模块化展馆，4 馆无缝连通；连通后约 39,350㎡；室外 50,000㎡"
+expo-29b7905c:H3,expo-29b7905c,RFECC（利雅得前沿）,H3,Hall 3,10400,,,10,,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"模块化展馆，4 馆无缝连通；连通后约 39,350㎡；室外 50,000㎡"
+expo-29b7905c:H4,expo-29b7905c,RFECC（利雅得前沿）,H4,Hall 4,9350,,,10,,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"模块化展馆，4 馆无缝连通；连通后约 39,350㎡；室外 50,000㎡"
+expo-9f76bf78:H1,expo-9f76bf78,RICEC（利雅得国际会议展览中心）,H1,Hall 1,,90,40,8,3,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"单馆约 3,500–4,000㎡；4 馆合计 14,644–15,000㎡；有隔断可连通；height_m 原值：区间 8–10（本次规范化取下限）；floor_load_t_sqm 原值：区间 3–5（本次规范化取下限）"
+expo-9f76bf78:H2,expo-9f76bf78,RICEC（利雅得国际会议展览中心）,H2,Hall 2,,90,40,8,3,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"单馆约 3,500–4,000㎡；4 馆合计 14,644–15,000㎡；有隔断可连通；height_m 原值：区间 8–10（本次规范化取下限）；floor_load_t_sqm 原值：区间 3–5（本次规范化取下限）"
+expo-9f76bf78:H3,expo-9f76bf78,RICEC（利雅得国际会议展览中心）,H3,Hall 3,,90,40,8,3,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"单馆约 3,500–4,000㎡；4 馆合计 14,644–15,000㎡；有隔断可连通；height_m 原值：区间 8–10（本次规范化取下限）；floor_load_t_sqm 原值：区间 3–5（本次规范化取下限）"
+expo-9f76bf78:H4,expo-9f76bf78,RICEC（利雅得国际会议展览中心）,H4,Hall 4,,90,40,8,3,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"单馆约 3,500–4,000㎡；4 馆合计 14,644–15,000㎡；有隔断可连通；height_m 原值：区间 8–10（本次规范化取下限）；floor_load_t_sqm 原值：区间 3–5（本次规范化取下限）"
+expo-c4c63c64:H1,expo-c4c63c64,Riyadh Exhibition Centre（Malham）,H1,Hall 1,,100,100,12,5,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"单馆/单区 10,000–20,000㎡；总室内 >90,000㎡（扩建可达 10 万+）；无柱大跨度；length_m 原值：区间 100–150（本次规范化取下限）；width_m 原值：原记 100+（不少于）（本次规范化取下限）；height_m 原值：区间 12–15（本次规范化取下限）"
+expo-c4c63c64:H2,expo-c4c63c64,Riyadh Exhibition Centre（Malham）,H2,Hall 2,,100,100,12,5,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"单馆/单区 10,000–20,000㎡；总室内 >90,000㎡（扩建可达 10 万+）；无柱大跨度；length_m 原值：区间 100–150（本次规范化取下限）；width_m 原值：原记 100+（不少于）（本次规范化取下限）；height_m 原值：区间 12–15（本次规范化取下限）"
+expo-c4c63c64:H3,expo-c4c63c64,Riyadh Exhibition Centre（Malham）,H3,Hall 3,,100,100,12,5,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"单馆/单区 10,000–20,000㎡；总室内 >90,000㎡（扩建可达 10 万+）；无柱大跨度；length_m 原值：区间 100–150（本次规范化取下限）；width_m 原值：原记 100+（不少于）（本次规范化取下限）；height_m 原值：区间 12–15（本次规范化取下限）"
+expo-c4c63c64:H4,expo-c4c63c64,Riyadh Exhibition Centre（Malham）,H4,Hall 4,,100,100,12,5,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"单馆/单区 10,000–20,000㎡；总室内 >90,000㎡（扩建可达 10 万+）；无柱大跨度；length_m 原值：区间 100–150（本次规范化取下限）；width_m 原值：原记 100+（不少于）（本次规范化取下限）；height_m 原值：区间 12–15（本次规范化取下限）"
+expo-c4c63c64:H5,expo-c4c63c64,Riyadh Exhibition Centre（Malham）,H5,Hall 5,,100,100,12,5,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,"单馆/单区 10,000–20,000㎡；总室内 >90,000㎡（扩建可达 10 万+）；无柱大跨度；length_m 原值：区间 100–150（本次规范化取下限）；width_m 原值：原记 100+（不少于）（本次规范化取下限）；height_m 原值：区间 12–15（本次规范化取下限）"
+expo-77cbda3d:DOME,expo-77cbda3d,Jeddah Superdome,DOME,超级穹顶主场馆,34636,,210,46,,,团队 2026-10-25 整理的场馆概述（含约值/区间，未逐馆官方核实）,完全无柱单体穹顶；直径 210m，中央高 46m；width_m 原值：原记「210(直径)」（本次规范化取下限）
+expo-9a7ab5c3:4,expo-9a7ab5c3,EXCO,4,Hall 4 (East Wing),4937,76.7,63.3,15.3,3,,https://exco.co.kr/eng/facility/sub01_11.html,"东馆三厅合计 15,024㎡（4,937+4,966+5,121），东馆整体长 190m、深 76.7m（官网 Scale 写 63.3×76.7 为单厅 W×D）；单厅剧院式 2,800、课桌 2,200、宴会 1,500、展位 250；主办方办公室 1 间/厅。注意：官网「剧院式合计 20,400」与三厅相加 8,400 不符，疑含公共区域，此处只采单厅值。官网 Scale 原序为 W×D，本表按「长边=length、短边=width」统一"
+expo-9a7ab5c3:5,expo-9a7ab5c3,EXCO,5,Hall 5 (East Wing),4966,76.7,63.3,15.3,3,,https://exco.co.kr/eng/facility/sub01_11.html,同上；东馆地面荷载 3t/㎡（官网 Floor Load 3）。官网 Scale 原序为 W×D，本表按「长边=length、短边=width」统一
+expo-9a7ab5c3:6,expo-9a7ab5c3,EXCO,6,Hall 6 (East Wing),5121,76.7,63.3,15.3,3,,https://exco.co.kr/eng/facility/sub01_11.html,同上。官网 Scale 原序为 W×D，本表按「长边=length、短边=width」统一
+expo-9a7ab5c3:1,expo-9a7ab5c3,EXCO,1,Hall 1 (West Wing),5171,71.5,70.5,13,2.5,,https://exco.co.kr/eng/facility/sub01_1.html,"西馆三厅合计 14,415㎡；剧院 2,800 座、宴会 1,500、展位 250。官网 Scale 原序为 W×D，本表按「长边=length、短边=width」统一"
+expo-9a7ab5c3:2,expo-9a7ab5c3,EXCO,2,Hall 2 (West Wing),4834,70.5,68.6,13,2.5,,https://exco.co.kr/eng/facility/sub01_1.html,同上。官网 Scale 原序为 W×D，本表按「长边=length、短边=width」统一
+expo-9a7ab5c3:3,expo-9a7ab5c3,EXCO,3,Hall 3 (West Wing),4410,77.7,59.3,9.6,1.5,,https://exco.co.kr/eng/facility/sub01_1.html,Hall 3 含 3C 分区 12.4×43.4m、层高 4m、荷载 0.25t/㎡。官网 Scale 原序为 W×D，本表按「长边=length、短边=width」统一
+expo-89004931:EH,expo-89004931,Grand City Convex Surabaya,EH,Exhibition Hall（Ground Floor）,4042,94,53,12.8,2,,https://www.grandcitysurabaya.com/exhibition-hall/,"官网参数表：Ground floor / 94m×53m / 4042㎡ / 2t·㎡ / 高 12.8m / 水磨石地砖。注意：94×53=4,982 与 4042 不符（疑含服务区），面积按官网表格 4042 记；官网正文另称 4,100㎡、含 880㎡ 前厅（pre-function）；口径：面积=厅的空间面积，长宽=厅内可用面积（两者不互推；差值为墙柱、设备间、后台、走道，属正常）"
+expo-89004931:CH,expo-89004931,Grand City Convex Surabaya,CH,Convention Hall（3rd Floor）,2580,60,43,12.8,1.2,,https://www.grandcitysurabaya.com/convention-hall/,"官网参数表：3rd floor / 60m×43m / 2580㎡（60×43=2580，自洽）/ 1.2t·㎡ / 高 12.8m / 地毯。第三方名录写 3,320㎡、剧院 3,500、宴会 5,000，与官网不符，不采信"
+expo-1e9a1a6f:1,expo-1e9a1a6f,Intex Osaka,1,Exhibition Hall 1,5087,,,12,5,,https://www.intex-osaka.com/en/organizer/guide/download/file/hall_1_detail.pdf,"展示面积5,087㎡、净高12m、5t/㎡"
+expo-1e9a1a6f:2,expo-1e9a1a6f,Intex Osaka,2,Exhibition Hall 2,6729,,,12,5,,https://www.intex-osaka.com/en/organizer/guide/download/file/hall_2_detail.pdf,"展示面积6,729㎡、净高12m、5t/㎡"
+expo-1e9a1a6f:3,expo-1e9a1a6f,Intex Osaka,3,Exhibition Hall 3,5119,,,15,5,,https://www.intex-osaka.com/en/organizer/guide/download/file/hall_3_detail.pdf,"展示面积5,119㎡、净高15m、5t/㎡"
+expo-1e9a1a6f:4,expo-1e9a1a6f,Intex Osaka,4,Exhibition Hall 4,6729,,,12,5,,https://www.intex-osaka.com/en/organizer/guide/download/file/hall_4_detail.pdf,"展示面积6,729㎡、净高12m、5t/㎡"
+expo-1e9a1a6f:5A,expo-1e9a1a6f,Intex Osaka,5A,Exhibition Hall 5-A,4728,,,6,5,无柱,https://www.intex-osaka.com/en/organizer/guide/download/file/hall_5ab_detail.pdf,"5A馆4,728㎡、净高6-12m、5t/㎡、无柱"
+expo-1e9a1a6f:5B,expo-1e9a1a6f,Intex Osaka,5B,Exhibition Hall 5-B,1625,,,5,1,,https://www.intex-osaka.com/en/organizer/guide/download/file/hall_5ab_detail.pdf,"5B馆1,625㎡、净高5m、1t/㎡"
+expo-1e9a1a6f:6A,expo-1e9a1a6f,Intex Osaka,6A,Exhibition Hall 6-A,9679.5,,,3.225,5,,https://www.intex-osaka.com/en/organizer/guide/download/file/hall_6a_detail.pdf,"6A馆9,679.5㎡、净高3.225-11.7m"
+expo-1e9a1a6f:6B,expo-1e9a1a6f,Intex Osaka,6B,Exhibition Hall 6-B,9679.5,,,3.225,5,,https://www.intex-osaka.com/en/organizer/guide/download/file/hall_6b_detail.pdf,"6B馆9,679.5㎡、净高3.225-11.7m"
+expo-1e9a1a6f:6C,expo-1e9a1a6f,Intex Osaka,6C,Exhibition Hall 6-C,10535,,,3.225,2,,https://www.intex-osaka.com/en/organizer/guide/download/file/hall_6c_detail.pdf,"6C馆10,535㎡、净高3.225-8m、2t/㎡"
+expo-1e9a1a6f:6D,expo-1e9a1a6f,Intex Osaka,6D,Exhibition Hall 6-D,10167,,,3.225,2,,https://www.intex-osaka.com/en/organizer/guide/download/file/hall_6d_detail.pdf,"6D馆10,167㎡、净高3.225-8m、2t/㎡"
+expo-e8767a87:1,expo-e8767a87,Port Messe Nagoya,1,第1展示館,20160,210,96,20,5,无柱,https://web.archive.org/web/20250114111948/https://portmesse.com/facility/tenjikan01,"20,160㎡無柱空間、210×96m、天井20m；2026-10 官网维护中，来源取 2025-01 存档页"
+expo-e8767a87:2,expo-e8767a87,Port Messe Nagoya,2,第2展示館,6576,110,60,12.5,5,无柱,https://web.archive.org/web/20250114103215/https://portmesse.com/facility/tenjikan02,"6,576㎡無柱空間、南北110m×東西60m、12.5m；2026-10 官网维护中，来源取 2025-01 存档页"
+expo-e8767a87:3,expo-e8767a87,Port Messe Nagoya,3,第3展示館,13500,180,75,15,5,无柱,https://web.archive.org/web/20250115004232/https://portmesse.com/facility/tenjikan03,"13,500㎡無柱空間、南北75m×東西180m、天井15m；2026-10 官网维护中，来源取 2025-01 存档页"
+expo-6c786082:A-1,expo-6c786082,Marine Messe Fukuoka,A-1,A館 多目的展示室,8000,,,30,5,,https://web.archive.org/web/20240914010102/https://www.marinemesse.or.jp/messe/organizer/outline/,"多目的展示室8,000㎡、天井最高30m、5t/㎡"
+expo-6c786082:A-2F,expo-6c786082,Marine Messe Fukuoka,A-2F,A館 2F展示スペース,1100,,,,0.8,,https://web.archive.org/web/20240914010102/https://www.marinemesse.or.jp/messe/organizer/outline/,"2F展示区1,100㎡、床荷重0.8t/㎡"
+expo-6c786082:A-MALL,expo-6c786082,Marine Messe Fukuoka,A-MALL,A館 海のモール,1400,,,,0.3,,https://web.archive.org/web/20240914010102/https://www.marinemesse.or.jp/messe/organizer/outline/,"海之Mall1,400㎡、床荷重0.3t/㎡"
+expo-6c786082:A-SUB,expo-6c786082,Marine Messe Fukuoka,A-SUB,A館 サブアリーナ(3F),851,,,,0.35,,https://web.archive.org/web/20240914010102/https://www.marinemesse.or.jp/messe/organizer/outline/,副竞技场851㎡、荷重0.35t/㎡
+expo-6c786082:B-1,expo-6c786082,Marine Messe Fukuoka,B-1,B館 多目的展示室,5000,,,15,5,无柱,https://web.archive.org/web/20240302223513/https://www.marinemesse.or.jp/messe-b/organizer/outline/,"無柱5,000㎡、天井高15m、5t/㎡、6,000席"
+expo-aa0bb6ea:1,expo-aa0bb6ea,BEXCO,1,Exhibition Hall 1,8836,81,108,12.5,,,https://bexco.co.kr/eng/CMS/Contents/Contents.do?mCode=MN039,"81×108m、净高12.5-22.5m、8,836㎡"
+expo-aa0bb6ea:2A,expo-aa0bb6ea,BEXCO,2A,Exhibition Hall 2A,4418,40.5,108,12.5,,,https://bexco.co.kr/eng/CMS/Contents/Contents.do?mCode=MN039,"40.5×108m、净高12.5-22.5m、4,418㎡"
+expo-aa0bb6ea:2B,expo-aa0bb6ea,BEXCO,2B,Exhibition Hall 2B,4418,40.5,108,12.5,,,https://bexco.co.kr/eng/CMS/Contents/Contents.do?mCode=MN039,"40.5×108m、净高12.5-22.5m、4,418㎡"
+expo-aa0bb6ea:3A,expo-aa0bb6ea,BEXCO,3A,Exhibition Hall 3A,4418,40.5,108,12.5,,,https://bexco.co.kr/eng/CMS/Contents/Contents.do?mCode=MN039,"40.5×108m、净高12.5-22.5m、4,418㎡"
+expo-aa0bb6ea:3B,expo-aa0bb6ea,BEXCO,3B,Exhibition Hall 3B,4418,40.5,108,12.5,,,https://bexco.co.kr/eng/CMS/Contents/Contents.do?mCode=MN039,"40.5×108m、净高12.5-22.5m、4,418㎡"
+expo-aa0bb6ea:4A,expo-aa0bb6ea,BEXCO,4A,Exhibition Hall 4A,1584,33,48,12,,,https://bexco.co.kr/eng/CMS/Contents/Contents.do?mCode=MN040,"官网表首行标4B；33×48×12m、1,584㎡"
+expo-aa0bb6ea:4B,expo-aa0bb6ea,BEXCO,4B,Exhibition Hall 4B,1824,38,48,12,,,https://bexco.co.kr/eng/CMS/Contents/Contents.do?mCode=MN040,"38×48×12m、1,824㎡"
+expo-aa0bb6ea:4C,expo-aa0bb6ea,BEXCO,4C,Exhibition Hall 4C,1488,31,48,12,,,https://bexco.co.kr/eng/CMS/Contents/Contents.do?mCode=MN040,"31×48×12m、1,488㎡"
+expo-aa0bb6ea:4D,expo-aa0bb6ea,BEXCO,4D,Exhibition Hall 4D,1824,38,48,12,,,https://bexco.co.kr/eng/CMS/Contents/Contents.do?mCode=MN040,"38×48×12m、1,824㎡"
+expo-aa0bb6ea:4E,expo-aa0bb6ea,BEXCO,4E,Exhibition Hall 4E,1488,31,48,12,,,https://bexco.co.kr/eng/CMS/Contents/Contents.do?mCode=MN040,"31×48×12m、1,488㎡"
+expo-aa0bb6ea:4F,expo-aa0bb6ea,BEXCO,4F,Exhibition Hall 4F,1728,36,48,12,,,https://bexco.co.kr/eng/CMS/Contents/Contents.do?mCode=MN040,"36×48×12m、1,728㎡"
+expo-aa0bb6ea:5A,expo-aa0bb6ea,BEXCO,5A,Exhibition Hall 5A,2016,42,48,10,,,https://bexco.co.kr/eng/CMS/Contents/Contents.do?mCode=MN040,"42×48×10m、2,016㎡"
+expo-aa0bb6ea:5B,expo-aa0bb6ea,BEXCO,5B,Exhibition Hall 5B,1776,37,48,10,,,https://bexco.co.kr/eng/CMS/Contents/Contents.do?mCode=MN040,"37×48×10m、1,776㎡"
+expo-aa0bb6ea:5C,expo-aa0bb6ea,BEXCO,5C,Exhibition Hall 5C,1920,40,48,10,,,https://bexco.co.kr/eng/CMS/Contents/Contents.do?mCode=MN040,"40×48×10m、1,920㎡"
+expo-aa0bb6ea:5D,expo-aa0bb6ea,BEXCO,5D,Exhibition Hall 5D,2160,45,48,10,,,https://bexco.co.kr/eng/CMS/Contents/Contents.do?mCode=MN040,"45×48×10m、2,160㎡"
+expo-aa0bb6ea:5E,expo-aa0bb6ea,BEXCO,5E,Exhibition Hall 5E,2064,43,48,10,,,https://bexco.co.kr/eng/CMS/Contents/Contents.do?mCode=MN040,"43×48×10m、2,064㎡"
+expo-a896d4b9:1,expo-a896d4b9,Songdo Convensia,1,전시1홀,4208,89,45,14.1,1.5,,https://songdoconvensia.visitincheon.or.kr/page/exhibit-hall-information.do,"4,208㎡、천고14.1~31.5m、바닥1.5t/㎡"
+expo-a896d4b9:2,expo-a896d4b9,Songdo Convensia,2,전시2홀,4208,89,45,14.1,1.5,,https://songdoconvensia.visitincheon.or.kr/page/exhibit-hall-information.do,"4,208㎡、천고14.1~31.5m、바닥1.5t/㎡"
+expo-a896d4b9:3,expo-a896d4b9,Songdo Convensia,3,전시3홀,4165,89,44,15,3,,https://songdoconvensia.visitincheon.or.kr/page/exhibit-hall-information.do,"4,165㎡、천고15m、바닥하중3t/㎡"
+expo-a896d4b9:4,expo-a896d4b9,Songdo Convensia,4,전시4홀,4440,89,45,15,3,,https://songdoconvensia.visitincheon.or.kr/page/exhibit-hall-information.do,"4,440㎡、천고15m、바닥하중3t/㎡"
+expo-ac74d07a:401-402,expo-ac74d07a,Suntec Singapore Convention & Exhibition Centre,401-402,Hall 401-402,3890,,,,,,https://www.suntec360.com/level-4-space-only-1201-4000-sqm,"官网：401-402合3,890㎡"
+expo-ac74d07a:403,expo-ac74d07a,Suntec Singapore Convention & Exhibition Centre,403,Hall 403,2220,,,,,,https://www.suntec360.com/level-4-space-only-1201-4000-sqm,"官网：Hall 403为2,220㎡"
+expo-ac74d07a:404,expo-ac74d07a,Suntec Singapore Convention & Exhibition Centre,404,Hall 404,2000,,,,,,https://www.suntec360.com/level-4-space-only-1201-4000-sqm,"官网：Hall 404为2,000㎡"
+expo-ac74d07a:405,expo-ac74d07a,Suntec Singapore Convention & Exhibition Centre,405,Hall 405,1969,,,,,,https://www.suntec360.com/level-4-space-only-1201-4000-sqm,"官网：Hall 405为1,969㎡"
+expo-ac74d07a:406,expo-ac74d07a,Suntec Singapore Convention & Exhibition Centre,406,Hall 406,1843,,,,,,https://www.suntec360.com/level-4-space-only-1201-4000-sqm,"官网：Hall 406为1,843㎡"
+expo-ac74d07a:L6,expo-ac74d07a,Suntec Singapore Convention & Exhibition Centre,L6,Level 6 展厅层,10000,,,,,无柱,https://www.suntecsingapore.com/floor-plans,"官网：6层可转10,000㎡无柱展厅"
+expo-20525bea:RWB,expo-20525bea,Resorts World Sentosa,RWB,Resorts World Ballroom,6000,,,11,,无柱,https://rwsentosa.com/en/meetings/event-venues/convention-centre,"6,000㎡无柱宴会厅、净高11m、6,400席"
+expo-b077fbf7:A,expo-b077fbf7,Changi Exhibition Centre,A,Hall A,14660,,,8,0.75,,https://www.visitsingapore.com/mice/en/resources/enhance-your-event/venues/changi-exhibition-centre/,"STB：14,660㎡；场地页净高8-12m"
+expo-b077fbf7:B,expo-b077fbf7,Changi Exhibition Centre,B,Hall B,3200,,,8,0.75,,https://www.visitsingapore.com/mice/en/resources/enhance-your-event/venues/changi-exhibition-centre/,"STB：3,200㎡；场地页净高8-12m"
+expo-b077fbf7:C,expo-b077fbf7,Changi Exhibition Centre,C,Hall C,16000,,,8,0.75,,https://www.visitsingapore.com/mice/en/resources/enhance-your-event/venues/changi-exhibition-centre/,"STB：16,000㎡；场地页净高8-12m"
+expo-b077fbf7:ME,expo-b077fbf7,Changi Exhibition Centre,ME,Mezzanine East,1000,,,7,0.5,,https://www.visitsingapore.com/mice/en/resources/enhance-your-event/venues/changi-exhibition-centre/,"STB：1,000㎡；场地页净高7m"
+expo-b077fbf7:MC,expo-b077fbf7,Changi Exhibition Centre,MC,Mezzanine Centre,1500,,,7,0.5,,https://www.visitsingapore.com/mice/en/resources/enhance-your-event/venues/changi-exhibition-centre/,"STB：1,500㎡；场地页净高7m"
+expo-b077fbf7:MW,expo-b077fbf7,Changi Exhibition Centre,MW,Mezzanine West,1000,,,7,0.5,,https://www.visitsingapore.com/mice/en/resources/enhance-your-event/venues/changi-exhibition-centre/,"STB：1,000㎡；场地页净高7m"
+expo-1d2e5288:1,expo-1d2e5288,Queen Sirikit National Convention Center,1,Exhibition Hall 1,5430,108,50.27,13.5,2,无柱,https://www.qsncc.com/en/plan/venue-space/level-g/,"5,430㎡、宽50.27×长108m、净高13.5m"
+expo-1d2e5288:2,expo-1d2e5288,Queen Sirikit National Convention Center,2,Exhibition Hall 2,5800,108,53.7,13.5,2,无柱,https://www.qsncc.com/en/plan/venue-space/level-g/,"5,800㎡、宽53.7×长108m、净高13.5m"
+expo-1d2e5288:3,expo-1d2e5288,Queen Sirikit National Convention Center,3,Exhibition Hall 3,5800,108,53.7,13.5,2,无柱,https://www.qsncc.com/en/plan/venue-space/level-g/,"5,800㎡、宽53.7×长108m、净高13.5m"
+expo-1d2e5288:4,expo-1d2e5288,Queen Sirikit National Convention Center,4,Exhibition Hall 4,5305,108,49.12,13.5,2,无柱,https://www.qsncc.com/en/plan/venue-space/level-g/,"5,305㎡、宽49.12×长108m、净高13.5m"
+expo-1d2e5288:5,expo-1d2e5288,Queen Sirikit National Convention Center,5,Exhibition Hall 5,5588,108,51.74,7,1.5,,https://www.qsncc.com/en/plan/venue-space/level-lg/,"5,588㎡、宽51.74×长108m、净高7m"
+expo-1d2e5288:6,expo-1d2e5288,Queen Sirikit National Convention Center,6,Exhibition Hall 6,5863,108,54.28,7,1.5,,https://www.qsncc.com/en/plan/venue-space/level-lg/,"5,863㎡、宽54.28×长108m、净高7m"
+expo-1d2e5288:7,expo-1d2e5288,Queen Sirikit National Convention Center,7,Exhibition Hall 7,5863,108,54.28,7,1.5,,https://www.qsncc.com/en/plan/venue-space/level-lg/,"5,863㎡、宽54.28×长108m、净高7m"
+expo-1d2e5288:8,expo-1d2e5288,Queen Sirikit National Convention Center,8,Exhibition Hall 8,5436,108,50.33,7,1.5,,https://www.qsncc.com/en/plan/venue-space/level-lg/,"5,436㎡、宽50.33×长108m、净高7m"
+expo-376157fb:1,expo-376157fb,IMPACT Challenger,1,Challenger Hall 1,20000,,,25.7,,无柱,https://www.impact.co.th/en/organizers/venues/impact-challenger,"官网PDF标每馆215,278平方英尺（2万㎡）"
+expo-376157fb:2,expo-376157fb,IMPACT Challenger,2,Challenger Hall 2,20000,,,25.7,,无柱,https://www.impact.co.th/en/organizers/venues/impact-challenger,"官网PDF标每馆215,278平方英尺（2万㎡）"
+expo-376157fb:3,expo-376157fb,IMPACT Challenger,3,Challenger Hall 3,20000,,,25.7,,无柱,https://www.impact.co.th/en/organizers/venues/impact-challenger,"官网PDF标每馆215,278平方英尺（2万㎡）"
+expo-d725cb9f:GB,expo-d725cb9f,Setia SPICE Convention Centre,GB,Grand Ballroom,4500,,,,,无柱,https://web.archive.org/web/20180820123753/http://setiaspice.com/convention-centre.aspx,"官网4,500㎡无柱厅；同页另标4,000㎡"
+expo-d725cb9f:GF,expo-d725cb9f,Setia SPICE Convention Centre,GF,Grand Foyer,2000,,,,,,https://web.archive.org/web/20180820123753/http://setiaspice.com/convention-centre.aspx,"前厅2,000㎡、可容150圆桌"
+expo-d9a82290:101,expo-d9a82290,Persada Johor International Convention Centre,101,Exhibition Hall 101,1931,,,9,,,https://persadajohor.com/facilities.php,"1,931㎡、净高9m、可容100个3m×3m展位"
+expo-d9a82290:102,expo-d9a82290,Persada Johor International Convention Centre,102,Exhibition Hall 102,1140,,,4.5,,,https://persadajohor.com/facilities.php,"1,140㎡、净高4.5m、可容50个3m×3m展位"
+expo-74922817:GH,expo-74922817,Borneo Convention Centre Kuching,GH,Great Hall,,,,10,0.4,,https://bcck.com.my/public/files/EventVenueGuidelinesUpdated2016.pdf,指南PDF：Great Hall净高10m、4kN/㎡
+expo-e84a6625:ND,expo-e84a6625,Bali Nusa Dua Convention Center,ND,Nusa Dua Hall,4400,55,80,9,,无柱,https://baliconventioncenter.com/wp-content/uploads/2026/02/SpaceInFigure-BNDCC1-4Sep2025.pdf,"官网：长55×宽80m、9m、剧场4,800人"
+expo-e84a6625:ND1,expo-e84a6625,Bali Nusa Dua Convention Center,ND1,Nusa Dua Hall 1,280,20,14,9,,,https://baliconventioncenter.com/wp-content/uploads/2026/02/SpaceInFigure-BNDCC1-4Sep2025.pdf,官网：20×14m、280㎡、剧场280人
+expo-e84a6625:ND2,expo-e84a6625,Bali Nusa Dua Convention Center,ND2,Nusa Dua Hall 2,270,19.3,14,9,,,https://baliconventioncenter.com/wp-content/uploads/2026/02/SpaceInFigure-BNDCC1-4Sep2025.pdf,官网：19.3×14m、270㎡、剧场270人
+expo-e84a6625:ND3,expo-e84a6625,Bali Nusa Dua Convention Center,ND3,Nusa Dua Hall 3,550,27.5,20,9,,,https://baliconventioncenter.com/wp-content/uploads/2026/02/SpaceInFigure-BNDCC1-4Sep2025.pdf,官网：27.5×20m、550㎡、剧场550人
+expo-e84a6625:ND4,expo-e84a6625,Bali Nusa Dua Convention Center,ND4,Nusa Dua Hall 4,1100,27.5,40,9,,,https://baliconventioncenter.com/wp-content/uploads/2026/02/SpaceInFigure-BNDCC1-4Sep2025.pdf,"官网：27.5×40m、1,100㎡、剧场1,100人"
+expo-e84a6625:ND5,expo-e84a6625,Bali Nusa Dua Convention Center,ND5,Nusa Dua Hall 5,2200,55,40,9,,,https://baliconventioncenter.com/wp-content/uploads/2026/02/SpaceInFigure-BNDCC1-4Sep2025.pdf,"官网：55×40m、2,200㎡、剧场2,200人"
+expo-e84a6625:SGR1,expo-e84a6625,Bali Nusa Dua Convention Center,SGR1,Singaraja Hall 1,799,39.5,20.2,6.8,,,https://baliconventioncenter.com/wp-content/uploads/2026/02/SpaceInFigure-BNDCC1-4Sep2025.pdf,官网：39.5×20.2m、799㎡、剧场800人
+expo-e84a6625:SGR2,expo-e84a6625,Bali Nusa Dua Convention Center,SGR2,Singaraja Hall 2,920,39.5,23.3,6.8,,,https://baliconventioncenter.com/wp-content/uploads/2026/02/SpaceInFigure-BNDCC1-4Sep2025.pdf,官网：39.5×23.3m、920㎡、剧场920人
+expo-e84a6625:SGR,expo-e84a6625,Bali Nusa Dua Convention Center,SGR,Singaraja Hall,1734,43.9,39.5,6.8,,无柱,https://baliconventioncenter.com/wp-content/uploads/2026/02/SpaceInFigure-BNDCC1-4Sep2025.pdf,"官网：43.9×39.5m、1,734㎡、无柱"
+expo-e84a6625:PCT,expo-e84a6625,Bali Nusa Dua Convention Center,PCT,Pecatu Hall,1770,,,,,无柱,https://baliconventioncenter.com/wp-content/uploads/2026/02/E-Brochure-BNDCC_2026.pdf,"宣传册：Pecatu Hall 1,770㎡、无柱"
+expo-e84a6625:TBN,expo-e84a6625,Bali Nusa Dua Convention Center,TBN,Tanjung Benoa Hall,920,32,28.8,5,,无柱,https://baliconventioncenter.com/wp-content/uploads/2026/02/E-Brochure-BNDCC_2026.pdf,宣传册：32×28.8m、920㎡、无柱
+expo-73050b31:A,expo-73050b31,Jakarta Convention Center,A,Exhibition Hall A,3060,,,9,1.2,,https://www.jcc.co.id/about-jcc/jcc-overview.html,"官网：3,060㎡、净高9m、1,200kg/㎡"
+expo-73050b31:B,expo-73050b31,Jakarta Convention Center,B,Exhibition Hall B,6075,,,9,1.5,,https://www.jcc.co.id/about-jcc/jcc-overview.html,"官网：6,075㎡、净高9m、1,500kg/㎡"
+expo-73050b31:ASM,expo-73050b31,Jakarta Convention Center,ASM,Assembly Hall,3921,,,,,,https://www.jcc.co.id/about-jcc/jcc-overview.html,"官网：3,921㎡、宴会2,500人"
+expo-73050b31:CDR,expo-73050b31,Jakarta Convention Center,CDR,Cendrawasih Room,2109,,,,,,https://www.jcc.co.id/about-jcc/jcc-overview.html,"官网：2,109㎡、可分隔"
+expo-73050b31:PLN,expo-73050b31,Jakarta Convention Center,PLN,Plenary Hall,,,,,,,https://www.jcc.co.id/about-jcc/jcc-overview.html,"官网：剧场式5,000座"
+expo-60d75667:H1,expo-60d75667,Yashobhoomi (IICC Dwarka),H1,Exhibition Hall 1,27060,180,160,15,,无柱,https://www.iiccnewdelhi.com/exhibition-halls,官网：长180×宽160m、净高15m、无柱
+expo-60d75667:H1A,expo-60d75667,Yashobhoomi (IICC Dwarka),H1A,Hall 1A,5200,,,,,,https://www.iiccnewdelhi.com/exhibition-halls,"官网：Hall 1A可用5,200㎡"
+expo-60d75667:H1B,expo-60d75667,Yashobhoomi (IICC Dwarka),H1B,Hall 1B,8000,,,,,,https://www.iiccnewdelhi.com/exhibition-halls,"官网：Hall 1B可用8,000㎡"
+expo-60d75667:H1C,expo-60d75667,Yashobhoomi (IICC Dwarka),H1C,Hall 1C,8000,,,,,,https://www.iiccnewdelhi.com/exhibition-halls,"官网：Hall 1C可用8,000㎡"
+expo-60d75667:H1D,expo-60d75667,Yashobhoomi (IICC Dwarka),H1D,Hall 1D,5860,,,,,,https://www.iiccnewdelhi.com/exhibition-halls,"官网：Hall 1D可用5,860㎡"
+expo-60d75667:H2,expo-60d75667,Yashobhoomi (IICC Dwarka),H2,Exhibition Hall 2,23880,156,160,15,,无柱,https://www.iiccnewdelhi.com/exhibition-halls,官网：长156×宽160m、净高15m、无柱
+expo-60d75667:H2A,expo-60d75667,Yashobhoomi (IICC Dwarka),H2A,Hall 2A,5860,,,,,,https://www.iiccnewdelhi.com/exhibition-halls,"官网：Hall 2A毛面积5,860㎡"
+expo-60d75667:H2B,expo-60d75667,Yashobhoomi (IICC Dwarka),H2B,Hall 2B,6080,,,,,,https://www.iiccnewdelhi.com/exhibition-halls,"官网：Hall 2B毛面积6,080㎡"
+expo-60d75667:H2C,expo-60d75667,Yashobhoomi (IICC Dwarka),H2C,Hall 2C,6080,,,,,,https://www.iiccnewdelhi.com/exhibition-halls,"官网：Hall 2C毛面积6,080㎡"
+expo-60d75667:H2D,expo-60d75667,Yashobhoomi (IICC Dwarka),H2D,Hall 2D,5860,,,,,,https://www.iiccnewdelhi.com/exhibition-halls,"官网：Hall 2D毛面积5,860㎡"
+expo-41cea983:1,expo-41cea983,HITEC Exhibition Centre Hyderabad,1,Hall 1,3500,,,,,无柱,https://hitex.co.in/facility.html,"官网：3,500㎡、剧场2,500人、无柱"
+expo-41cea983:2,expo-41cea983,HITEC Exhibition Centre Hyderabad,2,Hall 2,3500,,,,,无柱,https://hitex.co.in/facility.html,"官网：3,500㎡、剧场2,500人、无柱"
+expo-41cea983:3,expo-41cea983,HITEC Exhibition Centre Hyderabad,3,Hall 3,3500,,,,,无柱,https://hitex.co.in/facility.html,"官网：3,500㎡、剧场2,500人、无柱"
+expo-41cea983:4,expo-41cea983,HITEC Exhibition Centre Hyderabad,4,Hall 4,8000,,,,,无柱,https://hitex.co.in/facility.html,"官网：8,000㎡、剧场8,000人、无柱"
+expo-468e77ee:1,expo-468e77ee,Bombay Exhibition Centre,1,Hall 1,19143,,,6.75,,,https://nesco.in/exhibitions,"官网：19,143㎡、净高6.75m"
+expo-468e77ee:2,expo-468e77ee,Bombay Exhibition Centre,2,Hall 2,7378,,,,,,https://nesco.in/exhibitions,"官网：7,378㎡，另2,600㎡附属区"
+expo-468e77ee:3,expo-468e77ee,Bombay Exhibition Centre,3,Hall 3,11799,,,6.75,,,https://nesco.in/exhibitions,"官网：11,799㎡、净高6.75m"
+expo-468e77ee:4,expo-468e77ee,Bombay Exhibition Centre,4,Hall 4,10800,,,14,,无柱,https://nesco.in/exhibitions,"官网：10,800㎡、净高14m、无柱"
+expo-468e77ee:5,expo-468e77ee,Bombay Exhibition Centre,5,Hall 5,4664,,,6.88,,,https://nesco.in/exhibitions,"官网：4,664㎡、净高6.88m、容5,000人"
+expo-8edd07ed:S1,expo-8edd07ed,Dubai Exhibition Centre (Expo City Dubai),S1,S1 (A+B),5701,118.10,47.90,10,2,,https://media.dubaiexhibitioncentre.com/DEC-South-Halls-Factsheet-2026.pdf,"官网：5,701㎡、10m、剧场4,000人"
+expo-8edd07ed:S3,expo-8edd07ed,Dubai Exhibition Centre (Expo City Dubai),S3,S3 (A+B),5703,118.10,47.90,10,2,,https://media.dubaiexhibitioncentre.com/DEC-South-Halls-Factsheet-2026.pdf,"官网：5,703㎡、10m、剧场4,000人"
+expo-8edd07ed:S5,expo-8edd07ed,Dubai Exhibition Centre (Expo City Dubai),S5,S5 (A+B),5705,118.10,47.90,10,2,,https://media.dubaiexhibitioncentre.com/DEC-South-Halls-Factsheet-2026.pdf,"官网：5,705㎡、10m、剧场4,000人"
+expo-8edd07ed:S7,expo-8edd07ed,Dubai Exhibition Centre (Expo City Dubai),S7,S7 (A+B),5702,118.10,47.90,10,2,,https://media.dubaiexhibitioncentre.com/DEC-South-Halls-Factsheet-2026.pdf,"官网：5,702㎡、10m、剧场4,000人"
+expo-8edd07ed:S9,expo-8edd07ed,Dubai Exhibition Centre (Expo City Dubai),S9,S9 (A+B),5706,118.10,47.90,10,2,,https://media.dubaiexhibitioncentre.com/DEC-South-Halls-Factsheet-2026.pdf,"官网：5,706㎡、10m、剧场4,000人"
+expo-8edd07ed:S11,expo-8edd07ed,Dubai Exhibition Centre (Expo City Dubai),S11,S11 (A+B),5706,118.10,47.90,10,2,,https://media.dubaiexhibitioncentre.com/DEC-South-Halls-Factsheet-2026.pdf,"官网：5,706㎡、10m、剧场4,000人"
+expo-8edd07ed:S13,expo-8edd07ed,Dubai Exhibition Centre (Expo City Dubai),S13,S13 (A+B),5872,118.00,49.50,10,2,,https://media.dubaiexhibitioncentre.com/DEC-South-Halls-Factsheet-2026.pdf,"官网：5,872㎡、10m、剧场4,000人"
+expo-8edd07ed:S15,expo-8edd07ed,Dubai Exhibition Centre (Expo City Dubai),S15,S15 (A+B),5667,117.85,47.90,10,2,,https://media.dubaiexhibitioncentre.com/DEC-South-Halls-Factsheet-2026.pdf,"官网：5,667㎡、10m、剧场4,000人"
+expo-8edd07ed:S17,expo-8edd07ed,Dubai Exhibition Centre (Expo City Dubai),S17,S17 (A+B),5669,117.90,47.88,10,2,,https://media.dubaiexhibitioncentre.com/DEC-South-Halls-Factsheet-2026.pdf,"官网：5,669㎡、10m、剧场4,000人"
+expo-8edd07ed:S19,expo-8edd07ed,Dubai Exhibition Centre (Expo City Dubai),S19,S19 (A+B+C),11356,117.90,96.03,10,2,,https://media.dubaiexhibitioncentre.com/DEC-South-Halls-Factsheet-2026.pdf,"官网：11,356㎡、10m、剧场8,100人"
+expo-8edd07ed:N21,expo-8edd07ed,Dubai Exhibition Centre (Expo City Dubai),N21,N21 (A+B+C),11344,117.93,95.99,14,2,,https://media.dubaiexhibitioncentre.com/DEC-North-Halls-Factsheet-2026.pdf,"官网：11,344㎡、14m、剧场8,100人"
+expo-8edd07ed:N23,expo-8edd07ed,Dubai Exhibition Centre (Expo City Dubai),N23,N23 (A+B),5804,117.90,47.70,14,2,,https://media.dubaiexhibitioncentre.com/DEC-North-Halls-Factsheet-2026.pdf,"官网：5,804㎡、14m、剧场4,000人"
+expo-8edd07ed:N25,expo-8edd07ed,Dubai Exhibition Centre (Expo City Dubai),N25,N25,3380,72.00,46.30,10,2,,https://media.dubaiexhibitioncentre.com/DEC-North-Halls-Factsheet-2026.pdf,"官网：3,380㎡、10m、剧场2,196人"
+expo-8edd07ed:N27,expo-8edd07ed,Dubai Exhibition Centre (Expo City Dubai),N27,N27,3495,72.00,47.90,10,2,,https://media.dubaiexhibitioncentre.com/DEC-North-Halls-Factsheet-2026.pdf,"官网：3,495㎡、10m、剧场2,196人"
+expo-8edd07ed:N29,expo-8edd07ed,Dubai Exhibition Centre (Expo City Dubai),N29,N29,3520,72.00,48.20,10,2,,https://media.dubaiexhibitioncentre.com/DEC-North-Halls-Factsheet-2026.pdf,"官网：3,520㎡、10m、剧场2,196人"
+expo-8edd07ed:N31,expo-8edd07ed,Dubai Exhibition Centre (Expo City Dubai),N31,N31,3470,72.00,47.50,10,2,,https://media.dubaiexhibitioncentre.com/DEC-North-Halls-Factsheet-2026.pdf,"官网：3,470㎡、10m、剧场2,196人"
+expo-8edd07ed:N33,expo-8edd07ed,Dubai Exhibition Centre (Expo City Dubai),N33,N33,3495,72.00,47.90,10,2,,https://media.dubaiexhibitioncentre.com/DEC-North-Halls-Factsheet-2026.pdf,"官网：3,495㎡、10m、剧场2,196人"
+expo-8edd07ed:N35,expo-8edd07ed,Dubai Exhibition Centre (Expo City Dubai),N35,N35,3456,72.00,47.50,10,2,,https://media.dubaiexhibitioncentre.com/DEC-North-Halls-Factsheet-2026.pdf,"官网：3,456㎡、10m、剧场2,196人"
+expo-8edd07ed:N35B,expo-8edd07ed,Dubai Exhibition Centre (Expo City Dubai),N35B,N35B,1796,72.00,24.20,10,2,,https://media.dubaiexhibitioncentre.com/DEC-North-Halls-Factsheet-2026.pdf,"官网：1,796㎡、10m、剧场960人"
+expo-8edd07ed:N37,expo-8edd07ed,Dubai Exhibition Centre (Expo City Dubai),N37,N37,3496,72.00,47.90,10,2,,https://media.dubaiexhibitioncentre.com/DEC-North-Halls-Factsheet-2026.pdf,"官网：3,496㎡、10m、剧场2,196人"
+expo-8edd07ed:N39,expo-8edd07ed,Dubai Exhibition Centre (Expo City Dubai),N39,N39,3499,72.00,47.90,10,2,,https://media.dubaiexhibitioncentre.com/DEC-North-Halls-Factsheet-2026.pdf,"官网：3,499㎡、10m、剧场2,196人"
+expo-1d901009:1,expo-1d901009,Sharjah Expo Centre,1,Hall 1,4000,,,,,,https://expo-centre.ae/organise,"官网：6个室内馆各4,000㎡"
+expo-1d901009:2,expo-1d901009,Sharjah Expo Centre,2,Hall 2,4000,,,,,,https://expo-centre.ae/organise,"官网：6个室内馆各4,000㎡"
+expo-1d901009:3,expo-1d901009,Sharjah Expo Centre,3,Hall 3,4000,,,,,,https://expo-centre.ae/organise,"官网：6个室内馆各4,000㎡"
+expo-1d901009:4,expo-1d901009,Sharjah Expo Centre,4,Hall 4,4000,,,,,,https://expo-centre.ae/organise,"官网：6个室内馆各4,000㎡"
+expo-1d901009:5,expo-1d901009,Sharjah Expo Centre,5,Hall 5,4000,,,,,,https://expo-centre.ae/organise,"官网：6个室内馆各4,000㎡"
+expo-1d901009:6,expo-1d901009,Sharjah Expo Centre,6,Hall 6,4000,,,,,,https://expo-centre.ae/organise,"官网：6个室内馆各4,000㎡"
+expo-a105db98:ARENA,expo-a105db98,Madinat Jumeirah Conference Centre,ARENA,Madinat Arena,2773,,,12,,,https://visitdubai.com/en/business-in-dubai/dubai-for-events/venues/jumeirah-mina-a-salam,"旅游局目录：2,773㎡、净高12m"
+expo-a105db98:JOH,expo-a105db98,Madinat Jumeirah Conference Centre,JOH,Joharah Ballroom,1880,,,,,,https://www.jumeirah.com/en/stay/dubai/madinat-jumeirah/events/joharah-ballroom,"官网：1,880㎡、可容1,500人"
+expo-a105db98:MUR,expo-a105db98,Madinat Jumeirah Conference Centre,MUR,Murjaan Ballroom,375,,,6,,,https://visitdubai.com/en/business-in-dubai/dubai-for-events/venues/jumeirah-mina-a-salam,旅游局目录：375㎡、净高6m
+expo-a105db98:MSAL,expo-a105db98,Madinat Jumeirah Conference Centre,MSAL,Majlis Al Salam Ballroom,513,,,3.15,,,https://visitdubai.com/en/business-in-dubai/dubai-for-events/venues/jumeirah-mina-a-salam,旅游局目录：513㎡、净高3.15m
+expo-a105db98:MMIN,expo-a105db98,Madinat Jumeirah Conference Centre,MMIN,Majlis Al Mina Ballroom,160,,,2.5,,,https://visitdubai.com/en/business-in-dubai/dubai-for-events/venues/jumeirah-mina-a-salam,旅游局目录：160㎡、净高2.5m
+expo-58bc8044:H1-4,expo-58bc8044,SMX Convention Center Manila,H1-4,Halls 1-4 (combined),9130,,,9,1.22,,https://smxconventioncenter.com/wp-content/uploads/2022/10/MANILA_Capacity-2019.pdf,"官网：4馆合计9,130㎡、净高9m"
+expo-58bc8044:H1,expo-58bc8044,SMX Convention Center Manila,H1,Hall 1,2750,,,,,,https://smxconventioncenter.com/wp-content/uploads/2022/10/MANILA_Capacity-2019.pdf,"官网图册：Hall 1为2,750㎡"
+expo-58bc8044:H2,expo-58bc8044,SMX Convention Center Manila,H2,Hall 2,1815,,,,,,https://smxconventioncenter.com/wp-content/uploads/2022/10/MANILA_Capacity-2019.pdf,"官网图册：Hall 2为1,815㎡"
+expo-58bc8044:H3,expo-58bc8044,SMX Convention Center Manila,H3,Hall 3,1815,,,,,,https://smxconventioncenter.com/wp-content/uploads/2022/10/MANILA_Capacity-2019.pdf,"官网图册：Hall 3为1,815㎡"
+expo-58bc8044:H4,expo-58bc8044,SMX Convention Center Manila,H4,Hall 4,2750,,,,,,https://smxconventioncenter.com/wp-content/uploads/2022/10/MANILA_Capacity-2019.pdf,"官网图册：Hall 4为2,750㎡"
+expo-58bc8044:FR1-5,expo-58bc8044,SMX Convention Center Manila,FR1-5,Function Rooms 1-5 (combined),7100,,,5.5,0.49,,https://smxconventioncenter.com/wp-content/uploads/2022/10/MANILA_Capacity-2019.pdf,"官网：5个多功能厅合计7,100㎡"
+expo-58bc8044:FR1,expo-58bc8044,SMX Convention Center Manila,FR1,Function Room 1,950,,,,,,https://smxconventioncenter.com/wp-content/uploads/2022/10/MANILA_Capacity-2019.pdf,官网图册：FR1为950㎡
+expo-58bc8044:FR2,expo-58bc8044,SMX Convention Center Manila,FR2,Function Room 2,950,,,,,,https://smxconventioncenter.com/wp-content/uploads/2022/10/MANILA_Capacity-2019.pdf,官网图册：FR2为950㎡
+expo-58bc8044:FR3,expo-58bc8044,SMX Convention Center Manila,FR3,Function Room 3,950,,,,,,https://smxconventioncenter.com/wp-content/uploads/2022/10/MANILA_Capacity-2019.pdf,官网图册：FR3为950㎡
+expo-58bc8044:FR4,expo-58bc8044,SMX Convention Center Manila,FR4,Function Room 4,1900,,,,,,https://smxconventioncenter.com/wp-content/uploads/2022/10/MANILA_Capacity-2019.pdf,"官网图册：FR4为1,900㎡"
+expo-58bc8044:FR5,expo-58bc8044,SMX Convention Center Manila,FR5,Function Room 5,2350,,,,,,https://smxconventioncenter.com/wp-content/uploads/2022/10/MANILA_Capacity-2019.pdf,"官网图册：FR5为2,350㎡"
+expo-5adc8ad8:A,expo-5adc8ad8,World Trade Center Metro Manila,A,Hall A,2776,,,10,,,https://wtcmanila.com.ph/hall-features/,"官网：Hall A为2,776㎡、净高10m"
+expo-5adc8ad8:BC,expo-5adc8ad8,World Trade Center Metro Manila,BC,Halls B+C,5533,,,10,,,https://wtcmanila.com.ph/hall-features/,"官网：B+C馆5,533㎡、净高10m"
+expo-0af781a5:FR1-3,expo-0af781a5,SMX Convention Center Davao,FR1-3,Function Rooms 1-3 (combined),5200,,,6,0.49,,https://www.smxconventioncenter.com/smx-davao/,"官网：3厅合计5,200㎡、净高6m"
+expo-f6f9c226:H1-4,expo-f6f9c226,Iloilo Convention Center,H1-4,First Floor Halls 1-4 (combined),2900,,,,,,https://tieza.gov.ph/iloilo-convention-center,"官网：4厅合计2,900㎡、容2,400人"
+expo-f6f9c226:FR1-7,expo-f6f9c226,Iloilo Convention Center,FR1-7,Second Floor Function Rooms 1-7 (combined),700,,,,,,https://tieza.gov.ph/iloilo-convention-center,官网：7间合计700㎡、每间50-115座
+expo-216038b1:F1-LOBBY,expo-216038b1,GEM Center,F1-LOBBY,MAIN LOBBY,452,43,10.5,9.5,,,https://gemcenter.com.vn/home/capacities,官网：43×10.5×9.5m、452㎡
+expo-216038b1:F3-POLLUX1,expo-216038b1,GEM Center,F3-POLLUX1,POLLUX 1,364,28,13,8.9,,,https://gemcenter.com.vn/home/capacities,官网：28×13×8.9m、364㎡
+expo-216038b1:F3-POLLUX2,expo-216038b1,GEM Center,F3-POLLUX2,POLLUX 2,392,28,14,8.9,,,https://gemcenter.com.vn/home/capacities,官网：28×14×8.9m、392㎡
+expo-216038b1:F3-POLLUX3,expo-216038b1,GEM Center,F3-POLLUX3,POLLUX 3,392,28,14,8.9,,,https://gemcenter.com.vn/home/capacities,官网：28×14×8.9m、392㎡
+expo-216038b1:F3-POLLUX4,expo-216038b1,GEM Center,F3-POLLUX4,POLLUX 4,560,28,20,8.9,,,https://gemcenter.com.vn/home/capacities,官网：28×20×8.9m、560㎡
+expo-216038b1:F3-GRANDPOLLUX,expo-216038b1,GEM Center,F3-GRANDPOLLUX,GRAND POLLUX,1719,28,61.4,8.9,,,https://gemcenter.com.vn/home/capacities,官网：28×61.4×8.9m、1719㎡
+expo-216038b1:F3-FOYERPOLLUX,expo-216038b1,GEM Center,F3-FOYERPOLLUX,FOYER POLLUX,452,43,10.5,4.9,,,https://gemcenter.com.vn/home/capacities,官网：43×10.5×4.9m、452㎡
+expo-216038b1:F4-VIP1,expo-216038b1,GEM Center,F4-VIP1,VIP LOUNGE 1,58,7.7,7.5,2.7,,,https://gemcenter.com.vn/home/capacities,官网：7.7×7.5×2.7m、58㎡
+expo-216038b1:F4-VIP2,expo-216038b1,GEM Center,F4-VIP2,VIP LOUNGE 2,58,7.7,7.5,2.7,,,https://gemcenter.com.vn/home/capacities,官网：7.7×7.5×2.7m、58㎡
+expo-216038b1:F5-CASTOR1,expo-216038b1,GEM Center,F5-CASTOR1,CASTOR 1,364,28,13,7.3,,,https://gemcenter.com.vn/home/capacities,官网：28×13×7.3m、364㎡
+expo-216038b1:F5-CASTOR2,expo-216038b1,GEM Center,F5-CASTOR2,CASTOR 2,392,28,14,7.3,,,https://gemcenter.com.vn/home/capacities,官网：28×14×7.3m、392㎡
+expo-216038b1:F5-CASTOR3,expo-216038b1,GEM Center,F5-CASTOR3,CASTOR 3,392,28,14,7.3,,,https://gemcenter.com.vn/home/capacities,官网：28×14×7.3m、392㎡
+expo-216038b1:F5-CASTOR4,expo-216038b1,GEM Center,F5-CASTOR4,CASTOR 4,560,28,20,7.3,,,https://gemcenter.com.vn/home/capacities,官网：28×20×7.3m、560㎡
+expo-216038b1:F5-GRANDCASTOR,expo-216038b1,GEM Center,F5-GRANDCASTOR,GRAND CASTOR,1719,28,61.4,7.3,,,https://gemcenter.com.vn/home/capacities,官网：28×61.4×7.3m、1719㎡
+expo-216038b1:F5-FOYERCASTOR,expo-216038b1,GEM Center,F5-FOYERCASTOR,FOYER CASTOR,452,43,10.5,4.9,,,https://gemcenter.com.vn/home/capacities,官网：43×10.5×4.9m、452㎡
+expo-216038b1:F6-ROOFTOP,expo-216038b1,GEM Center,F6-ROOFTOP,ROOFTOP LOBBY,452,43,10.5,4.5,,,https://gemcenter.com.vn/home/capacities,官网：43×10.5×4.5m、452㎡
+expo-216038b1:F6-ERA,expo-216038b1,GEM Center,F6-ERA,ERA,430,43,10,3.5,,,https://gemcenter.com.vn/home/capacities,官网：43×10×3.5m、430㎡
+expo-216038b1:F6-SOL,expo-216038b1,GEM Center,F6-SOL,SOL,216,24,9,5.6,,,https://gemcenter.com.vn/home/capacities,官网：24×9×5.6m、216㎡
+expo-216038b1:F6-SALTUS,expo-216038b1,GEM Center,F6-SALTUS,SALTUS,680,34,20,,,,https://gemcenter.com.vn/home/capacities,官网：34×20m、680㎡（未标净高）
+expo-216038b1:F6-PAPYRUS,expo-216038b1,GEM Center,F6-PAPYRUS,PAPYRUS,112,16,7,5.5,,,https://gemcenter.com.vn/home/capacities,官网：16×7×5.5m、112㎡
+expo-216038b1:F6-APUS,expo-216038b1,GEM Center,F6-APUS,APUS,37,6.2,6,2.9,,,https://gemcenter.com.vn/home/capacities,官网：6.2×6×2.9m、37㎡
+expo-216038b1:F6-ZINO,expo-216038b1,GEM Center,F6-ZINO,ZINO,51,8.6,5.9,2.9,,,https://gemcenter.com.vn/home/capacities,官网：8.6×5.9×2.9m、51㎡
+expo-216038b1:F6-LUNGO,expo-216038b1,GEM Center,F6-LUNGO,LUNGO,93,15,6.2,2.9,,,https://gemcenter.com.vn/home/capacities,官网：15×6.2×2.9m、93㎡
+expo-216038b1:F7-THELOG,expo-216038b1,GEM Center,F7-THELOG,THE LOG,341,45.5,7.5,4.7,,,https://gemcenter.com.vn/home/capacities,官网：45.5×7.5×4.7m、341㎡
+expo-ca9208cf:MMH,expo-ca9208cf,Vietnam National Convention Center,MMH,Main Meeting Hall (MMH),4000,,,,,,https://ncc.gov.vn/phong-hop-lon-mmh-vi,"MMH 4,000㎡、3,500座（官网）"
+expo-ca9208cf:F1-BALLROOM,expo-ca9208cf,Vietnam National Convention Center,F1-BALLROOM,Phòng Khánh tiết (Ballroom),2000,,,,,,https://ncc.gov.vn/,"Khánh tiết >2,000㎡、1,800客"
+expo-ca9208cf:F1-MAINHALL,expo-ca9208cf,Vietnam National Convention Center,F1-MAINHALL,"Sảnh chính tầng 1 (Main Hall, indoor)",2140,,,,,,https://ncc.gov.vn/,"一层主厅室内2,140㎡，室外2,800㎡"
+expo-ca9208cf:F2,expo-ca9208cf,Vietnam National Convention Center,F2,Sảnh tầng 2 (Foyer F2),3700,,,,,,https://ncc.gov.vn/,"二层门厅及走廊3,700㎡（官网）"
+expo-ca9208cf:F3,expo-ca9208cf,Vietnam National Convention Center,F3,Sảnh tầng 3 (Foyer F3),3630,,,,,,https://ncc.gov.vn/,"三层门厅3,630㎡（官网）"
+expo-33a0fe22:1-5,expo-33a0fe22,Doha Exhibition and Convention Center (DECC),1-5,Exhibition Halls 1-5 (combined),29035,302,96,18,,无柱,https://www.decc.qa/organizers/versatile-venues/,"五馆合计29,035㎡、96×302m、净高18m"
+expo-33a0fe22:F,expo-33a0fe22,Doha Exhibition and Convention Center (DECC),F,Concourse / Foyer,9000,,,,,,https://www.decc.qa/organizers/versatile-venues/,"门厅concourse 9,000㎡（官网）"
+expo-1fda9f19:1,expo-1fda9f19,Istanbul Expo Center (IFM),1,Salon 1 (Hall 1),10800,,,14,2.25,,https://ifm.com.tr/media/pdf/ifm-teknik-bilgiler-tr-2025-05.pdf,"官网技术表：10800㎡、净高14m、2,250kg/㎡"
+expo-1fda9f19:2,expo-1fda9f19,Istanbul Expo Center (IFM),2,Salon 2 (Hall 2),9250,,,10.4,2.25,,https://ifm.com.tr/media/pdf/ifm-teknik-bilgiler-tr-2025-05.pdf,"官网技术表：9250㎡、净高10.4m、2,250kg/㎡"
+expo-1fda9f19:3,expo-1fda9f19,Istanbul Expo Center (IFM),3,Salon 3 (Hall 3),10800,,,9,2.25,,https://ifm.com.tr/media/pdf/ifm-teknik-bilgiler-tr-2025-05.pdf,"官网技术表：10800㎡、净高9m、2,250kg/㎡"
+expo-1fda9f19:4,expo-1fda9f19,Istanbul Expo Center (IFM),4,Salon 4 (Hall 4),11200,,,10.4,2.25,,https://ifm.com.tr/media/pdf/ifm-teknik-bilgiler-tr-2025-05.pdf,"官网技术表：11200㎡、净高10.4m、2,250kg/㎡"
+expo-1fda9f19:5,expo-1fda9f19,Istanbul Expo Center (IFM),5,Salon 5 (Hall 5),9250,,,10.4,2.25,,https://ifm.com.tr/media/pdf/ifm-teknik-bilgiler-tr-2025-05.pdf,"官网技术表：9250㎡、净高10.4m、2,250kg/㎡"
+expo-1fda9f19:6,expo-1fda9f19,Istanbul Expo Center (IFM),6,Salon 6 (Hall 6),8450,,,10.4,2.25,,https://ifm.com.tr/media/pdf/ifm-teknik-bilgiler-tr-2025-05.pdf,"官网技术表：8450㎡、净高10.4m、2,250kg/㎡"
+expo-1fda9f19:7,expo-1fda9f19,Istanbul Expo Center (IFM),7,Salon 7 (Hall 7),5500,,,10.4,2.25,,https://ifm.com.tr/media/pdf/ifm-teknik-bilgiler-tr-2025-05.pdf,"官网技术表：5500㎡、净高10.4m、2,250kg/㎡"
+expo-1fda9f19:8,expo-1fda9f19,Istanbul Expo Center (IFM),8,Salon 8 (Hall 8),8450,,,10.4,2.25,,https://ifm.com.tr/media/pdf/ifm-teknik-bilgiler-tr-2025-05.pdf,"官网技术表：8450㎡、净高10.4m、2,250kg/㎡"
+expo-1fda9f19:9,expo-1fda9f19,Istanbul Expo Center (IFM),9,Salon 9 (Hall 9),5400,,,9,2.25,,https://ifm.com.tr/media/pdf/ifm-teknik-bilgiler-tr-2025-05.pdf,"官网技术表：5400㎡、净高9m、2,250kg/㎡"
+expo-1fda9f19:10,expo-1fda9f19,Istanbul Expo Center (IFM),10,Salon 10 (Hall 10),5400,,,9,2.25,,https://ifm.com.tr/media/pdf/ifm-teknik-bilgiler-tr-2025-05.pdf,"官网技术表：5400㎡、净高9m、2,250kg/㎡"
+expo-1fda9f19:11,expo-1fda9f19,Istanbul Expo Center (IFM),11,Salon 11 (Hall 11),5000,,,4.3,2.25,,https://ifm.com.tr/media/pdf/ifm-teknik-bilgiler-tr-2025-05.pdf,"官网技术表：5000㎡、净高4.3m、2,250kg/㎡"
+expo-1fda9f19:FA,expo-1fda9f19,Istanbul Expo Center (IFM),FA,Ana Fuaye (Main Foyer),3370,,,5,,,https://ifm.com.tr/media/pdf/ifm-teknik-bilgiler-tr-2025-05.pdf,官网技术表：3370㎡、净高5m
+expo-1fda9f19:F9-10,expo-1fda9f19,Istanbul Expo Center (IFM),F9-10,9-10 Fuaye,1380,,,3.2,,,https://ifm.com.tr/media/pdf/ifm-teknik-bilgiler-tr-2025-05.pdf,官网技术表：1380㎡、净高3.2m
+expo-1fda9f19:F11,expo-1fda9f19,Istanbul Expo Center (IFM),F11,11 Fuaye,323,,,6.5,,,https://ifm.com.tr/media/pdf/ifm-teknik-bilgiler-tr-2025-05.pdf,官网技术表：323㎡、净高6.5m
+expo-79248c83:HARBIYE,expo-79248c83,Istanbul Congress Center,HARBIYE,Harbiye Auditorium,3028,,,,,,http://www.iccistanbul.com/halls-spaces/auditorium.php,官网：3028㎡、最多3555人
+expo-79248c83:USKUDAR,expo-79248c83,Istanbul Congress Center,USKUDAR,Üsküdar Hall,1235,,,,,,http://www.iccistanbul.com/halls-spaces/uskudar-hall.php,官网：1235㎡、最多1280人
+expo-79248c83:BEYAZIT,expo-79248c83,Istanbul Congress Center,BEYAZIT,Beyazıt Hall,726,,,,,,http://www.iccistanbul.com/halls-spaces/beyazit-hall.php,官网：726㎡、最多680人
+expo-79248c83:EMIRGAN,expo-79248c83,Istanbul Congress Center,EMIRGAN,Emirgan Hall,717,,,,,,http://www.iccistanbul.com/halls-spaces/emirgan-hall.php,官网：717㎡、最多640人
+expo-79248c83:CAMLICA,expo-79248c83,Istanbul Congress Center,CAMLICA,Çamlıca Hall,505,,,,,,http://www.iccistanbul.com/halls-spaces/camlica-hall.php,官网：505㎡、最多480人
+expo-79248c83:BEYLERBEYI,expo-79248c83,Istanbul Congress Center,BEYLERBEYI,Beylerbeyi Hall,479,,,,,,http://www.iccistanbul.com/halls-spaces/beylerbeyi-hall.php,官网：479㎡、最多396人
+expo-79248c83:MACKA,expo-79248c83,Istanbul Congress Center,MACKA,Maçka Hall,180,,,,,,http://www.iccistanbul.com/halls-spaces/macka-hall.php,官网：180㎡、最多150人
+expo-79248c83:HAMIDIYE,expo-79248c83,Istanbul Congress Center,HAMIDIYE,Hamidiye Hall,161,,,,,,http://www.iccistanbul.com/halls-spaces/hamidiye-hall.php,官网：161㎡、最多140人
+expo-79248c83:B5,expo-79248c83,Istanbul Congress Center,B5,Exhibition Space B5,10288,,,6.8,,,http://www.iccistanbul.com/halls-spaces/exhibition-spaces.php,"官网：B5展区10,288㎡、净高6.8m"
+expo-79248c83:B4M,expo-79248c83,Istanbul Congress Center,B4M,Exhibition Space B4 Mezzanine,4288,,,2.65,,,http://www.iccistanbul.com/halls-spaces/exhibition-spaces.php,"官网：B4夹层4,288㎡、净高2.65m"
+expo-963bc4ce:FUAR,expo-963bc4ce,ATO Congresium Ankara,FUAR,"Fuar Alanı (Exhibition Area, 4 halls)",10000,,,,,,https://atocongresium.com/salon/fuar,"官网：4厅合计10,000㎡(2×3,000等)"
+expo-963bc4ce:ANGORA,expo-963bc4ce,ATO Congresium Ankara,ANGORA,Angora Salonu,1500,,,8,,无柱,https://atocongresium.com/salon/angora,"官网：1,500㎡、8m、sütunsuz无柱"
+expo-963bc4ce:TRUVA,expo-963bc4ce,ATO Congresium Ankara,TRUVA,Truva Salonu,2749,,,8.2,,,https://atocongresium.com/salon/truva-salonu,"官网：2,749㎡、高8.2m、3,590人"
+expo-963bc4ce:ATRIUM,expo-963bc4ce,ATO Congresium Ankara,ATRIUM,Atrium,2040,,,22,,,https://atocongresium.com/salon/atrium,"官网：2,040㎡、净高22m"
+expo-963bc4ce:GORDION,expo-963bc4ce,ATO Congresium Ankara,GORDION,Gordion Oditoryum,4015,,,,,,https://atocongresium.com/salon/gordion-oditoryum,"官网：4,015㎡、3,106座"
+expo-8519d132:A,expo-8519d132,Fuar İzmir,A,A Hol (Hall A),23500,,,,,,https://fuarizmir.com.tr/fuarizmir-holler,"官网brüt alan：23,500㎡(毛面积)"
+expo-8519d132:B,expo-8519d132,Fuar İzmir,B,B Hol (Hall B),27250,,,,,,https://fuarizmir.com.tr/fuarizmir-holler,"官网brüt alan：27,250㎡(毛面积)"
+expo-8519d132:C,expo-8519d132,Fuar İzmir,C,C Hol (Hall C),16000,,,,,,https://fuarizmir.com.tr/fuarizmir-holler,"官网brüt alan：16,000㎡(毛面积)"
+expo-8519d132:D,expo-8519d132,Fuar İzmir,D,D Hol (Hall D),12000,,,,,,https://fuarizmir.com.tr/fuarizmir-holler,"官网brüt alan：12,000㎡(毛面积)"
+expo-cf80da6c:1,expo-cf80da6c,Dhahran Expo,1,Exhibition Hall 1,3600,60,60,7.3,2,,https://dhahranexpo.com.sa/venue-facilities-exhibition-halls.aspx,"官网：3,600㎡(60×60m)、净高7.3m"
+expo-cf80da6c:2,expo-cf80da6c,Dhahran Expo,2,Exhibition Hall 2,3600,60,60,7.3,2,,https://dhahranexpo.com.sa/venue-facilities-exhibition-halls.aspx,"官网：3,600㎡(60×60m)、净高7.3m"
+expo-cf80da6c:3,expo-cf80da6c,Dhahran Expo,3,Exhibition Hall 3,3600,60,60,10.8,2,,https://dhahranexpo.com.sa/venue-facilities-exhibition-halls.aspx,"官网：3,600㎡(60×60m)、净高10.8m"
+expo-cf80da6c:4,expo-cf80da6c,Dhahran Expo,4,Exhibition Hall 4,3600,60,60,10.8,2,,https://dhahranexpo.com.sa/venue-facilities-exhibition-halls.aspx,"官网：3,600㎡(60×60m)、净高10.8m"

@@ -1,0 +1,257 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://eventthings.ai/schema/hotels.public.schema.json",
+  "title": "EVENTTHING Venue Library — hotels.public.csv",
+  "description": "One record of `data/hotels.public.csv` (3,038 rows, 23 columns). Empty CSV cells are `null`; numbers are stored as CSV text and MUST be coerced before validation. Encoding: UTF-8 without BOM, LF. See `fields.md`.",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "id": {
+      "title": "id",
+      "x-unit": "—",
+      "description": "Unique record ID. Prefix: ACC-* Accor, MAR-* Marriott, SHL-* Shangri-La, WYN-* Wyndham, HIL-* Hilton, IHG-* IHG. Primary key.",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "slug": {
+      "title": "slug",
+      "x-unit": "—",
+      "description": "URL-safe identifier: lowercase letters, digits and hyphens; unique within the file.",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "name_zh": {
+      "title": "name_zh",
+      "x-unit": "—",
+      "description": "Chinese property name as published by the hotel; blank when the source publishes no Chinese name — never machine-translated.",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "name_en": {
+      "title": "name_en",
+      "x-unit": "—",
+      "description": "English property name as currently used on the official site; blank when the source publishes none.",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "venue_type": {
+      "title": "venue_type",
+      "x-unit": "—",
+      "description": "Always `酒店会议设施` (hotel with meeting facilities) in this file.",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "brand_group": {
+      "title": "brand_group",
+      "x-unit": "—",
+      "description": "Brand group: Accor / Marriott / Shangri-La / Hilton Worldwide / Wyndham Hotels & Resorts / IHG.",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "brand": {
+      "title": "brand",
+      "x-unit": "—",
+      "description": "Brand within the group (e.g. Novotel, W Hotels); official spelling kept.",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "star_rating": {
+      "title": "star_rating",
+      "x-unit": "stars",
+      "description": "4 or 5. Only 4–5 star properties are published; 3-star records stay in the internal master as denominator data.",
+      "type": [
+        "integer",
+        "null"
+      ],
+      "minimum": 1,
+      "maximum": 5
+    },
+    "country": {
+      "title": "country",
+      "x-unit": "—",
+      "description": "Country or territory in English; Hong Kong, Macau and Taiwan are recorded separately.",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "country_zh": {
+      "title": "country_zh",
+      "x-unit": "—",
+      "description": "Country or territory in Chinese; blank when no official Chinese name.",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "city": {
+      "title": "city",
+      "x-unit": "—",
+      "description": "City in English, as given by the official page or a public gazetteer.",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "city_zh": {
+      "title": "city_zh",
+      "x-unit": "—",
+      "description": "City in Chinese, as given on the official page.",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "address_en": {
+      "title": "address_en",
+      "x-unit": "—",
+      "description": "Street address in English as published; blank when not published.",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "lng": {
+      "title": "lng",
+      "x-unit": "degrees",
+      "description": "Longitude, WGS-84 (EPSG:4326). Recorded only when published by the source; never inferred. Bounds: -180 to 180.",
+      "type": [
+        "number",
+        "null"
+      ],
+      "minimum": -180,
+      "maximum": 180
+    },
+    "lat": {
+      "title": "lat",
+      "x-unit": "degrees",
+      "description": "Latitude, WGS-84. Recorded only when published by the source; never inferred. Bounds: -90 to 90.",
+      "type": [
+        "number",
+        "null"
+      ],
+      "minimum": -90,
+      "maximum": 90
+    },
+    "geo_precision": {
+      "title": "geo_precision",
+      "x-unit": "—",
+      "description": "`venue` = property-level point; `city_only` = city known, coordinates withheld; `none` = no coordinates.",
+      "type": [
+        "string",
+        "null"
+      ],
+      "enum": [
+        null
+      ]
+    },
+    "website": {
+      "title": "website",
+      "x-unit": "—",
+      "description": "URL of the hotel's official page.",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "updated_at": {
+      "title": "updated_at",
+      "x-unit": "—",
+      "description": "Record update date, YYYY-MM-DD.",
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+    },
+    "license": {
+      "title": "license",
+      "x-unit": "—",
+      "description": "Data licence: `CC-BY-4.0`; credit EVENTTHING Venue Library.",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "opening_year": {
+      "title": "opening_year",
+      "x-unit": "year",
+      "description": "Four-digit opening year as published; blank when not published.",
+      "type": [
+        "integer",
+        "null"
+      ],
+      "minimum": 1800,
+      "maximum": 2100
+    },
+    "status": {
+      "title": "status",
+      "x-unit": "—",
+      "description": "Operating status. One of `open`, `closed`, `renovating`, `under_construction`, `unknown`. See “Status model”.",
+      "type": [
+        "string",
+        "null"
+      ],
+      "enum": [
+        null
+      ]
+    },
+    "status_source": {
+      "title": "status_source",
+      "x-unit": "—",
+      "description": "Evidence type behind `status`. See “Status model”.",
+      "type": [
+        "string",
+        "null"
+      ],
+      "enum": [
+        null
+      ]
+    },
+    "status_asof": {
+      "title": "status_asof",
+      "x-unit": "—",
+      "description": "Date of the evidence behind `status`, YYYY-MM-DD.",
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+    }
+  },
+  "required": [
+    "id",
+    "slug",
+    "venue_type",
+    "brand_group",
+    "star_rating",
+    "country",
+    "geo_precision",
+    "updated_at",
+    "license",
+    "status",
+    "status_source",
+    "status_asof"
+  ],
+  "x-primary-key": "id",
+  "x-release": "v1.0.1 (2026-10-29)",
+  "x-row-count": 3038,
+  "x-column-count": 23,
+  "x-sha256": "b738e646c17ac497e2cd436c9c2a279aae674627c75b343a82da564420c9e94c"
+}

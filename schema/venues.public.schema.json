@@ -1,0 +1,192 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://eventthings.ai/schema/venues.public.schema.json",
+  "title": "EVENTTHING Venue Library — venues.public.csv",
+  "description": "One record of `data/venues.public.csv` (3,549 rows, 17 columns). Empty CSV cells are `null`; numbers are stored as CSV text and MUST be coerced before validation. Encoding: UTF-8 without BOM, LF. See `fields.md`.",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "master_id": {
+      "title": "master_id",
+      "x-unit": "—",
+      "description": "Unique venue ID (e.g. BJ001). Primary key.",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "name_zh": {
+      "title": "name_zh",
+      "x-unit": "—",
+      "description": "Chinese venue name as published.",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "name_en": {
+      "title": "name_en",
+      "x-unit": "—",
+      "description": "English venue name where the source publishes one; blank otherwise (641 of 3,549 rows).",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "category": {
+      "title": "category",
+      "x-unit": "—",
+      "description": "Venue category: `商业` (commercial), `酒店` (hotel), `会展` (exhibition/convention), `体育` (sports), `特殊景点场地` (scenic/special site).",
+      "type": [
+        "string",
+        "null"
+      ],
+      "enum": [
+        null
+      ]
+    },
+    "sub_type": {
+      "title": "sub_type",
+      "x-unit": "—",
+      "description": "Finer type as recorded, e.g. `商场` (mall), `商业地产场地` (commercial property), `酒店会议设施` (hotel meeting facilities), `展览中心`, `体育场`.",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "country": {
+      "title": "country",
+      "x-unit": "—",
+      "description": "Country in Chinese. All rows in this release are `中国`.",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "province": {
+      "title": "province",
+      "x-unit": "—",
+      "description": "Province or municipality in Chinese; blank when not recorded.",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "city": {
+      "title": "city",
+      "x-unit": "—",
+      "description": "City in Chinese.",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "district": {
+      "title": "district",
+      "x-unit": "—",
+      "description": "District in Chinese; blank when not recorded.",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "address": {
+      "title": "address",
+      "x-unit": "—",
+      "description": "Street address in Chinese as published.",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "source_url": {
+      "title": "source_url",
+      "x-unit": "—",
+      "description": "Public source page for the record. Commercial venues are blank by policy: third-party deep links are not redistributed. 421 of 3,549 rows carry a URL.",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "lng": {
+      "title": "lng",
+      "x-unit": "degrees",
+      "description": "WGS-84 longitude. Commercial venues are blank by policy. 656 of 3,549 rows carry a point.",
+      "type": [
+        "number",
+        "null"
+      ],
+      "minimum": -180,
+      "maximum": 180
+    },
+    "lat": {
+      "title": "lat",
+      "x-unit": "degrees",
+      "description": "WGS-84 latitude; same policy as `lng`.",
+      "type": [
+        "number",
+        "null"
+      ],
+      "minimum": -90,
+      "maximum": 90
+    },
+    "status": {
+      "title": "status",
+      "x-unit": "—",
+      "description": "Operating status: `open`, `closed`, `renovating`, `under_construction`, `unknown`. `unknown` means not verified — not closed. See “Status model”.",
+      "type": [
+        "string",
+        "null"
+      ],
+      "enum": [
+        null
+      ]
+    },
+    "status_source": {
+      "title": "status_source",
+      "x-unit": "—",
+      "description": "Evidence type: `derived_from_hotels_asia`, `third_party_listing`, `official_site`, `retired_list`, `not_verified`, `no_source_link`. See “Status model”.",
+      "type": [
+        "string",
+        "null"
+      ],
+      "enum": [
+        null
+      ]
+    },
+    "status_asof": {
+      "title": "status_asof",
+      "x-unit": "—",
+      "description": "Date of the evidence, YYYY-MM-DD.",
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+    },
+    "hotel_id_ref": {
+      "title": "hotel_id_ref",
+      "x-unit": "—",
+      "description": "For the 441 venues that also appear in hotels.public.csv, the hotel `id` that points here; empty otherwise. Lets readers reproduce the de-duplication behind the 6,146 headline.",
+      "type": [
+        "string",
+        "null"
+      ]
+    }
+  },
+  "required": [
+    "master_id",
+    "name_zh",
+    "category",
+    "country",
+    "status",
+    "status_source",
+    "status_asof"
+  ],
+  "x-primary-key": "master_id",
+  "x-release": "v1.0.1 (2026-10-29)",
+  "x-row-count": 3549,
+  "x-column-count": 17,
+  "x-sha256": "def1debe7fd7852eea7ffca02eaa197d859577e68ba215700b8920b75c1a64bc"
+}

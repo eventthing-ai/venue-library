@@ -1,0 +1,74 @@
+{
+  "release": "v1.0.1 (2026-10-29)",
+  "generated_from": "data",
+  "rules": {
+    "encoding": "UTF-8 no BOM",
+    "lineending": "LF",
+    "empty": "empty CSV cell = null"
+  },
+  "files": {
+    "batch2-exhibition-centres-20261029.csv": {
+      "schema": "schema/batch2-exhibition-venues.schema.json",
+      "rows": 104,
+      "columns": 13,
+      "primary_key": "venue_id",
+      "sha256": "20ce9dff68e3a5905b45bc8ae4d9f51edc7b2e6f229c6667677dea913c63a98c"
+    },
+    "batch2-exhibition-halls-20261029.csv": {
+      "schema": "schema/batch2-exhibition-halls.schema.json",
+      "rows": 797,
+      "columns": 13,
+      "primary_key": "hall_uid",
+      "sha256": "3982f66b4fd21c1d1e8ae9f18b15642b82a24bb36ad61595dd563b23d04047c7"
+    },
+    "batch3-sports-arts-retail-popup-racing-20261029.csv": {
+      "schema": "schema/batch3-sports-arts-retail-racing.schema.json",
+      "rows": 559,
+      "columns": 15,
+      "primary_key": "venue_id",
+      "sha256": "a585f1bdecb4aebaf4f870fd0f0b9854e7a68e4baec31a9229978130e2d15024"
+    },
+    "cases.csv": {
+      "schema": "schema/cases.schema.json",
+      "rows": 1309,
+      "columns": 14,
+      "primary_key": "case_id",
+      "sha256": "b76264acf85e5585a6bad6a4e64c84a5adb9554467eb69fadfd4cd38deb2e191"
+    },
+    "hotels.public.csv": {
+      "schema": "schema/hotels.public.schema.json",
+      "rows": 3038,
+      "columns": 23,
+      "primary_key": "id",
+      "sha256": "b738e646c17ac497e2cd436c9c2a279aae674627c75b343a82da564420c9e94c"
+    },
+    "sample-80-halls-20261027.csv": {
+      "schema": "schema/sample-80-halls.schema.json",
+      "rows": 2100,
+      "columns": 21,
+      "primary_key": "room_id",
+      "sha256": "50011f2cd3373d3ae38a69685d11e5bb72e845c0aaca922dc7c5aa85cbdbbf07"
+    },
+    "sample-80-venues-20261027.csv": {
+      "schema": "schema/sample-80-venues.schema.json",
+      "rows": 80,
+      "columns": 15,
+      "primary_key": "venue_id",
+      "sha256": "cc77b39af8f2262f695743135d2641a3753c9f98f9bfae60090531446c20ba6c"
+    },
+    "venues.public.csv": {
+      "schema": "schema/venues.public.schema.json",
+      "rows": 3549,
+      "columns": 17,
+      "primary_key": "master_id",
+      "sha256": "def1debe7fd7852eea7ffca02eaa197d859577e68ba215700b8920b75c1a64bc"
+    },
+    "whitelist-v2.csv": {
+      "schema": "schema/whitelist-v2.schema.json",
+      "rows": 113,
+      "columns": 4,
+      "primary_key": "column",
+      "sha256": "2018015671eeda3ce1ec19778736f7e9fd52d5cc43c3c0b069d9cfb5a76c6b37"
+    }
+  }
+}

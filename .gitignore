@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.DS_Store
+
+# Local scratch — never part of the public tree
+_work/
+_private/
+*.bak
+*.bak-*
+*.tmp

@@ -1,0 +1,156 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://eventthings.ai/schema/cases.schema.json",
+  "title": "EVENTTHING Venue Library — cases.csv",
+  "description": "One record of `data/cases.csv` (1,309 rows, 14 columns). Empty CSV cells are `null`; numbers are stored as CSV text and MUST be coerced before validation. Encoding: UTF-8 without BOM, LF. See `fields.md`.",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "case_id": {
+      "title": "case_id",
+      "x-unit": "—",
+      "description": "Stable ID derived from the original URL; unique within the file.",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "venue_id": {
+      "title": "venue_id",
+      "x-unit": "—",
+      "description": "Joins to `venues.public.csv.master_id` where the venue is published; blank when the case is not tied to a venue. A few rows reference venues not yet in the public directory.",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "venue_name": {
+      "title": "venue_name",
+      "x-unit": "—",
+      "description": "Venue name in Chinese, as published on the source page.",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "venue_name_en": {
+      "title": "venue_name_en",
+      "x-unit": "—",
+      "description": "Venue name in English where the source gives one; blank otherwise.",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "city": {
+      "title": "city",
+      "x-unit": "—",
+      "description": "City in Chinese.",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "city_en": {
+      "title": "city_en",
+      "x-unit": "—",
+      "description": "City in English where the source gives one.",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "brand": {
+      "title": "brand",
+      "x-unit": "—",
+      "description": "Brand credited for the case, as published (bilingual where the source gives both).",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "brand_en": {
+      "title": "brand_en",
+      "x-unit": "—",
+      "description": "English brand name where the source gives one.",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "year": {
+      "title": "year",
+      "x-unit": "year",
+      "description": "Four-digit year the case ran, as published.",
+      "type": [
+        "integer",
+        "null"
+      ],
+      "minimum": 1800,
+      "maximum": 2100
+    },
+    "title": {
+      "title": "title",
+      "x-unit": "—",
+      "description": "Case title in the language of the source (`lang`). No body text is included.",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "lang": {
+      "title": "lang",
+      "x-unit": "—",
+      "description": "Language of `title`.",
+      "type": [
+        "string",
+        "null"
+      ],
+      "enum": [
+        null
+      ]
+    },
+    "source": {
+      "title": "source",
+      "x-unit": "—",
+      "description": "Publisher name: OnsiteClub or a media outlet. This is not a URL — the link is in `url`.",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "published_at": {
+      "title": "published_at",
+      "x-unit": "—",
+      "description": "Publication date, YYYY-MM-DD, when derivable from the URL; blank otherwise.",
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+    },
+    "url": {
+      "title": "url",
+      "x-unit": "—",
+      "description": "Link to the original; no body text.",
+      "type": [
+        "string",
+        "null"
+      ]
+    }
+  },
+  "required": [
+    "case_id",
+    "year",
+    "title",
+    "lang",
+    "source",
+    "url"
+  ],
+  "x-primary-key": "case_id",
+  "x-release": "v1.0.1 (2026-10-29)",
+  "x-row-count": 1309,
+  "x-column-count": 14,
+  "x-sha256": "b76264acf85e5585a6bad6a4e64c84a5adb9554467eb69fadfd4cd38deb2e191"
+}

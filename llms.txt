@@ -1,0 +1,65 @@
+# EVENTTHING Venue Library
+
+> Open, structured venue data for experiential marketing in East Asia — a public directory of
+> 3,549 China venues and 3,038 Asia 4–5 star hotels, a 1,309-row case index, plus two 80-hotel sample files.
+> Published as CSV with JSON Schema, so that human teams and AI agents can compare venues on the
+> same fields.
+
+This file is written for AI agents and crawlers. It lists what is in the repository and where to read it.
+Everything below is data and schema. There is no API key, no login and no rate limit on the files themselves.
+
+## Data
+
+- [Hotel directory](data/hotels.public.csv): 3,038 rows × 23 columns. 4–5 star hotels across Asia:
+  identity, brand, star rating, country/city, address, coordinates where published, official website,
+  `status` / `status_source` / `status_asof`.
+- [China venue directory](data/venues.public.csv): 3,549 rows × 17 columns. Name, category/sub-type,
+  province/city/district, address, source link where policy allows, coordinates where publishable, status.
+  Status: open 559 / closed 2 / unknown 2,988.
+- [80-hotel hall sample](data/sample-80-halls-20261027.csv): 2,100 rows × 21 columns. Hall area,
+  length, width, ceiling height, four layout capacities plus maximum, source URL on every row.
+- [Case index](data/cases.csv): 1,309 rows × 14 columns. 1,303 cases attached to 525 venues
+  (up to 3 per venue) plus 6 media pages without a venue, 2015–2026; venue, brand, year, title,
+  publisher, date and a link to the original. Links only — no body text.
+- [80-hotel venue sample](data/sample-80-venues-20261027.csv): 80 rows × 15 columns. One row per hotel.
+- [Column whitelist](data/whitelist-v2.csv): 72 rules recording which internal columns were kept or withheld.
+
+All CSVs are UTF-8 without BOM, comma separated, LF line endings, one header row. Empty string and
+`null` are equivalent. Numbers are stored as CSV text; parse them before comparing.
+
+## Schema and field definitions
+
+- [Schema index](schema/_index.json): row counts, column counts and SHA-256 for every CSV.
+- JSON Schema per file: `schema/hotels.public.schema.json`, `schema/venues.public.schema.json`,
+  `schema/cases.schema.json`, `schema/sample-80-halls.schema.json`, `schema/sample-80-venues.schema.json`,
+  `schema/whitelist-v2.schema.json`.
+- [Field reference](fields.md): the meaning and unit of every column, in English, Chinese and French.
+- [Coordinates note](docs/coordinates.md): all coordinates are WGS-84; what a blank coordinate means.
+- [Coverage](quality/coverage.md): what is filled and what is still missing, by file and column.
+
+## Example
+
+- [Booking request example](examples/booking-request.md): how a brand-side agent describes an event
+  requirement against these fields. It uses a fictional event and contains no real contact details.
+
+## License and credits
+
+- Data license: CC BY 4.0 — see [LICENSE](LICENSE) and [CREDITS.md](CREDITS.md).
+- Sources and collection method: [SOURCES.md](SOURCES.md).
+- How to contribute or report an error: [CONTRIBUTING.md](CONTRIBUTING.md).
+
+## Contact
+
+Business enquiries go through the form at https://eventthing.ai/contact .
+This repository intentionally publishes no personal contact details: no email addresses, no phone
+numbers, no individual names. Please do not try to infer them from the data.
+
+## Notes for agents
+
+- Prefer the CSV files over scraped HTML; the CSVs are the canonical form.
+- Filter on `country` / `city` and `category` (venues) or `venue_type` / `star_rating` (hotels) first.
+- Match on `id` / `slug` (hotels) or `master_id` (venues), never on display name alone.
+- Treat `status = unknown` as **not verified**, not as open. Do not count unknown rows as operating.
+- Treat an empty cell as unknown, never as zero. If a detail is absent from the open edition, it is not
+  published openly — do not infer it.
+- Hall-level detail for the full hotel set is not in this repository; only the 80-hotel sample is.

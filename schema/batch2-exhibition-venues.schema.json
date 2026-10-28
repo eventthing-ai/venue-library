@@ -1,0 +1,144 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://eventthings.ai/schema/batch2-exhibition-venues.schema.json",
+  "title": "EVENTTHING Venue Library — batch2-exhibition-centres-20261029.csv",
+  "description": "One record of `data/batch2-exhibition-centres-20261029.csv` (104 rows, 13 columns). Empty CSV cells are `null`; numbers are stored as CSV text and MUST be coerced before validation. Encoding: UTF-8 without BOM, LF. See `fields.md`.",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "venue_id": {
+      "title": "venue_id",
+      "x-unit": "—",
+      "description": "Public venue ID (`expo-*`). Primary key.",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "name_zh": {
+      "title": "name_zh",
+      "x-unit": "—",
+      "description": "Venue name in Chinese, as published.",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "country": {
+      "title": "country",
+      "x-unit": "—",
+      "description": "Country or territory in Chinese, as recorded in the source.",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "city": {
+      "title": "city",
+      "x-unit": "—",
+      "description": "City in Chinese.",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "address": {
+      "title": "address",
+      "x-unit": "—",
+      "description": "Street address as published; blank when the source publishes none (6 of 104 rows).",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "website": {
+      "title": "website",
+      "x-unit": "—",
+      "description": "Official site or contact page; blank when not published (14 of 104 rows).",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "halls_count": {
+      "title": "halls_count",
+      "x-unit": "halls",
+      "description": "Number of halls recorded for this venue in the hall file; 0 means no hall record was captured.",
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "halls_area_sqm": {
+      "title": "halls_area_sqm",
+      "x-unit": "m²",
+      "description": "Sum of the areas recorded for this venue's halls, in square metres; blank when no hall area is published. Not the venue's published total exhibition area.",
+      "type": [
+        "number",
+        "null"
+      ],
+      "minimum": 0
+    },
+    "status": {
+      "title": "status",
+      "x-unit": "—",
+      "description": "`open` / `closed` / `renovating` / `under_construction` / `unknown`; see the status model in `fields.md`.",
+      "type": [
+        "string",
+        "null"
+      ],
+      "enum": [
+        null
+      ]
+    },
+    "status_note": {
+      "title": "status_note",
+      "x-unit": "—",
+      "description": "Short note behind `status`, in Chinese; published as recorded.",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "intro_zh": {
+      "title": "intro_zh",
+      "x-unit": "—",
+      "description": "Chinese profile text; blank when the source has no usable text (63 of 104 rows).",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "intro_en": {
+      "title": "intro_en",
+      "x-unit": "—",
+      "description": "English profile text written from the source, not machine-translated; blank when none.",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "source": {
+      "title": "source",
+      "x-unit": "—",
+      "description": "Where the profile came from (publisher and page type).",
+      "type": [
+        "string",
+        "null"
+      ]
+    }
+  },
+  "required": [
+    "venue_id",
+    "name_zh",
+    "country",
+    "city",
+    "status",
+    "source"
+  ],
+  "x-primary-key": "venue_id",
+  "x-release": "v1.0.1 (2026-10-29)",
+  "x-row-count": 104,
+  "x-column-count": 13,
+  "x-sha256": "20ce9dff68e3a5905b45bc8ae4d9f51edc7b2e6f229c6667677dea913c63a98c"
+}

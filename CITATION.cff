@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "EVENTTHING Venue Library"
+abstract: >-
+  Open public directory for experiential marketing — 3,549 venues in China and
+  3,038 four- and five-star hotels across Asia, with identity, location (WGS-84),
+  category, status, a 1,309-row case index (links only, no body text), and a
+  80-hotel hall-level sample. Published as CSV with JSON Schemas and a field
+  dictionary in English, Chinese and French.
+type: dataset
+authors:
+  - name: "EVENTTHING"
+    alias: "EVENTTHING Venue Library"
+    affiliation: "EVENTTHING, Hong Kong"
+    website: "https://venue.eventthing.ai"
+  - name: "onsiteclub.com"
+    affiliation: "EVENTTHING, Hong Kong"
+    website: "https://onsiteclub.com"
+version: "1.0.1"
+date-released: "2026-10-29"
+license:
+  - "CC-BY-4.0"
+  - "MIT"
+repository-code: "https://github.com/eventthing-ai/venue-library"
+keywords:
+  - venues
+  - exhibition centres
+  - convention centres
+  - hotels
+  - experiential marketing
+  - event marketing
+  - Asia
+  - China

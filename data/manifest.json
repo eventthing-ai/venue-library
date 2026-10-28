@@ -1,0 +1,268 @@
+{
+  "batches": {
+    "batch1_hotels": {
+      "files": [
+        "hotels.public.csv",
+        "sample-80-venues-20261027.csv",
+        "sample-80-halls-20261027.csv"
+      ],
+      "shown": 80,
+      "total": 3038
+    },
+    "batch2_exhibitions": {
+      "files": [
+        "batch2-exhibition-centres-20261029.csv",
+        "batch2-exhibition-halls-20261029.csv"
+      ],
+      "halls": 797,
+      "shown": 93,
+      "total": 104
+    },
+    "batch3_others": {
+      "arts": [
+        124,
+        124
+      ],
+      "files": [
+        "batch3-sports-arts-retail-popup-racing-20261029.csv"
+      ],
+      "popup": [
+        54,
+        2546
+      ],
+      "racing": [
+        14,
+        14
+      ],
+      "retail": [
+        94,
+        2546
+      ],
+      "sports": [
+        273,
+        273
+      ]
+    }
+  },
+  "datasets": {
+    "cases.csv": {
+      "bytes": 333148,
+      "cols": 14,
+      "columns": [
+        "case_id",
+        "venue_id",
+        "venue_name",
+        "venue_name_en",
+        "city",
+        "city_en",
+        "brand",
+        "brand_en",
+        "year",
+        "title",
+        "lang",
+        "source",
+        "published_at",
+        "url"
+      ],
+      "rows": 1309,
+      "sha256": "b76264acf85e5585a6bad6a4e64c84a5adb9554467eb69fadfd4cd38deb2e191"
+    },
+    "hotels.public.csv": {
+      "bytes": 978505,
+      "cols": 23,
+      "columns": [
+        "id",
+        "slug",
+        "name_zh",
+        "name_en",
+        "venue_type",
+        "brand_group",
+        "brand",
+        "star_rating",
+        "country",
+        "country_zh",
+        "city",
+        "city_zh",
+        "address_en",
+        "lng",
+        "lat",
+        "geo_precision",
+        "website",
+        "updated_at",
+        "license",
+        "opening_year",
+        "status",
+        "status_source",
+        "status_asof"
+      ],
+      "quarantined": [
+        {
+          "fields": [
+            "city",
+            "website"
+          ],
+          "id": "WYN-febd0399"
+        }
+      ],
+      "rows": 3038,
+      "sha256": "b738e646c17ac497e2cd436c9c2a279aae674627c75b343a82da564420c9e94c",
+      "star3_internal": 1246
+    },
+    "venues.public.csv": {
+      "bytes": 598456,
+      "cols": 17,
+      "columns": [
+        "master_id",
+        "name_zh",
+        "name_en",
+        "category",
+        "sub_type",
+        "country",
+        "province",
+        "city",
+        "district",
+        "address",
+        "source_url",
+        "lng",
+        "lat",
+        "status",
+        "status_source",
+        "status_asof",
+        "hotel_id_ref"
+      ],
+      "quarantined": [],
+      "rows": 3549,
+      "sha256": "def1debe7fd7852eea7ffca02eaa197d859577e68ba215700b8920b75c1a64bc",
+      "status_count": {
+        "closed": 2,
+        "open": 559,
+        "unknown": 2988
+      }
+    },
+    "whitelist-v2.csv": {
+      "bytes": 7498,
+      "cols": 4,
+      "kind": "meta",
+      "rows": 113,
+      "sha256": "2018015671eeda3ce1ec19778736f7e9fd52d5cc43c3c0b069d9cfb5a76c6b37"
+    },
+    "sample-80-halls-20261027.csv": {
+      "bytes": 476424,
+      "cols": 21,
+      "rows": 2100,
+      "sha256": "50011f2cd3373d3ae38a69685d11e5bb72e845c0aaca922dc7c5aa85cbdbbf07"
+    },
+    "sample-80-venues-20261027.csv": {
+      "bytes": 18871,
+      "cols": 15,
+      "rows": 80,
+      "sha256": "cc77b39af8f2262f695743135d2641a3753c9f98f9bfae60090531446c20ba6c"
+    },
+    "batch3-sports-arts-retail-popup-racing-20261029.csv": {
+      "bytes": 1663754,
+      "cols": 15,
+      "columns": [
+        "group",
+        "venue_id",
+        "name_zh",
+        "city",
+        "country",
+        "address",
+        "website",
+        "area_text",
+        "capacity_text",
+        "open_year",
+        "status",
+        "status_note",
+        "intro_zh",
+        "intro_en",
+        "source"
+      ],
+      "rows": 559,
+      "sha256": "a585f1bdecb4aebaf4f870fd0f0b9854e7a68e4baec31a9229978130e2d15024"
+    },
+    "batch2-exhibition-centres-20261029.csv": {
+      "bytes": 267232,
+      "cols": 13,
+      "columns": [
+        "venue_id",
+        "name_zh",
+        "country",
+        "city",
+        "address",
+        "website",
+        "halls_count",
+        "halls_area_sqm",
+        "status",
+        "status_note",
+        "intro_zh",
+        "intro_en",
+        "source"
+      ],
+      "rows": 104,
+      "sha256": "20ce9dff68e3a5905b45bc8ae4d9f51edc7b2e6f229c6667677dea913c63a98c"
+    },
+    "batch2-exhibition-halls-20261029.csv": {
+      "bytes": 204484,
+      "cols": 13,
+      "columns": [
+        "hall_uid",
+        "venue_id",
+        "venue_name",
+        "hall_id",
+        "hall_name",
+        "area_sqm",
+        "length_m",
+        "width_m",
+        "height_m",
+        "floor_load_t_sqm",
+        "pillar_free",
+        "source_url",
+        "note"
+      ],
+      "rows": 797,
+      "sha256": "3982f66b4fd21c1d1e8ae9f18b15642b82a24bb36ad61595dd563b23d04047c7"
+    }
+  },
+  "docs": {
+    "README-samples.md": {
+      "bytes": 4058,
+      "sha256": "882aafe8f72ff15421d2da9ff447f71708a2403ff59c412f4011757386821293"
+    },
+    "STATUS.md": {
+      "bytes": 2515,
+      "sha256": "f84f54dd04e9cea8af07a4d033ff68002ae8484d638b7f294f0018842fd52151"
+    }
+  },
+  "generated_at": "2026-10-28",
+  "headline": {
+    "hotels_45star": 3038,
+    "overlap_by_ref": 441,
+    "public_main": 6146,
+    "samples_halls": 2100,
+    "venues": 3549
+  },
+  "package": {
+    "count": 12,
+    "files": [
+      "hotels.public.csv",
+      "venues.public.csv",
+      "cases.csv",
+      "sample-80-venues-20261027.csv",
+      "sample-80-halls-20261027.csv",
+      "batch2-exhibition-centres-20261029.csv",
+      "batch2-exhibition-halls-20261029.csv",
+      "batch3-sports-arts-retail-popup-racing-20261029.csv",
+      "README-samples.md",
+      "STATUS.md",
+      "whitelist-v2.csv",
+      "manifest.json"
+    ]
+  },
+  "rules": {
+    "encoding": "UTF-8 no BOM",
+    "lineending": "LF",
+    "pii": "value-level email/phone on ALL fields; hit => row quarantined",
+    "star": "public hotels = 4-5 star only (3-star 1,246 kept internal)"
+  }
+}

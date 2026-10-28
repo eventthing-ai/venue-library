@@ -1,0 +1,171 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://eventthings.ai/schema/sample-80-venues.schema.json",
+  "title": "EVENTTHING Venue Library — sample-80-venues-20261027.csv",
+  "description": "One record of `data/sample-80-venues-20261027.csv` (80 rows, 15 columns). Empty CSV cells are `null`; numbers are stored as CSV text and MUST be coerced before validation. Encoding: UTF-8 without BOM, LF. See `fields.md`.",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "venue_id": {
+      "title": "venue_id",
+      "x-unit": "—",
+      "description": "Hotel ID (SHL-* / MAR-*); matches `venue_id` in the hall sample. Primary key.",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "name_zh": {
+      "title": "name_zh",
+      "x-unit": "—",
+      "description": "Chinese hotel name.",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "name_en": {
+      "title": "name_en",
+      "x-unit": "—",
+      "description": "English hotel name; blank where the source has none (20 of 60 rows).",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "city": {
+      "title": "city",
+      "x-unit": "—",
+      "description": "City (mixed Chinese/English as recorded).",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "country": {
+      "title": "country",
+      "x-unit": "—",
+      "description": "Country in English.",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "address": {
+      "title": "address",
+      "x-unit": "—",
+      "description": "Address as published.",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "website": {
+      "title": "website",
+      "x-unit": "—",
+      "description": "Official hotel page.",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "star_rating": {
+      "title": "star_rating",
+      "x-unit": "stars",
+      "description": "4 or 5.",
+      "type": [
+        "integer",
+        "null"
+      ],
+      "minimum": 1,
+      "maximum": 5
+    },
+    "brand_group": {
+      "title": "brand_group",
+      "x-unit": "—",
+      "description": "Shangri-La or Marriott in this sample.",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "brand": {
+      "title": "brand",
+      "x-unit": "—",
+      "description": "Brand within the group.",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "opening_year": {
+      "title": "opening_year",
+      "x-unit": "year",
+      "description": "Opening year; blank in all 60 sample rows (the sample does not carry it).",
+      "type": [
+        "integer",
+        "null"
+      ],
+      "minimum": 1800,
+      "maximum": 2100
+    },
+    "lng": {
+      "title": "lng",
+      "x-unit": "degrees",
+      "description": "WGS-84 longitude; blank when not published.",
+      "type": [
+        "number",
+        "null"
+      ],
+      "minimum": -180,
+      "maximum": 180
+    },
+    "lat": {
+      "title": "lat",
+      "x-unit": "degrees",
+      "description": "WGS-84 latitude.",
+      "type": [
+        "number",
+        "null"
+      ],
+      "minimum": -90,
+      "maximum": 90
+    },
+    "updated_at": {
+      "title": "updated_at",
+      "x-unit": "—",
+      "description": "Record update date, YYYY-MM-DD.",
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+    },
+    "license": {
+      "title": "license",
+      "x-unit": "—",
+      "description": "Data licence: `CC-BY-4.0`.",
+      "type": [
+        "string",
+        "null"
+      ]
+    }
+  },
+  "required": [
+    "venue_id",
+    "name_zh",
+    "city",
+    "country",
+    "website",
+    "star_rating",
+    "brand_group",
+    "updated_at",
+    "license"
+  ],
+  "x-primary-key": "venue_id",
+  "x-release": "v1.0.1 (2026-10-29)",
+  "x-row-count": 80,
+  "x-column-count": 15,
+  "x-sha256": "cc77b39af8f2262f695743135d2641a3753c9f98f9bfae60090531446c20ba6c"
+}

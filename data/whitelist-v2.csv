@@ -1,0 +1,114 @@
+file,column,action,note
+hotels-asia.csv,id,keep,
+hotels-asia.csv,slug,keep,
+hotels-asia.csv,name_zh,keep,
+hotels-asia.csv,name_en,keep,
+hotels-asia.csv,venue_type,keep,
+hotels-asia.csv,brand_group,keep,
+hotels-asia.csv,brand,keep,
+hotels-asia.csv,star_rating,keep,
+hotels-asia.csv,country,keep,
+hotels-asia.csv,country_zh,keep,
+hotels-asia.csv,city,keep,
+hotels-asia.csv,city_zh,keep,
+hotels-asia.csv,city_source,strip,internal city source
+hotels-asia.csv,address_en,keep,
+hotels-asia.csv,postal_code,strip,deferred; not included in the first release
+hotels-asia.csv,lng,keep,
+hotels-asia.csv,lat,keep,
+hotels-asia.csv,geo_precision,keep,
+hotels-asia.csv,website,keep,
+hotels-asia.csv,rooms_count,strip,nearly empty (56 rows) and duplicates meeting_rooms_count
+hotels-asia.csv,verification,strip,internal verification flag
+hotels-asia.csv,source_type,strip,internal source grade
+hotels-asia.csv,source_ref,strip,internal source link (stripped after source_url is derived)
+hotels-asia.csv,data_origin,strip,internal source
+hotels-asia.csv,updated_at,keep,
+hotels-asia.csv,license,keep,
+hotels-asia.csv,venue_id_ref,strip,internal mapping
+hotels-asia.csv,meeting_rooms_count,strip,five meeting-space fields (paid layer)
+hotels-asia.csv,meeting_area_largest_sqm,strip,five meeting-space fields (paid layer)
+hotels-asia.csv,meeting_area_total_sqm,strip,five meeting-space fields (paid layer)
+hotels-asia.csv,capacity_conference_max,strip,five meeting-space fields (paid layer)
+hotels-asia.csv,capacity_banquet_max,strip,five meeting-space fields (paid layer)
+hotels-asia.csv,meeting_data_level,strip,internal data grade
+hotels-asia.csv,opening_year,keep,
+hotels-asia.csv,renovation_year,strip,nearly empty (4 rows); missing on both sides
+hotels-asia.csv,meeting_source,strip,internal meeting-space source
+hotels-asia.csv,name_source,strip,internal name source
+hotels-asia.csv,parse_note,strip,internal parsing note
+hotels-asia.csv,contact_email,strip,contact details (not published)
+hotels-asia.csv,phone_frontdesk,strip,contact details (not published)
+hotels-asia.csv,phone_reservations,strip,contact details (not published)
+hotels-asia.csv,coord_source,strip,internal coordinate source
+hotels-asia.csv,coord_grade,strip,internal coordinate grade
+venues.csv,master_id,keep,
+venues.csv,name_zh,keep,
+venues.csv,name_en,keep,
+venues.csv,category,keep,
+venues.csv,sub_type,keep,
+venues.csv,country,keep,
+venues.csv,province,keep,
+venues.csv,city,keep,
+venues.csv,district,keep,
+venues.csv,address,keep,
+venues.csv,area_band,strip,withheld: internal tier field (first release)
+venues.csv,rooms,strip,meeting-room count (paid layer)
+venues.csv,points,strip,withheld: point-level records from commercial sources
+venues.csv,case_count,strip,case count (paid layer)
+venues.csv,has_3d,strip,product field
+venues.csv,phone_status,strip,contact status (not published)
+venues.csv,source_url,keep,
+venues.csv,lng,keep,
+venues.csv,lat,keep,
+venues.csv,coord_source,strip,internal coordinate source; commercial venues carry an additional BD-09 gate
+venues.csv,coord_grade,strip,internal coordinate grade
+venues.csv,coord_check_m,strip,internal coordinate delta check
+hotels-asia.csv,status,keep,kept: status trio added in v3
+hotels-asia.csv,status_source,keep,kept: status trio added in v3
+hotels-asia.csv,status_asof,keep,kept: status trio added in v3
+venues.csv,status,keep,kept: status trio added in v3
+venues.csv,status_source,keep,kept: status trio added in v3
+venues.csv,status_asof,keep,kept: status trio added in v3
+venues.csv,hotel_id_ref,keep,kept: lets readers reproduce the 448-venue de-duplication
+batch2-exhibition-centres-20261029.csv,venue_id,keep,published as-is (public batch column)
+batch2-exhibition-centres-20261029.csv,name_zh,keep,published as-is (public batch column)
+batch2-exhibition-centres-20261029.csv,country,keep,published as-is (public batch column)
+batch2-exhibition-centres-20261029.csv,city,keep,published as-is (public batch column)
+batch2-exhibition-centres-20261029.csv,address,keep,published as-is (public batch column)
+batch2-exhibition-centres-20261029.csv,website,keep,published as-is (public batch column)
+batch2-exhibition-centres-20261029.csv,halls_count,keep,published as-is (public batch column)
+batch2-exhibition-centres-20261029.csv,halls_area_sqm,keep,published as-is (public batch column)
+batch2-exhibition-centres-20261029.csv,status,keep,published as-is (public batch column)
+batch2-exhibition-centres-20261029.csv,status_note,keep,published as-is (public batch column)
+batch2-exhibition-centres-20261029.csv,intro_zh,keep,published as-is (public batch column)
+batch2-exhibition-centres-20261029.csv,intro_en,keep,published as-is (public batch column)
+batch2-exhibition-centres-20261029.csv,source,keep,published as-is (public batch column)
+batch2-exhibition-halls-20261029.csv,hall_uid,keep,published as-is (public batch column)
+batch2-exhibition-halls-20261029.csv,venue_id,keep,published as-is (public batch column)
+batch2-exhibition-halls-20261029.csv,venue_name,keep,published as-is (public batch column)
+batch2-exhibition-halls-20261029.csv,hall_id,keep,published as-is (public batch column)
+batch2-exhibition-halls-20261029.csv,hall_name,keep,published as-is (public batch column)
+batch2-exhibition-halls-20261029.csv,area_sqm,keep,published as-is (public batch column)
+batch2-exhibition-halls-20261029.csv,length_m,keep,published as-is (public batch column)
+batch2-exhibition-halls-20261029.csv,width_m,keep,published as-is (public batch column)
+batch2-exhibition-halls-20261029.csv,height_m,keep,published as-is (public batch column)
+batch2-exhibition-halls-20261029.csv,floor_load_t_sqm,keep,published as-is (public batch column)
+batch2-exhibition-halls-20261029.csv,pillar_free,keep,published as-is (public batch column)
+batch2-exhibition-halls-20261029.csv,source_url,keep,published as-is (public batch column)
+batch2-exhibition-halls-20261029.csv,note,keep,published as-is (public batch column)
+batch3-sports-arts-retail-popup-racing-20261029.csv,group,keep,published as-is (public batch column)
+batch3-sports-arts-retail-popup-racing-20261029.csv,venue_id,keep,published as-is (public batch column)
+batch3-sports-arts-retail-popup-racing-20261029.csv,name_zh,keep,published as-is (public batch column)
+batch3-sports-arts-retail-popup-racing-20261029.csv,city,keep,published as-is (public batch column)
+batch3-sports-arts-retail-popup-racing-20261029.csv,country,keep,published as-is (public batch column)
+batch3-sports-arts-retail-popup-racing-20261029.csv,address,keep,published as-is (public batch column)
+batch3-sports-arts-retail-popup-racing-20261029.csv,website,keep,published as-is (public batch column)
+batch3-sports-arts-retail-popup-racing-20261029.csv,area_text,keep,published as-is (public batch column)
+batch3-sports-arts-retail-popup-racing-20261029.csv,capacity_text,keep,published as-is (public batch column)
+batch3-sports-arts-retail-popup-racing-20261029.csv,open_year,keep,published as-is (public batch column)
+batch3-sports-arts-retail-popup-racing-20261029.csv,status,keep,published as-is (public batch column)
+batch3-sports-arts-retail-popup-racing-20261029.csv,status_note,keep,published as-is (public batch column)
+batch3-sports-arts-retail-popup-racing-20261029.csv,intro_zh,keep,published as-is (public batch column)
+batch3-sports-arts-retail-popup-racing-20261029.csv,intro_en,keep,published as-is (public batch column)
+batch3-sports-arts-retail-popup-racing-20261029.csv,source,keep,published as-is (public batch column)

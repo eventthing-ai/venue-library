@@ -1,0 +1,231 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://eventthings.ai/schema/sample-80-halls.schema.json",
+  "title": "EVENTTHING Venue Library — sample-80-halls-20261027.csv",
+  "description": "One record of `data/sample-80-halls-20261027.csv` (2,100 rows, 21 columns). Empty CSV cells are `null`; numbers are stored as CSV text and MUST be coerced before validation. Encoding: UTF-8 without BOM, LF. See `fields.md`.",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "venue_id": {
+      "title": "venue_id",
+      "x-unit": "—",
+      "description": "Hotel ID this hall belongs to (SHL-* / MAR-*); joins `sample-80-venues-20261027.csv`.",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "venue_name": {
+      "title": "venue_name",
+      "x-unit": "—",
+      "description": "Hotel name as recorded in the source.",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "city": {
+      "title": "city",
+      "x-unit": "—",
+      "description": "City of the hotel.",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "country": {
+      "title": "country",
+      "x-unit": "—",
+      "description": "Country of the hotel (English).",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "room_id": {
+      "title": "room_id",
+      "x-unit": "—",
+      "description": "Unique hall / meeting-space ID. Primary key.",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "room_name": {
+      "title": "room_name",
+      "x-unit": "—",
+      "description": "Hall name as published (Chinese or English as in the source).",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "area_sqm": {
+      "title": "area_sqm",
+      "x-unit": "m²",
+      "description": "**Published area** of the hall in m². Usually the net exhibition area; for multi-storey halls, the sum of the floors. Blank when not published; never computed from length × width.",
+      "type": [
+        "number",
+        "null"
+      ],
+      "minimum": 0
+    },
+    "length_m": {
+      "title": "length_m",
+      "x-unit": "m",
+      "description": "Length in metres of the hall's **building outline** (wall to wall), which includes walls, columns, plant rooms and circulation; blank when not published; never used to derive `area_sqm`.",
+      "type": [
+        "number",
+        "null"
+      ],
+      "minimum": 0
+    },
+    "width_m": {
+      "title": "width_m",
+      "x-unit": "m",
+      "description": "Width in metres of the hall's **building outline**; same rule as `length_m`.",
+      "type": [
+        "number",
+        "null"
+      ],
+      "minimum": 0
+    },
+    "height_m": {
+      "title": "height_m",
+      "x-unit": "m",
+      "description": "Ceiling height in metres; blank when not published.",
+      "type": [
+        "number",
+        "null"
+      ],
+      "minimum": 0
+    },
+    "capacity_banquet_pax": {
+      "title": "capacity_banquet_pax",
+      "x-unit": "persons",
+      "description": "Banquet (round-table) capacity as published.",
+      "type": [
+        "integer",
+        "null"
+      ],
+      "minimum": 0
+    },
+    "capacity_theater_pax": {
+      "title": "capacity_theater_pax",
+      "x-unit": "persons",
+      "description": "Theatre-style capacity as published.",
+      "type": [
+        "integer",
+        "null"
+      ],
+      "minimum": 0
+    },
+    "capacity_classroom_pax": {
+      "title": "capacity_classroom_pax",
+      "x-unit": "persons",
+      "description": "Classroom-style capacity as published.",
+      "type": [
+        "integer",
+        "null"
+      ],
+      "minimum": 0
+    },
+    "capacity_reception_pax": {
+      "title": "capacity_reception_pax",
+      "x-unit": "persons",
+      "description": "Standing reception capacity as published.",
+      "type": [
+        "integer",
+        "null"
+      ],
+      "minimum": 0
+    },
+    "capacity_max_pax": {
+      "title": "capacity_max_pax",
+      "x-unit": "persons",
+      "description": "Maximum capacity where the source gives only one number without a layout; not additive with the four layout capacities.",
+      "type": [
+        "integer",
+        "null"
+      ],
+      "minimum": 0
+    },
+    "source_url": {
+      "title": "source_url",
+      "x-unit": "—",
+      "description": "Source page for this hotel's hall data; every row carries one.",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "data_level": {
+      "title": "data_level",
+      "x-unit": "—",
+      "description": "`official` = parsed from the official site. Records flagged `suspect` are excluded from this sample.",
+      "type": [
+        "string",
+        "null"
+      ],
+      "enum": [
+        null
+      ]
+    },
+    "dims_qa": {
+      "title": "dims_qa",
+      "x-unit": "—",
+      "description": "Dimension QA note. Set when published area and length × width differ by more than 15%, so the two numbers are kept side by side. This is a caliber difference, not an error: the area is the published hall area (net exhibition area, or the sum of floors), while length × width is the building outline including walls, columns, plant rooms and circulation. Figures are never adjusted.",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "status": {
+      "title": "status",
+      "x-unit": "—",
+      "description": "Status of the hotel the hall belongs to (`open` for every row in this sample). See “Status model”.",
+      "type": [
+        "string",
+        "null"
+      ],
+      "enum": [
+        null
+      ]
+    },
+    "status_asof": {
+      "title": "status_asof",
+      "x-unit": "—",
+      "description": "Date of the status evidence, YYYY-MM-DD.",
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+    },
+    "updated_at": {
+      "title": "updated_at",
+      "x-unit": "—",
+      "description": "Record update date, YYYY-MM-DD.",
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+    }
+  },
+  "required": [
+    "venue_id",
+    "room_id",
+    "source_url",
+    "data_level",
+    "status",
+    "status_asof"
+  ],
+  "x-primary-key": "room_id",
+  "x-release": "v1.0.1 (2026-10-29)",
+  "x-row-count": 2100,
+  "x-column-count": 21,
+  "x-sha256": "50011f2cd3373d3ae38a69685d11e5bb72e845c0aaca922dc7c5aa85cbdbbf07"
+}

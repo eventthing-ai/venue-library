@@ -1,0 +1,144 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://eventthings.ai/schema/batch2-exhibition-halls.schema.json",
+  "title": "EVENTTHING Venue Library — batch2-exhibition-halls-20261029.csv",
+  "description": "One record of `data/batch2-exhibition-halls-20261029.csv` (797 rows, 13 columns). Empty CSV cells are `null`; numbers are stored as CSV text and MUST be coerced before validation. Encoding: UTF-8 without BOM, LF. See `fields.md`.",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "hall_uid": {
+      "title": "hall_uid",
+      "x-unit": "—",
+      "description": "Composite ID `venue_id:hall_id`, unique across the file. Primary key.",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "venue_id": {
+      "title": "venue_id",
+      "x-unit": "—",
+      "description": "Venue ID; joins to `batch2-exhibition-centres-20261029.csv`.",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "venue_name": {
+      "title": "venue_name",
+      "x-unit": "—",
+      "description": "Venue name copied from the venue record.",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "hall_id": {
+      "title": "hall_id",
+      "x-unit": "—",
+      "description": "Hall code as published; unique only within a venue.",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "hall_name": {
+      "title": "hall_name",
+      "x-unit": "—",
+      "description": "Hall name as published.",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "area_sqm": {
+      "title": "area_sqm",
+      "x-unit": "m²",
+      "description": "Published hall area in square metres; blank when not published (165 of 797 rows).",
+      "type": [
+        "number",
+        "null"
+      ],
+      "minimum": 0
+    },
+    "length_m": {
+      "title": "length_m",
+      "x-unit": "m",
+      "description": "Published hall length in metres; blank when not published.",
+      "type": [
+        "number",
+        "null"
+      ],
+      "minimum": 0
+    },
+    "width_m": {
+      "title": "width_m",
+      "x-unit": "m",
+      "description": "Published hall width in metres; blank when not published.",
+      "type": [
+        "number",
+        "null"
+      ],
+      "minimum": 0
+    },
+    "height_m": {
+      "title": "height_m",
+      "x-unit": "m",
+      "description": "Published ceiling height in metres; blank when not published.",
+      "type": [
+        "number",
+        "null"
+      ],
+      "minimum": 0
+    },
+    "floor_load_t_sqm": {
+      "title": "floor_load_t_sqm",
+      "x-unit": "t/m²",
+      "description": "Published floor load in tonnes per square metre; blank when not published.",
+      "type": [
+        "number",
+        "null"
+      ],
+      "minimum": 0
+    },
+    "pillar_free": {
+      "title": "pillar_free",
+      "x-unit": "—",
+      "description": "Column-free status as published (`是`, `否`, `无柱`, `Y`); blank when not stated (605 of 797 rows).",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "source_url": {
+      "title": "source_url",
+      "x-unit": "—",
+      "description": "Page the hall record came from.",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "note": {
+      "title": "note",
+      "x-unit": "—",
+      "description": "Editorial note on the record; blank when none.",
+      "type": [
+        "string",
+        "null"
+      ]
+    }
+  },
+  "required": [
+    "hall_uid",
+    "venue_id",
+    "hall_id",
+    "hall_name",
+    "source_url"
+  ],
+  "x-primary-key": "hall_uid",
+  "x-release": "v1.0.1 (2026-10-29)",
+  "x-row-count": 797,
+  "x-column-count": 13,
+  "x-sha256": "3982f66b4fd21c1d1e8ae9f18b15642b82a24bb36ad61595dd563b23d04047c7"
+}

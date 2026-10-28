@@ -1,0 +1,59 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://eventthings.ai/schema/whitelist-v2.schema.json",
+  "title": "EVENTTHING Venue Library — whitelist-v2.csv",
+  "description": "One record of `data/whitelist-v2.csv` (113 rows, 4 columns). Empty CSV cells are `null`; numbers are stored as CSV text and MUST be coerced before validation. Encoding: UTF-8 without BOM, LF. See `fields.md`.",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "file": {
+      "title": "file",
+      "x-unit": "—",
+      "description": "Source table the rule applies to: an internal master name (`hotels-asia.csv`, `venues.csv`) or a public batch file name.",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "column": {
+      "title": "column",
+      "x-unit": "—",
+      "description": "Source column name the rule applies to.",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "action": {
+      "title": "action",
+      "x-unit": "—",
+      "description": "`keep` = published in the public file; `strip` = withheld.",
+      "type": [
+        "string",
+        "null"
+      ],
+      "enum": [
+        null
+      ]
+    },
+    "note": {
+      "title": "note",
+      "x-unit": "—",
+      "description": "Why the column is kept or withheld (internal editorial note, published for transparency).",
+      "type": [
+        "string",
+        "null"
+      ]
+    }
+  },
+  "required": [
+    "file",
+    "column",
+    "action"
+  ],
+  "x-primary-key": "column",
+  "x-release": "v1.0.1 (2026-10-29)",
+  "x-row-count": 113,
+  "x-column-count": 4,
+  "x-sha256": "2018015671eeda3ce1ec19778736f7e9fd52d5cc43c3c0b069d9cfb5a76c6b37"
+}
