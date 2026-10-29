@@ -46,6 +46,25 @@ The 29 October release is published in three batches. Together they cover the fu
 
 Hotels beyond the 80 samples, and every other venue outside the counts above, are published as **name-only** entries until their full record is verified. Hall-level detail ships for 80 hotels (2,100 halls) and 104 exhibition centres (797 halls); every row carries a source URL.
 
+## Browse by category — the same eight views as the web version
+
+The library is published as one set with eight views. Every view is a filter over the same CSV files; the counts below are for this release.
+
+| View | Records | What it covers | Files |
+|---|---:|---|---|
+| **Hotel** | 3,038 | 4–5 star hotels across Asia. 2,643 carry an official English name; the remaining 395 are name-pending and are listed in the data only under their local name | `data/hotels.public.csv` |
+| **All Venue** | 3,549 | The China venue directory — one row per venue, every category | `data/venues.public.csv` |
+| **Shop Mall** | 2,557 | Shopping malls 2,463 (venue directory) + 94 retail formats | `data/venues.public.csv`, `data/batch3-sports-arts-retail-popup-racing-20261029.csv` |
+| **Art Museum** | 127 | Art museums and art spaces 124 + performing-arts venues 3 | `data/batch3-…csv`, `data/venues.public.csv` |
+| **Exhibition** | 933 | 104 exhibition centres + 797 halls + 32 venue-level rows | `data/batch2-…csv`, `data/venues.public.csv` |
+| **Sports** | 338 | 273 sports venues + 14 racing circuits + 51 venue-level rows | `data/batch3-…csv`, `data/venues.public.csv` |
+| **POP-UP** | 54 | Pop-up spaces — malls, streets and cultural districts used for pop-ups | `data/batch3-…csv` |
+| **CASES** | 1,309 | Case index, up to 3 cases per venue, link-only | `data/cases.csv` |
+
+The views overlap by design: **All Venue** contains every venue row (including the 452 hotel-category rows), and Shop Mall / Art Museum / Exhibition / Sports / POP-UP are subsets of it. Counts are per view and are not meant to add up.
+
+The web version of the library presents the same eight views, and its Cases view also lists 3,492 pop-up gallery records from 10,000POP as a connected index. Those gallery records are **not** part of this CSV release; only `data/cases.csv` ships here.
+
 ## What's inside
 
 | File | Rows × columns | What it is |

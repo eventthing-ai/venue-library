@@ -53,8 +53,8 @@ this file — by design. Business enquiries go through https://eventthing.ai/con
 
 Shortlist in this order — it keeps the candidate set small before you pay for detail:
 
-1. `data/venues.public.csv` — filter `country = 中国`, `city = 上海`, then `category` / `sub_type`
-   (`会展`, `酒店`, `商业`, `体育`, `特殊景点场地`).
+1. `data/venues.public.csv` — filter `country = 中国` (China), `city = 上海` (Shanghai), then `category` / `sub_type`
+   (`会展` exhibition, `酒店` hotel, `商业` commercial, `体育` sports, `特殊景点场地` special-attraction venue).
 2. `data/hotels.public.csv` — filter `country`, `city`, `brand_group`, `star_rating`; match on `id` / `slug`.
    Hall-level fields (meeting rooms, largest space, capacities) are not in the open hotel CSV; they are
    served through the API.
