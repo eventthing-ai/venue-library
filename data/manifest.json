@@ -88,7 +88,7 @@
       "sha256": "3982f66b4fd21c1d1e8ae9f18b15642b82a24bb36ad61595dd563b23d04047c7"
     },
     "batch3-sports-arts-retail-popup-racing-20261029.csv": {
-      "bytes": 1663754,
+      "bytes": 1663136,
       "cols": 15,
       "columns": [
         "group",
@@ -108,7 +108,7 @@
         "source"
       ],
       "rows": 559,
-      "sha256": "a585f1bdecb4aebaf4f870fd0f0b9854e7a68e4baec31a9229978130e2d15024"
+      "sha256": "a0ba3317df283ac1e26b0734b05934d652ddad0b924004347e4cbf6187b6b1a4"
     },
     "cases.csv": {
       "bytes": 333148,
