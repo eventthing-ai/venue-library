@@ -6,7 +6,7 @@ contain to be comparable.
 
 **Everything in this example is fictional.** The event, the company, the venue shortlist and the numbers
 are made up. There are no real contact details, no real email addresses and no real prices anywhere in
-this file — by design. Business enquiries go through https://eventthing.ai/contact .
+this file — by design. Business enquiries go through the contact form on https://eventthing.ai .
 
 ---
 
@@ -99,4 +99,4 @@ The point of the dataset is comparability, so an answer is only useful if it use
 - No promise of availability. A dataset row means "this venue exists and publishes these fields",
   not "this venue is free on your date".
 
-For a real enquiry, use https://eventthing.ai/contact .
+For a real enquiry, use https://eventthing.ai .
