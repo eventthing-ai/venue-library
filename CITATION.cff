@@ -12,11 +12,12 @@ authors:
   - name: "EVENTTHING"
     alias: "EVENTTHING Venue Library"
     affiliation: "EVENTTHING, Hong Kong"
-    website: "https://venue.eventthing.ai"
+    website: "https://eventthing.ai/venue/"
   - name: "onsiteclub.com"
     affiliation: "EVENTTHING, Hong Kong"
     website: "https://onsiteclub.com"
 version: "1.0.1"
+doi: 10.5281/zenodo.23765999
 date-released: "2026-10-29"
 license:
   - "CC-BY-4.0"
