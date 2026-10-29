@@ -45,6 +45,71 @@
     }
   },
   "datasets": {
+    "batch2-exhibition-centres-20261029.csv": {
+      "bytes": 267232,
+      "cols": 13,
+      "columns": [
+        "venue_id",
+        "name_zh",
+        "country",
+        "city",
+        "address",
+        "website",
+        "halls_count",
+        "halls_area_sqm",
+        "status",
+        "status_note",
+        "intro_zh",
+        "intro_en",
+        "source"
+      ],
+      "rows": 104,
+      "sha256": "20ce9dff68e3a5905b45bc8ae4d9f51edc7b2e6f229c6667677dea913c63a98c"
+    },
+    "batch2-exhibition-halls-20261029.csv": {
+      "bytes": 204484,
+      "cols": 13,
+      "columns": [
+        "hall_uid",
+        "venue_id",
+        "venue_name",
+        "hall_id",
+        "hall_name",
+        "area_sqm",
+        "length_m",
+        "width_m",
+        "height_m",
+        "floor_load_t_sqm",
+        "pillar_free",
+        "source_url",
+        "note"
+      ],
+      "rows": 797,
+      "sha256": "3982f66b4fd21c1d1e8ae9f18b15642b82a24bb36ad61595dd563b23d04047c7"
+    },
+    "batch3-sports-arts-retail-popup-racing-20261029.csv": {
+      "bytes": 1663754,
+      "cols": 15,
+      "columns": [
+        "group",
+        "venue_id",
+        "name_zh",
+        "city",
+        "country",
+        "address",
+        "website",
+        "area_text",
+        "capacity_text",
+        "open_year",
+        "status",
+        "status_note",
+        "intro_zh",
+        "intro_en",
+        "source"
+      ],
+      "rows": 559,
+      "sha256": "a585f1bdecb4aebaf4f870fd0f0b9854e7a68e4baec31a9229978130e2d15024"
+    },
     "cases.csv": {
       "bytes": 333148,
       "cols": 14,
@@ -108,6 +173,18 @@
       "sha256": "b738e646c17ac497e2cd436c9c2a279aae674627c75b343a82da564420c9e94c",
       "star3_internal": 1246
     },
+    "sample-80-halls-20261027.csv": {
+      "bytes": 476424,
+      "cols": 21,
+      "rows": 2100,
+      "sha256": "50011f2cd3373d3ae38a69685d11e5bb72e845c0aaca922dc7c5aa85cbdbbf07"
+    },
+    "sample-80-venues-20261027.csv": {
+      "bytes": 18871,
+      "cols": 15,
+      "rows": 80,
+      "sha256": "cc77b39af8f2262f695743135d2641a3753c9f98f9bfae60090531446c20ba6c"
+    },
     "venues.public.csv": {
       "bytes": 598456,
       "cols": 17,
@@ -145,89 +222,12 @@
       "kind": "meta",
       "rows": 113,
       "sha256": "2018015671eeda3ce1ec19778736f7e9fd52d5cc43c3c0b069d9cfb5a76c6b37"
-    },
-    "sample-80-halls-20261027.csv": {
-      "bytes": 476424,
-      "cols": 21,
-      "rows": 2100,
-      "sha256": "50011f2cd3373d3ae38a69685d11e5bb72e845c0aaca922dc7c5aa85cbdbbf07"
-    },
-    "sample-80-venues-20261027.csv": {
-      "bytes": 18871,
-      "cols": 15,
-      "rows": 80,
-      "sha256": "cc77b39af8f2262f695743135d2641a3753c9f98f9bfae60090531446c20ba6c"
-    },
-    "batch3-sports-arts-retail-popup-racing-20261029.csv": {
-      "bytes": 1663754,
-      "cols": 15,
-      "columns": [
-        "group",
-        "venue_id",
-        "name_zh",
-        "city",
-        "country",
-        "address",
-        "website",
-        "area_text",
-        "capacity_text",
-        "open_year",
-        "status",
-        "status_note",
-        "intro_zh",
-        "intro_en",
-        "source"
-      ],
-      "rows": 559,
-      "sha256": "a585f1bdecb4aebaf4f870fd0f0b9854e7a68e4baec31a9229978130e2d15024"
-    },
-    "batch2-exhibition-centres-20261029.csv": {
-      "bytes": 267232,
-      "cols": 13,
-      "columns": [
-        "venue_id",
-        "name_zh",
-        "country",
-        "city",
-        "address",
-        "website",
-        "halls_count",
-        "halls_area_sqm",
-        "status",
-        "status_note",
-        "intro_zh",
-        "intro_en",
-        "source"
-      ],
-      "rows": 104,
-      "sha256": "20ce9dff68e3a5905b45bc8ae4d9f51edc7b2e6f229c6667677dea913c63a98c"
-    },
-    "batch2-exhibition-halls-20261029.csv": {
-      "bytes": 204484,
-      "cols": 13,
-      "columns": [
-        "hall_uid",
-        "venue_id",
-        "venue_name",
-        "hall_id",
-        "hall_name",
-        "area_sqm",
-        "length_m",
-        "width_m",
-        "height_m",
-        "floor_load_t_sqm",
-        "pillar_free",
-        "source_url",
-        "note"
-      ],
-      "rows": 797,
-      "sha256": "3982f66b4fd21c1d1e8ae9f18b15642b82a24bb36ad61595dd563b23d04047c7"
     }
   },
   "docs": {
     "README-samples.md": {
-      "bytes": 4058,
-      "sha256": "882aafe8f72ff15421d2da9ff447f71708a2403ff59c412f4011757386821293"
+      "bytes": 4051,
+      "sha256": "214b63abcb61f73e3fd5a6cb767b2d5c007b3636520ddafacca3b129941d6077"
     },
     "STATUS.md": {
       "bytes": 2515,
