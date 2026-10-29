@@ -8,6 +8,8 @@ Built for multilingual teams and FMCG marketing — not a tech-product database.
 
 **Current public release: `v1.0.1` (29 October 2026) — public directory layer: 3,549 China venues and 3,038 Asia 4–5 star hotels, plus two sample files in four depth groups.**
 
+**DOI:** [10.5281/zenodo.23765999](https://doi.org/10.5281/zenodo.23765999) · **Hugging Face:** [datasets/eventthing/venue-library](https://huggingface.co/datasets/eventthing/venue-library) · **Kaggle:** [datasets/eventthing/venue-library](https://www.kaggle.com/datasets/eventthing/venue-library)
+
 ---
 
 ## What this is
